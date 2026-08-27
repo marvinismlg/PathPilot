@@ -45,7 +45,7 @@ export default function TopBar() {
           </Link>
 
           <Link
-            href="/courses"
+            href="/academic_database"
             className="text-[#0000CC] underline underline-offset-2"
           >
             Academic Database
