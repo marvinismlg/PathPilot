@@ -195,7 +195,7 @@ Built from firsthand experience with the uncertainty of choosing a major and car
 
           <div className="mt-9 flex flex-col gap-3 sm:flex-row">
             <Link
-              href="/about"
+              href="/features"
               className="inline-flex w-fit items-center border-2 border-[#111111] bg-[#F4C542] px-5 py-3 text-sm font-bold shadow-[3px_3px_0_#111111]"
             >
               More about us
