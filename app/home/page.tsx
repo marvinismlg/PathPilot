@@ -38,7 +38,7 @@ export default function HomePage() {
               </Link>
 
               <a
-                href="#how-it-works"
+                href="/features"
                 className="inline-flex items-center justify-center border border-[#8D8D8D] bg-white px-6 py-3 text-[15px] font-bold text-[#0000CC] underline underline-offset-2"
               >
                 See Career Angles
@@ -239,11 +239,8 @@ Built from firsthand experience with the uncertainty of choosing a major and car
           </div>
 
           <nav className="flex flex-wrap gap-x-5 gap-y-2 text-sm font-bold">
-            <Link href="/#about-founder" className="text-[#0000CC] underline">
-              About
-            </Link>
 
-            <Link href="/#features" className="text-[#0000CC] underline">
+            <Link href="/features" className="text-[#0000CC] underline">
               Features
             </Link>
             <Link href="/quiz" className="text-[#0000CC] underline">
