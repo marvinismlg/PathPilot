@@ -1,0 +1,383 @@
+# Unique Courses
+
+**Total unique courses:** 379
+
+* data_analytics_and_is 
+* data_management_database_systems 
+* data_visualization 
+* aquatic_ecology
+* acting_1
+* acting_2
+* adolescent_development
+* adult_psychology
+* advertising_copywriting
+* advertising_management
+* african_american_history_through_film
+* algorithm_analysis
+* american_politics
+* animation_and_motion_graphics
+* applied_music
+* art_of_reading
+* artificial_intelligence_in_business
+* auditing
+* basic_digital_photography
+* biology_1
+* biology_1_lab
+* biology_lab
+* biopsychology
+* business_intelligence_foundations
+* business_journalism
+* business_statistics
+* calculus_1
+* calculus_2
+* cell_biology
+* child_development
+* childhood_psychopathology
+* church_and_empire
+* cognitive_psychology
+* color_photography
+* communication_research
+* comprehensive_classroom_management
+* computer_aided_simulation
+* consumer_behavior
+* copy_editing
+* costume_design
+* cybersecurity_digital_forensics
+* differential_equations
+* digital_circuits_and_systems
+* digital_tools
+* directing_1
+* discovering_information_in_data
+* discrete_structures
+* dynamics
+* economics_of_race_inequality
+* educational_psychology
+* electronics
+* electronics_lab
+* encountering_the_past
+* engineering_and_society
+* engineering_systems_analysis
+* english_100
+* environmental_biology
+* environmental_ethics
+* environmental_law_and_policy
+* environmental_law_policy
+* environmental_science_and_stability
+* environmental_science_and_sustainability
+* experimental_methods
+* experimentals
+* field_experience_in_math_education
+* financial_accounting
+* financial_management
+* financial_modeling
+* fluid_mechanics
+* forensic_psychology
+* foundations_of_biology
+* french_104
+* general_chemistry_1
+* general_genetics
+* general_physics
+* german
+* german_104
+* global_environment
+* global_environment_business
+* global_environment_politics
+* global_journalism_and_media
+* graphics_1
+* heat_and_mass_transfer
+* history_of_civil_human_rights
+* history_seminar
+* human_anatomy_and_physiology
+* human_neuropsychology
+* industrial_organizational_psychology
+* integrated_marketing_communication
+* integrated_science
+* intermediate_macro
+* international_business_law
+* international_communication
+* interpersonal_behavior
+* intro_to_book_publishing
+* intro_to_counseling
+* intro_to_education
+* intro_to_engineering
+* intro_to_forensics
+* intro_to_geographic_information_systems
+* intro_to_integral_ecology
+* intro_to_programming
+* intro_to_psychology
+* intro_to_public_history
+* intro_to_python
+* intro_to_sociology
+* intro_to_theater_design
+* introduction_to_linux
+* law_and_social_justice
+* law_in_literature
+* linear_algebra
+* linear_circuts_analysis
+* location_analytics
+* macroeconomics
+* management
+* managerial_accounting
+* managing_stress_and_tension
+* market_research_methods
+* marketing
+* materials
+* mathematics_of_sustainability
+* mechanical_design
+* media_and_the_political_process
+* media_culture_and_society
+* media_ethics
+* media_writing
+* microbiology_lab
+* microeconomics
+* music_fundamentals
+* music_history
+* musicianship
+* news_reporting_and_writing
+* nursing_care_for_adults
+* nursing_professional_development
+* nursing_professional_development_catholic_tradition
+* object_oriented_engineering_design
+* object_oriented_software_design
+* operations_management
+* organic_chemistry
+* organic_chemistry_lab
+* physics_1
+* physics_lab
+* politics
+* politics_1
+* probability_and_statistics
+* professional_writing
+* programming_languages
+* programming_tools_for_engineering_and_science
+* project_management_fundamentals
+* psychology_1
+* psychopathology
+* public_speaking
+* python_for_data_work
+* quantitative_chemical_analysis
+* real_estate
+* real_estate_finance_investment
+* real_estate_modeling_and_valuation
+* recording_studio
+* research_methods_1
+* scene_design
+* selling_concepts_strategies
+* signals_and_systems
+* social_media_for_social_justice
+* social_power_and_change
+* social_psychology
+* software_engineering
+* solid_mechanics
+* spanish_104
+* special_topics_in_art_history
+* special_topics_in_clinical_counseling
+* special_topics_in_communications
+* sports_writing
+* sql
+* stagecraft
+* statics
+* statistics
+* statistics_for_decision_making
+* strategic_management
+* structure_of_music_theory
+* supply_chain_management
+* survey_of_finance
+* system_design_and_analysis
+* the_art_of_listening
+* the_historians_craft
+* thermodynamics
+* travel_reporting
+* upper_level_language
+* western_art_renaissance_to_contemporary
+* writing_100
+* writing_about_health
+* writing_about_science
+* writing_and_editing_for_publication
+digital_marketing
+content_marketing
+sports_marketing
+customer_analytics_and_research
+marketing_strategy
+new_product_development
+customer_experience_management
+personal_selling_and_sales_management
+business_intelligence_and_data_mining
+enterprise_systems
+statistical_computing
+intermediate_statistical_methods
+applied_multivariate_analysis
+statistical_learning_and_big_data
+survival_analysis_and_generalized_linear_models
+experimental_design
+stochastic_processes
+operations_research
+object_oriented_data_structures
+computer_systems
+operating_systems
+machine_learning
+big_data
+web_development
+mobile_app_development
+human_computer_interaction
+software_testing
+database_management_systems
+computer_architecture
+computer_networking
+computer_graphics
+theory_of_computation
+cybersecurity
+distributed_systems
+embedded_systems
+calculus_3
+discrete_methods
+analysis_1
+analysis_2
+complex_analysis
+numerical_analysis
+computational_mathematics
+geometry
+combinatorics
+ring_theory
+group_theory
+advanced_linear_algebra
+number_theory
+elements_of_statistical_theory_distributions
+elements_of_statistical_theory_inference
+statistical_sports_modeling
+mathematical_economics
+econometrics
+game_theory
+applied_economic_forecasting
+intermediate_microeconomics
+economics_international_study_tour
+junior_financial_analyst
+sellinger_applied_portfolio_fund
+cost_accounting
+taxation_of_business_entities
+accounting_information_systems
+managing_talent
+managing_teams
+management_consulting_practicum
+organizational_behavior
+introduction_to_communication_disorders
+hearing_science_and_acoustics
+phonetics
+observation_methods_in_speech_language_pathology_audiology
+speech_and_language_development
+anatomy_and_physiology_speech_and_voice
+articulation_and_phonological_disorders
+clinical_audiology
+speech_science
+neurology_for_communication_sciences_and_disorders
+aural_habilitation
+child_and_adolescent_communication_disorders
+neurological_bases_of_adult_communication_disorders
+biomechanics_of_sports_and_exercise
+physics_of_medicine_and_the_human_body
+waves_and_the_physics_of_medicine
+modern_physics
+classical_mechanics
+thermal_physics
+quantum_mechanics_1
+electricity_and_magnetism_1
+physics_research
+introduction_to_engineering_materials
+materials_science_lab
+solid_mechanics_lab
+digital_logic
+digital_logic_lab
+engineering_design_project_1
+engineering_design_project_2
+3d_design_in_art_and_engineering
+introduction_to_creative_nonfiction
+introduction_to_rhetoric
+argumentation
+gendered_rhetoric
+speech_writing_and_delivery
+contemporary_essay
+multimedia_storytelling
+radio_storytelling
+advanced_tv_reporting_and_news_producing
+documentary_production
+arts_and_entertainment_media
+introduction_to_communication
+fundamentals_of_advertising_and_public_relations
+writing_for_public_relations
+case_studies_in_public_relations
+social_media_strategies
+advertising_culture_and_identity
+media_relations
+health_communication
+mobile_media_and_ux_design
+video_1
+video_2
+graphics_2
+comics_creation
+podcasting_and_long_form_digital_audio
+book_design_and_production
+creative_media_producing
+free_speech_free_expression
+social_media_and_culture
+stereotypes_in_us_media
+exploring_digital_culture
+introduction_to_public_policy
+state_and_local_politics_and_policymaking
+analytical_and_legal_reasoning
+constitutional_law_federalism_and_separation_of_powers
+constitutional_law_individual_liberties
+politics_of_the_judicial_process
+interest_groups_and_lobbying
+contemporary_campaigns_and_elections
+comparative_politics
+international_politics
+global_politics_of_migration
+politics_of_the_middle_east
+law_and_religion
+arabic_104
+chinese_104
+italian_104
+comprehensive_beginning_french
+comprehensive_beginning_spanish
+business_french
+contemporary_spanish_civilization_and_culture
+history_of_the_spanish_language
+us_history_since_reconstruction
+civil_rights_era
+africa_in_the_age_of_globalization
+introduction_to_modern_latin_america
+law_lawyers_and_litigants_in_european_history
+history_of_south_asia_in_the_twentieth_century
+golden_age_of_athens
+gender_race_and_class_in_modern_europe
+modern_middle_east
+black_death_in_global_perspective
+history_of_modern_china
+first_world_war
+modern_iran
+psychology_of_learning
+sensation_and_perception
+sleep_circadian_rhythms_and_behavior
+life_span_development
+psychology_of_personality
+introduction_to_health_psychology
+substance_abuse_diagnosis_and_treatment
+multicultural_issues_in_psychology
+psychology_of_religion
+psychology_of_gender
+psychological_tests_and_measurements
+ethics_in_psychology
+theology_and_the_arts_a_global_history
+women_in_the_christian_tradition
+history_and_storytelling_in_the_bible
+christian_theology_and_world_religions
+theological_and_spiritual_perspectives_on_suffering
+ethics_immigration_and_catholic_social_teaching
+worship_culture_and_justice
+encounters_between_christianity_judaism_and_islam
+war_health_and_peacebuilding
+bioethics_and_social_justice
+religion_poverty_and_american_health_care
+character_ethics_becoming_good
+peace_ethics
+the_holocaust_and_jewish_law

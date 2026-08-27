@@ -1,0 +1,4298 @@
+[
+  {
+    "id": "Analytics & Data",
+    "tagline": "Turn raw information into clear evidence people can use.",
+    "overview": "Analytics and data careers focus on answering practical questions with information. Professionals clean datasets, investigate patterns, build reports or predictive models, and explain what the results mean for a business, hospital, government agency, research team, or nonprofit. The work combines statistics, technology, and communication, but not every position requires advanced machine learning. Many entry-level analysts begin with spreadsheets, SQL, dashboards, and basic statistical methods before moving into more technical modeling.",
+    "career_themes": [
+      "Turning raw data into useful information",
+      "Finding patterns and measuring performance",
+      "Building forecasts and predictive models",
+      "Supporting evidence-based decisions",
+      "Explaining quantitative findings clearly"
+    ],
+    "typical_tasks": [
+      "Collect data from spreadsheets, databases, surveys, or business systems",
+      "Clean missing, duplicated, or inconsistent records",
+      "Write SQL queries and analyze data with Excel, Python, or R",
+      "Build dashboards, charts, reports, and statistical models",
+      "Check whether results and models are accurate",
+      "Present findings and recommendations to decision-makers"
+    ],
+    "core_skills": {
+      "hard_skills": [
+        "SQL",
+        "Excel",
+        "Python",
+        "R",
+        "Statistical Analysis",
+        "Data Cleaning",
+        "Data Visualization",
+        "Database Querying",
+        "Predictive Modeling",
+        "Model Validation"
+      ],
+      "soft_skills": [
+        "Written Communication",
+        "Presentation Skills",
+        "Stakeholder Communication",
+        "Collaboration",
+        "Attention to Detail",
+        "Time Management"
+      ],
+      "general_talents": [
+        "Pattern Recognition",
+        "Quantitative Reasoning",
+        "Logical Thinking",
+        "Problem Solving",
+        "Intellectual Curiosity",
+        "Explaining Complex Ideas"
+      ]
+    },
+    "education": {
+      "common_entry_levels": [
+        "bachelors"
+      ],
+      "graduate_school_value": "helpful",
+      "graduate_school_note": "A bachelor's degree is sufficient for many analyst, data visualization, market research, and operations research positions. A master's degree is more valuable for statistician, biostatistics, advanced modeling, and research-focused roles.",
+      "licensing_or_certification": "No license is generally required. Technical certifications may support a resume, but projects, internships, and demonstrated software skills usually provide stronger evidence of readiness."
+    },
+    "salary": {
+      "band": "medium_high",
+      "typical_range": {
+        "minimum": 60000,
+        "maximum": 125000
+      },
+      "variability_note": "This is a broad national annual-pay range covering many analyst through experienced technical roles. Industry, location, specialization, and experience create major differences. Entry-level positions may fall below the range, while experienced data scientists and specialized modelers can earn substantially more."
+    },
+    "work_profile": {
+      "common_environments": [
+        "Office / Corporate Setting",
+        "Remote / Work From Home",
+        "Team-Based / Collaborative",
+        "Independent / Solo Work",
+        "Government / Public Sector",
+        "Research / Idea-Driven Setting"
+      ],
+      "people_balance": "mostly_independent",
+      "intensity": "moderately_demanding",
+      "location_flexibility": "high"
+    },
+    "advantages": [
+      "Analytics skills transfer across finance, healthcare, marketing, government, technology, and research.",
+      "Many analyst positions are accessible with a bachelor's degree and a strong project portfolio.",
+      "Projects can demonstrate concrete ability before a student has extensive professional experience.",
+      "The work often produces measurable recommendations that affect real decisions.",
+      "Computer-based responsibilities make remote and hybrid arrangements possible in many organizations."
+    ],
+    "tradeoffs": [
+      "Cleaning and validating data may take more time than building models or dashboards.",
+      "Incomplete or poorly collected data can limit the quality of an analysis.",
+      "Job titles are inconsistent, so two data analyst positions may require very different skills.",
+      "Deadlines and last-minute requests can create pressure or overtime.",
+      "Technical findings must be explained to people who may not understand statistics.",
+      "Advanced statistical and research positions may require graduate education."
+    ],
+    "sample_job_ids": [
+      "Analytics Technician",
+      "Data Analyst",
+      "Business Analytics Specialist",
+      "Data Scientist",
+      "Data Visualization Developer",
+      "Operations Research Analyst",
+      "Statistician",
+      "Biostatistician",
+      "Market Research Analyst",
+      "Healthcare Data Analyst"
+    ],
+    "recommended_course_ids": [
+      "Data Analytics and Information Systems",
+      "Discovering Information in Data",
+      "Data Management and Database Systems",
+      "Data Visualization",
+      "Business Statistics",
+      "Statistical Computing",
+      "SQL",
+      "Python for Data Work",
+      "Business Intelligence and Data Mining",
+      "Machine Learning"
+    ],
+    "student_next_steps": [
+      "Complete a project that cleans, analyzes, and visualizes a real dataset",
+      "Learn SQL and one analysis language such as Python or R",
+      "Publish the project with a short explanation of the question, method, and result",
+      "Practice presenting one chart and one recommendation to a nontechnical audience",
+      "Apply for analyst internships across several industries, not only technology companies"
+    ],
+    "related_category_ids": [
+      "Business Intelligence",
+      "Mathematics & Statistics",
+      "Computer Science & Software Development",
+      "Economics",
+      "Finance",
+      "Science & Research"
+    ],
+    "sources": [
+      "https://www.onetonline.org/link/summary/15-2051.00",
+      "https://www.onetonline.org/link/summary/15-2031.00",
+      "https://www.onetonline.org/link/summary/15-2041.00",
+      "https://www.onetonline.org/link/summary/13-1161.00",
+      "https://www.bls.gov/ooh/math/data-scientists.htm",
+      "https://www.bls.gov/ooh/math/operations-research-analysts.htm",
+      "https://www.bls.gov/ooh/math/mathematicians-and-statisticians.htm",
+      "https://www.bls.gov/ooh/business-and-financial/market-research-analysts.htm",
+      "https://catalogue.loyola.edu/preview_program.php?catoid=35&poid=4441",
+      "https://catalogue.loyola.edu/preview_program.php?catoid=35&poid=4423"
+    ],
+    "last_researched": "2026-08-25"
+  },
+  {
+    "id": "Marketing & Advertising",
+    "tagline": "Understand an audience and turn attention into measurable demand.",
+    "overview": "Marketing and advertising careers connect products, services, and ideas with the people most likely to value them. Professionals research customers, create campaigns, write and review content, manage digital channels, and measure whether their work produces awareness, engagement, leads, or sales. The field combines creativity with business strategy and data, so strong marketers must understand both what attracts people and what produces measurable results.",
+    "career_themes": [
+      "Understanding customers and competitors",
+      "Creating persuasive campaigns and content",
+      "Building recognizable brands",
+      "Growing awareness, leads, and sales",
+      "Measuring campaign performance"
+    ],
+    "typical_tasks": [
+      "Research customer needs, behaviors, and preferences",
+      "Plan advertising, email, content, or social media campaigns",
+      "Write or review advertisements and promotional content",
+      "Coordinate work with designers, sales teams, and clients",
+      "Track campaign spending, conversions, and engagement",
+      "Present campaign results and recommend improvements"
+    ],
+    "core_skills": {
+      "hard_skills": [
+        "Market Research",
+        "Digital Advertising",
+        "Campaign Analytics",
+        "Content Strategy",
+        "Copywriting",
+        "SEO",
+        "Social Media Marketing",
+        "A/B Testing",
+        "CRM",
+        "Excel"
+      ],
+      "soft_skills": [
+        "Persuasive Communication",
+        "Client Communication",
+        "Collaboration",
+        "Presentation Skills",
+        "Project Coordination",
+        "Adaptability"
+      ],
+      "general_talents": [
+        "Creativity",
+        "Audience Awareness",
+        "Storytelling",
+        "Strategic Thinking",
+        "Curiosity",
+        "Pattern Recognition"
+      ]
+    },
+    "education": {
+      "common_entry_levels": [
+        "bachelors"
+      ],
+      "graduate_school_value": "helpful",
+      "graduate_school_note": "A bachelor's degree is sufficient for most entry-level marketing, advertising, content, and research positions. Graduate study is more useful for advanced analytics, strategy, and leadership roles.",
+      "licensing_or_certification": "No license is generally required. Platform certifications in advertising, analytics, CRM, or email marketing can support a portfolio but do not replace practical campaign experience."
+    },
+    "salary": {
+      "band": "medium_high",
+      "typical_range": {
+        "minimum": 50000,
+        "maximum": 130000
+      },
+      "variability_note": "Entry-level assistants and coordinators may earn below this range. Experienced marketing managers, advertising managers, and specialized analytics leaders can earn substantially more."
+    },
+    "work_profile": {
+      "common_environments": [
+        "Office / Corporate Setting",
+        "Remote / Work From Home",
+        "Fast-Paced / High-Pressure",
+        "Team-Based / Collaborative",
+        "Client-Facing / Social",
+        "Startup / Entrepreneurial Setting",
+        "Writing / Communication Setting"
+      ],
+      "people_balance": "mostly_collaborative",
+      "intensity": "moderately_demanding",
+      "location_flexibility": "high"
+    },
+    "advantages": [
+      "Marketing exists across nearly every industry, from sports and technology to healthcare and nonprofits.",
+      "Students can demonstrate ability through campaigns, content, research, and portfolio projects.",
+      "The field combines creative work with data and business strategy.",
+      "Skills can transfer into sales, communications, product management, and entrepreneurship.",
+      "Digital marketing responsibilities often support remote or hybrid work."
+    ],
+    "tradeoffs": [
+      "Campaign deadlines and public launches can create pressure.",
+      "Performance is often judged through visible metrics such as leads, sales, or engagement.",
+      "Platform algorithms and advertising tools change frequently.",
+      "Some entry-level roles involve repetitive scheduling, reporting, or content production.",
+      "Client preferences may override a marketer's preferred creative direction."
+    ],
+    "sample_job_ids": [
+      "Marketing Assistant",
+      "Marketing Coordinator",
+      "Marketing Specialist",
+      "Content Marketing Specialist",
+      "Advertising and PR Specialist",
+      "Market Research Analyst",
+      "Search Engine Optimization Analyst",
+      "Search Marketing Strategist",
+      "Advertising and Promotions Manager",
+      "Marketing Manager"
+    ],
+    "recommended_course_ids": [
+      "Marketing",
+      "Consumer Behavior",
+      "Market Research Methods",
+      "Integrated Marketing Communication",
+      "Digital Marketing",
+      "Content Marketing",
+      "Advertising Copywriting",
+      "Advertising Management",
+      "Marketing Strategy",
+      "Customer Analytics and Research"
+    ],
+    "student_next_steps": [
+      "Create a sample campaign for a campus organization or local business",
+      "Build a portfolio containing written content, research, and campaign results",
+      "Learn one advertising platform and one analytics platform",
+      "Track measurable outcomes such as clicks, sign-ups, or sales",
+      "Apply for marketing, communications, or customer-research internships"
+    ],
+    "related_category_ids": [
+      "Media, Communications & Public Relations",
+      "Business Intelligence",
+      "Business & Management",
+      "Writing & Journalism",
+      "Arts & Creative Industries",
+      "Analytics & Data"
+    ],
+    "sources": [
+      "https://www.bls.gov/ooh/business-and-financial/market-research-analysts.htm",
+      "https://www.bls.gov/ooh/management/advertising-promotions-and-marketing-managers.htm",
+      "https://www.onetonline.org/link/summary/13-1161.00",
+      "https://www.onetonline.org/link/summary/13-1161.01",
+      "https://www.onetonline.org/link/summary/11-2021.00",
+      "https://catalogue.loyola.edu/preview_program.php?catoid=35&poid=4426",
+      "https://catalogue.loyola.edu/preview_course_nopop.php?catoid=39&coid=87384"
+    ],
+    "last_researched": "2026-08-25"
+  },
+  {
+    "id": "Healthcare",
+    "tagline": "Use clinical knowledge and evidence to improve people's health.",
+    "overview": "Healthcare includes direct patient care, diagnostics, rehabilitation, clinical research, health education, and medical data work. Depending on the role, professionals may examine patients, support procedures, analyze test results, document care, study health outcomes, or help patients understand treatment. Education requirements vary sharply because the category includes entry-level support positions, licensed therapists, researchers, nurses, and advanced medical professionals.",
+    "career_themes": [
+      "Assessing patient needs and health conditions",
+      "Providing treatment, therapy, or clinical support",
+      "Recording and interpreting medical information",
+      "Educating patients and families",
+      "Improving care through research and evidence"
+    ],
+    "typical_tasks": [
+      "Collect patient histories, measurements, or test results",
+      "Support examinations, treatments, or rehabilitation",
+      "Document care in medical records or health systems",
+      "Coordinate with clinicians, researchers, and families",
+      "Explain procedures, findings, or next steps to patients",
+      "Follow safety, privacy, and infection-control procedures"
+    ],
+    "core_skills": {
+      "hard_skills": [
+        "Medical Terminology",
+        "Patient Assessment",
+        "Clinical Documentation",
+        "EHR",
+        "Vital Signs",
+        "Care Coordination",
+        "Research Methods",
+        "Data Collection",
+        "HIPAA Compliance",
+        "Basic Life Support"
+      ],
+      "soft_skills": [
+        "Empathy",
+        "Active Listening",
+        "Clear Communication",
+        "Teamwork",
+        "Attention to Detail",
+        "Emotional Regulation"
+      ],
+      "general_talents": [
+        "Calm Under Pressure",
+        "Service Orientation",
+        "Scientific Reasoning",
+        "Observational Ability",
+        "Manual Precision",
+        "Reliability"
+      ]
+    },
+    "education": {
+      "common_entry_levels": [
+        "certificate",
+        "associates",
+        "bachelors",
+        "masters",
+        "doctoral_or_professional"
+      ],
+      "graduate_school_value": "career_dependent",
+      "graduate_school_note": "Support, community-health, research-coordination, and health-data roles may be accessible without graduate school. Speech-language pathology, advanced nursing, medicine, psychology, and many diagnostic or therapeutic careers require graduate or professional education.",
+      "licensing_or_certification": "Licensing or certification is required for many clinical roles. Requirements depend on the occupation and state, while research, administrative, and health-data positions may not require a clinical license."
+    },
+    "salary": {
+      "band": "medium_high",
+      "typical_range": {
+        "minimum": 40000,
+        "maximum": 140000
+      },
+      "variability_note": "Healthcare has unusually wide salary variation. Support positions may fall near or below the minimum, while advanced practice nurses, physicians, surgeons, and specialized clinical leaders can earn well above the maximum."
+    },
+    "work_profile": {
+      "common_environments": [
+        "Healthcare / Clinical Setting",
+        "Team-Based / Collaborative",
+        "Client-Facing / Social",
+        "Structured / Predictable",
+        "Fast-Paced / High-Pressure",
+        "Laboratory / Research Setting",
+        "Community / Public-Facing Setting"
+      ],
+      "people_balance": "mostly_people_facing",
+      "intensity": "highly_demanding",
+      "location_flexibility": "low"
+    },
+    "advantages": [
+      "The work can produce a direct and visible effect on patients and families.",
+      "Healthcare offers clinical, research, technology, administrative, and community-service paths.",
+      "Many occupations have clearly defined education and advancement routes.",
+      "Health knowledge remains useful across hospitals, schools, laboratories, government, and nonprofits.",
+      "Specialization allows professionals to focus on particular populations or health conditions."
+    ],
+    "tradeoffs": [
+      "Many clinical careers require licensing, graduate education, or supervised training.",
+      "Shift work, emergencies, and staffing shortages can create difficult schedules.",
+      "Professionals may regularly encounter illness, trauma, grief, or frustrated patients.",
+      "Documentation and regulatory requirements take time away from direct care.",
+      "Most patient-facing positions cannot be performed remotely."
+    ],
+    "sample_job_ids": [
+      "Medical Assistant",
+      "Perioperative Assistant",
+      "Clinical Research Coordinator",
+      "Clinical Research Data Coordinator",
+      "Mental Health Behavioral Technician",
+      "Community Health Worker",
+      "Healthcare Data Analyst",
+      "Biostatistician",
+      "Speech-Language Pathologist",
+      "Nurse Anesthetist (CRNA)"
+    ],
+    "recommended_course_ids": [
+      "Biology I",
+      "Human Anatomy and Physiology",
+      "Microbiology Lab",
+      "Nursing Care for Adults",
+      "Introduction to Communication Disorders",
+      "Speech and Language Development",
+      "Clinical Audiology",
+      "Neurology for Communication Sciences and Disorders",
+      "Introduction to Health Psychology",
+      "Bioethics and Social Justice"
+    ],
+    "student_next_steps": [
+      "Shadow or interview a professional in one healthcare occupation",
+      "Earn CPR or Basic Life Support certification when appropriate",
+      "Volunteer in a hospital, clinic, rehabilitation center, or community program",
+      "Compare the education and licensing requirements of three possible roles",
+      "Apply for clinical, research, public-health, or health-data experience"
+    ],
+    "related_category_ids": [
+      "Science & Research",
+      "Biomechanical Engineering",
+      "Social & Behavioral Sciences",
+      "Analytics & Data",
+      "Education"
+    ],
+    "sources": [
+      "https://www.bls.gov/ooh/healthcare/",
+      "https://www.bls.gov/ooh/healthcare/medical-assistants.htm",
+      "https://www.bls.gov/ooh/healthcare/speech-language-pathologists.htm",
+      "https://www.bls.gov/ooh/healthcare/nurse-anesthetists-nurse-midwives-and-nurse-practitioners.htm",
+      "https://www.bls.gov/ooh/community-and-social-service/community-health-workers.htm",
+      "https://www.onetonline.org/link/summary/29-1141.00",
+      "https://www.onetonline.org/find/career?c=040206",
+      "https://catalogue.loyola.edu/preview_program.php?catoid=35&poid=4407"
+    ],
+    "last_researched": "2026-08-25"
+  },
+  {
+    "id": "Business Intelligence",
+    "tagline": "Turn business data into dashboards, reports, and better decisions.",
+    "overview": "Business intelligence professionals organize company data so employees and leaders can understand performance and make decisions. They build dashboards, define performance measures, maintain reporting systems, investigate unexpected results, and explain what the numbers mean for areas such as sales, finance, healthcare, operations, or customer service. Compared with broader data science, BI usually places more emphasis on reliable reporting, business systems, and decision support than experimental modeling.",
+    "career_themes": [
+      "Tracking organizational performance",
+      "Building dashboards and reporting systems",
+      "Connecting data from different business systems",
+      "Explaining changes in business results",
+      "Supporting operational and strategic decisions"
+    ],
+    "typical_tasks": [
+      "Meet with teams to define reporting needs and performance measures",
+      "Query databases and combine information from multiple systems",
+      "Build dashboards, recurring reports, and data models",
+      "Check reports for missing, duplicated, or inconsistent information",
+      "Investigate changes in sales, costs, customers, or operations",
+      "Present findings to managers and other stakeholders"
+    ],
+    "core_skills": {
+      "hard_skills": [
+        "SQL",
+        "Power BI",
+        "Tableau",
+        "Excel",
+        "Data Modeling",
+        "ETL",
+        "Dashboard Design",
+        "Database Management",
+        "KPI Reporting",
+        "Data Visualization"
+      ],
+      "soft_skills": [
+        "Requirements Gathering",
+        "Business Communication",
+        "Stakeholder Management",
+        "Presentation Skills",
+        "Collaboration",
+        "Attention to Detail"
+      ],
+      "general_talents": [
+        "Systems Thinking",
+        "Pattern Recognition",
+        "Business Judgment",
+        "Logical Thinking",
+        "Organization",
+        "Explaining Complex Ideas"
+      ]
+    },
+    "education": {
+      "common_entry_levels": [
+        "bachelors"
+      ],
+      "graduate_school_value": "helpful",
+      "graduate_school_note": "A bachelor's degree in information systems, analytics, business, computer science, or a related field is sufficient for many BI analyst roles. Graduate study is more useful for advanced architecture, strategy, or leadership positions.",
+      "licensing_or_certification": "No license is generally required. Power BI, Tableau, cloud, database, and analytics certifications can support a resume, but employers still expect practical SQL, reporting, and dashboard experience."
+    },
+    "salary": {
+      "band": "medium_high",
+      "typical_range": {
+        "minimum": 65000,
+        "maximum": 130000
+      },
+      "variability_note": "Entry-level reporting roles may fall below this range. Senior BI developers, database architects, consultants, and BI leaders may earn substantially more."
+    },
+    "work_profile": {
+      "common_environments": [
+        "Office / Corporate Setting",
+        "Remote / Work From Home",
+        "Structured / Predictable",
+        "Team-Based / Collaborative",
+        "Independent / Solo Work",
+        "Research / Idea-Driven Setting"
+      ],
+      "people_balance": "balanced",
+      "intensity": "moderately_demanding",
+      "location_flexibility": "high"
+    },
+    "advantages": [
+      "BI combines technical work with visible business applications.",
+      "The skills apply across finance, healthcare, retail, government, and other industries.",
+      "Dashboards and reporting projects provide concrete portfolio evidence.",
+      "A bachelor's degree is sufficient for many analyst positions.",
+      "Computer-based responsibilities often support remote or hybrid work."
+    ],
+    "tradeoffs": [
+      "A large portion of the work involves cleaning data and correcting reporting problems.",
+      "Different departments may disagree about how a performance measure should be defined.",
+      "Legacy databases and poorly connected systems can limit what analysts can produce.",
+      "Recurring reports may become repetitive after they are established.",
+      "Professionals are expected to understand both technical systems and business needs."
+    ],
+    "sample_job_ids": [
+      "Associate Business Analyst",
+      "Business Intelligence Analyst",
+      "Business Analytics Specialist",
+      "Business Technology Analyst",
+      "Data Visualization Developer",
+      "Global Data Analyst",
+      "Financial Data Analyst",
+      "Healthcare Data Analyst",
+      "Senior Technology Business Analyst",
+      "VP of Business Intelligence"
+    ],
+    "recommended_course_ids": [
+      "Business Intelligence Foundations",
+      "Business Intelligence and Data Mining",
+      "Data Analytics and Information Systems",
+      "Data Management and Database Systems",
+      "Data Visualization",
+      "SQL",
+      "Enterprise Systems",
+      "System Design and Analysis",
+      "Statistics for Decision Making",
+      "Customer Analytics and Research"
+    ],
+    "student_next_steps": [
+      "Build a dashboard using a real business or campus dataset",
+      "Learn SQL and one visualization platform",
+      "Define useful performance measures before creating visualizations",
+      "Practice explaining a dashboard to someone without a technical background",
+      "Apply for BI, reporting, business-analyst, or operations-analyst internships"
+    ],
+    "related_category_ids": [
+      "Analytics & Data",
+      "Information Technology (IT)",
+      "Business & Management",
+      "Computer Science & Software Development",
+      "Finance",
+      "Accounting"
+    ],
+    "sources": [
+      "https://www.onetonline.org/link/summary/15-2051.01",
+      "https://www.bls.gov/ooh/computer-and-information-technology/computer-systems-analysts.htm",
+      "https://www.bls.gov/ooh/computer-and-information-technology/database-administrators.htm",
+      "https://www.bls.gov/ooh/math/operations-research-analysts.htm",
+      "https://catalogue.loyola.edu/preview_program.php?catoid=35&poid=4423",
+      "https://catalogue.loyola.edu/preview_program.php?catoid=35&poid=4441",
+      "https://catalogue.loyola.edu/preview_course_nopop.php?catoid=39&coid=87344"
+    ],
+    "last_researched": "2026-08-25"
+  },
+  {
+    "id": "Business & Management",
+    "tagline": "Organize people, projects, and operations to turn plans into results.",
+    "overview": "Business and management careers focus on coordinating the people, money, schedules, and processes needed to accomplish an organization's goals. Professionals may manage projects, improve operations, support employees, advise clients, allocate resources, or lead departments. Entry-level graduates usually begin in analyst, coordinator, specialist, or rotational positions before taking responsibility for an entire team or business unit.",
+    "career_themes": [
+      "Organizing teams and projects",
+      "Improving business operations",
+      "Managing budgets, schedules, and resources",
+      "Solving organizational problems",
+      "Leading people through decisions and change"
+    ],
+    "typical_tasks": [
+      "Set project goals, schedules, responsibilities, and deadlines",
+      "Monitor budgets, staffing, performance, and operational results",
+      "Lead meetings and communicate across departments",
+      "Identify workflow problems and recommend improvements",
+      "Prepare reports and presentations for decision-makers",
+      "Coach employees and resolve workplace issues"
+    ],
+    "core_skills": {
+      "hard_skills": [
+        "Project Management",
+        "Budgeting",
+        "Process Improvement",
+        "Operations Planning",
+        "Excel",
+        "Performance Reporting",
+        "Supply Chain Planning",
+        "Business Strategy",
+        "CRM",
+        "Risk Assessment"
+      ],
+      "soft_skills": [
+        "Leadership",
+        "Professional Communication",
+        "Delegation",
+        "Negotiation",
+        "Conflict Resolution",
+        "Team Building",
+        "Decision Making",
+        "Time Management"
+      ],
+      "general_talents": [
+        "Organization",
+        "Social Judgment",
+        "Initiative",
+        "Adaptability",
+        "Strategic Thinking",
+        "Accountability"
+      ]
+    },
+    "education": {
+      "common_entry_levels": [
+        "bachelors"
+      ],
+      "graduate_school_value": "helpful",
+      "graduate_school_note": "A bachelor's degree is sufficient for many analyst, coordinator, operations, human resources, and project positions. An MBA or specialized master's degree may support consulting and senior leadership advancement, but work experience remains essential.",
+      "licensing_or_certification": "No license is generally required. Project management, human resources, process improvement, and supply-chain certifications may become useful after students gain relevant experience."
+    },
+    "salary": {
+      "band": "medium_high",
+      "typical_range": {
+        "minimum": 55000,
+        "maximum": 135000
+      },
+      "variability_note": "Entry-level coordinators and associates may earn below this range. Experienced consultants, operations managers, human resources managers, and executives can earn substantially more."
+    },
+    "work_profile": {
+      "common_environments": [
+        "Office / Corporate Setting",
+        "Fast-Paced / High-Pressure",
+        "Team-Based / Collaborative",
+        "Client-Facing / Social",
+        "Structured / Predictable",
+        "Startup / Entrepreneurial Setting",
+        "Travel-Heavy / Mobile"
+      ],
+      "people_balance": "mostly_collaborative",
+      "intensity": "moderately_demanding",
+      "location_flexibility": "moderate"
+    },
+    "advantages": [
+      "Management skills apply across nearly every industry.",
+      "The field offers several entry routes through operations, projects, human resources, and consulting.",
+      "Strong performers can advance into positions with greater decision-making authority.",
+      "Professionals gain a broad understanding of how organizations function.",
+      "The experience can support entrepreneurship or nonprofit leadership."
+    ],
+    "tradeoffs": [
+      "Graduates rarely enter true management positions immediately after college.",
+      "Managers are accountable for problems caused by their teams or systems.",
+      "Meetings, administrative work, and conflict resolution can consume significant time.",
+      "Project deadlines and client demands may require long hours or travel.",
+      "Leadership decisions sometimes involve incomplete information and competing priorities."
+    ],
+    "sample_job_ids": [
+      "Business Operations Associate",
+      "Business Operations Specialist",
+      "Management Analyst",
+      "Project Management Specialist",
+      "Assistant Project Manager",
+      "Human Resources Specialist",
+      "Administrative Services Manager",
+      "Facilities Manager",
+      "Business Continuity Planner",
+      "General and Operations Manager"
+    ],
+    "recommended_course_ids": [
+      "Management",
+      "Operations Management",
+      "Project Management Fundamentals",
+      "Strategic Management",
+      "Managing Talent",
+      "Managing Teams",
+      "Management Consulting Practicum",
+      "Organizational Behavior",
+      "Supply Chain Management",
+      "Financial Management"
+    ],
+    "student_next_steps": [
+      "Lead a defined project for a club, class, business, or community organization",
+      "Document the project's schedule, budget, problems, and final outcome",
+      "Practice running meetings and assigning clear responsibilities",
+      "Learn Excel and a basic project-management platform",
+      "Apply for operations, consulting, project, or management-development internships"
+    ],
+    "related_category_ids": [
+      "Business Intelligence",
+      "Marketing & Advertising",
+      "Finance",
+      "Accounting",
+      "Information Technology (IT)",
+      "Economics"
+    ],
+    "sources": [
+      "https://www.bls.gov/ooh/business-and-financial/management-analysts.htm",
+      "https://www.bls.gov/ooh/business-and-financial/project-management-specialists.htm",
+      "https://www.bls.gov/ooh/management/top-executives.htm",
+      "https://www.bls.gov/ooh/management/administrative-services-managers.htm",
+      "https://www.bls.gov/ooh/management/human-resources-managers.htm",
+      "https://www.onetonline.org/link/summary/11-1021.00",
+      "https://www.onetonline.org/link/summary/13-1082.00",
+      "https://catalogue.loyola.edu/preview_program.php?catoid=35&poid=4425"
+    ],
+    "last_researched": "2026-08-25"
+  },
+  {
+    "id": "Cybersecurity",
+    "tagline": "Protect systems, information, and organizations from digital threats.",
+    "overview": "Cybersecurity careers focus on preventing, detecting, investigating, and responding to attacks against computers, networks, applications, and data. Professionals monitor security alerts, test systems for weaknesses, investigate suspicious activity, manage access controls, and help organizations recover from incidents. The field includes technical roles such as penetration testing and digital forensics alongside risk, auditing, compliance, and security leadership positions.",
+    "career_themes": [
+      "Preventing unauthorized access and data loss",
+      "Detecting suspicious system activity",
+      "Testing systems for security weaknesses",
+      "Investigating cyber incidents",
+      "Managing organizational technology risk"
+    ],
+    "typical_tasks": [
+      "Monitor network, system, and application security alerts",
+      "Investigate suspicious logins, files, or network traffic",
+      "Test systems and applications for vulnerabilities",
+      "Configure access controls, firewalls, and security tools",
+      "Document incidents and recommend corrective actions",
+      "Explain security risks to technical and nontechnical teams"
+    ],
+    "core_skills": {
+      "hard_skills": [
+        "Network Security",
+        "Access Control",
+        "Threat Analysis",
+        "Incident Response",
+        "Vulnerability Testing",
+        "Security Monitoring",
+        "Digital Forensics",
+        "Linux",
+        "Python",
+        "SQL"
+      ],
+      "soft_skills": [
+        "Technical Communication",
+        "Teamwork",
+        "Attention to Detail",
+        "Ethical Judgment",
+        "Clear Documentation",
+        "Composure"
+      ],
+      "general_talents": [
+        "Adversarial Thinking",
+        "Pattern Recognition",
+        "Systematic Reasoning",
+        "Curiosity",
+        "Persistence",
+        "Risk Awareness"
+      ]
+    },
+    "education": {
+      "common_entry_levels": [
+        "bachelors"
+      ],
+      "graduate_school_value": "helpful",
+      "graduate_school_note": "A bachelor's degree and practical experience are sufficient for many security analyst, audit, risk, and incident-response positions. Graduate education is more useful for advanced research, cryptography, architecture, and leadership roles.",
+      "licensing_or_certification": "No universal license is required. Security, networking, cloud, and audit certifications may support employment. Government and defense positions may require a background investigation or security clearance."
+    },
+    "salary": {
+      "band": "medium_high",
+      "typical_range": {
+        "minimum": 70000,
+        "maximum": 145000
+      },
+      "variability_note": "Entry-level audit, support, and risk positions may fall below this range. Experienced security engineers, penetration testers, architects, and security leaders may earn substantially more."
+    },
+    "work_profile": {
+      "common_environments": [
+        "Office / Corporate Setting",
+        "Remote / Work From Home",
+        "Fast-Paced / High-Pressure",
+        "Structured / Predictable",
+        "Team-Based / Collaborative",
+        "Independent / Solo Work",
+        "Government / Public Sector",
+        "Research / Idea-Driven Setting"
+      ],
+      "people_balance": "balanced",
+      "intensity": "highly_demanding",
+      "location_flexibility": "high"
+    },
+    "advantages": [
+      "Cybersecurity skills are needed across government, finance, healthcare, technology, and consulting.",
+      "The work protects real systems, information, and people from measurable risks.",
+      "Students can build practical experience through labs, competitions, and security projects.",
+      "The field offers technical, investigative, policy, audit, and leadership paths.",
+      "Many responsibilities can be performed remotely."
+    ],
+    "tradeoffs": [
+      "Security incidents may require emergency or after-hours work.",
+      "Small mistakes can expose sensitive information or disrupt an organization.",
+      "Threats and security tools change constantly.",
+      "Many jobs advertised as entry-level still expect prior IT or networking experience.",
+      "Government and defense positions may involve background checks and workplace restrictions."
+    ],
+    "sample_job_ids": [
+      "Associate Technology Risk Consulting",
+      "Internal IT Auditor",
+      "SOC Audit Staff",
+      "IT Risk Auditor",
+      "Digital Forensics Expert",
+      "Cyber Warfare Analyst",
+      "Malware Reverse Engineer",
+      "AI Security Researcher",
+      "Penetration Testing Director",
+      "Chief Information Security Officer (CISO)"
+    ],
+    "recommended_course_ids": [
+      "Cybersecurity",
+      "Cyber Security and Digital Forensics",
+      "Introduction to Linux",
+      "Computer Networking",
+      "Operating Systems",
+      "Computer Systems",
+      "Database Management Systems",
+      "Programming Languages",
+      "Computer Architecture",
+      "Software Testing"
+    ],
+    "student_next_steps": [
+      "Build a legal home lab using virtual machines and isolated networks",
+      "Learn Linux, networking fundamentals, and basic scripting",
+      "Complete beginner capture-the-flag security challenges",
+      "Document a vulnerability assessment or incident investigation",
+      "Apply for security, IT audit, risk, or network-support internships"
+    ],
+    "related_category_ids": [
+      "Information Technology (IT)",
+      "Computer Science & Software Development",
+      "Computer Engineering",
+      "Business Intelligence",
+      "Legal Services"
+    ],
+    "sources": [
+      "https://www.bls.gov/ooh/computer-and-information-technology/information-security-analysts.htm",
+      "https://www.onetonline.org/link/summary/15-1212.00",
+      "https://www.onetonline.org/link/summary/15-1299.04",
+      "https://www.onetonline.org/link/summary/15-1299.05",
+      "https://www.onetonline.org/link/summary/15-1299.06",
+      "https://catalogue.loyola.edu/preview_course_nopop.php?catoid=14&coid=22719",
+      "https://catalogue.loyola.edu/preview_course_nopop.php?catoid=39&coid=87850"
+    ],
+    "last_researched": "2026-08-25"
+  },
+  {
+    "id": "Information Technology (IT)",
+    "tagline": "Keep the technology people and organizations depend on working.",
+    "overview": "Information technology careers focus on installing, maintaining, connecting, and improving the systems an organization uses every day. Professionals configure computers and networks, manage accounts and cloud services, troubleshoot technical problems, protect backups, support users, and plan system upgrades. Unlike software development, IT work usually emphasizes operating and supporting existing technology rather than building an application from the ground up.",
+    "career_themes": [
+      "Supporting technology users",
+      "Maintaining networks and systems",
+      "Managing accounts, devices, and cloud services",
+      "Troubleshooting technical failures",
+      "Improving organizational technology"
+    ],
+    "typical_tasks": [
+      "Install and configure computers, software, and network equipment",
+      "Create user accounts and manage access permissions",
+      "Troubleshoot device, application, and connectivity problems",
+      "Monitor system performance, backups, and availability",
+      "Document technical issues and their solutions",
+      "Plan upgrades and coordinate changes with users or vendors"
+    ],
+    "core_skills": {
+      "hard_skills": [
+        "System Administration",
+        "Network Administration",
+        "Cloud Infrastructure",
+        "Active Directory",
+        "PowerShell",
+        "Linux",
+        "DNS",
+        "DHCP",
+        "VPN",
+        "Help Desk"
+      ],
+      "soft_skills": [
+        "Technical Communication",
+        "Customer Service",
+        "Documentation",
+        "Collaboration",
+        "Prioritization",
+        "Patience"
+      ],
+      "general_talents": [
+        "Diagnostic Reasoning",
+        "Systematic Thinking",
+        "Attention to Detail",
+        "Persistence",
+        "Curiosity",
+        "Service Orientation"
+      ]
+    },
+    "education": {
+      "common_entry_levels": [
+        "associates",
+        "bachelors"
+      ],
+      "graduate_school_value": "limited",
+      "graduate_school_note": "Graduate school is not generally needed for support, systems, networking, infrastructure, or operations roles. Practical experience and certifications are usually more valuable until a professional pursues architecture or senior leadership.",
+      "licensing_or_certification": "No license is generally required. Certifications in networking, cloud platforms, operating systems, and technical support can strengthen entry-level applications."
+    },
+    "salary": {
+      "band": "medium_high",
+      "typical_range": {
+        "minimum": 50000,
+        "maximum": 120000
+      },
+      "variability_note": "Help-desk and user-support positions may begin near or below the minimum. Experienced systems engineers, network architects, cloud specialists, and IT leaders can earn substantially more."
+    },
+    "work_profile": {
+      "common_environments": [
+        "Office / Corporate Setting",
+        "Remote / Work From Home",
+        "Structured / Predictable",
+        "Team-Based / Collaborative",
+        "Client-Facing / Social",
+        "Quiet / Low Interaction",
+        "Field-Based / On-Site",
+        "Government / Public Sector"
+      ],
+      "people_balance": "balanced",
+      "intensity": "moderately_demanding",
+      "location_flexibility": "moderate"
+    },
+    "advantages": [
+      "Nearly every industry depends on IT systems and support.",
+      "Students can enter through support, networking, cloud, database, or systems roles.",
+      "Home labs and certifications provide practical experience outside an internship.",
+      "Technical problems often have concrete and visible solutions.",
+      "Experience can lead into cybersecurity, cloud architecture, systems engineering, or IT leadership."
+    ],
+    "tradeoffs": [
+      "System failures may require evening, weekend, or on-call work.",
+      "User-support responsibilities can involve frustrated or impatient people.",
+      "Some work must be completed on-site around physical equipment.",
+      "Routine maintenance, account management, and documentation can become repetitive.",
+      "Professionals must continually learn new platforms and replace outdated certifications."
+    ],
+    "sample_job_ids": [
+      "IT Specialist",
+      "I.T. Infrastructure Specialist",
+      "IT Infrastructure Analyst",
+      "IT Operations Specialist",
+      "Business Technology Analyst",
+      "Global Technology Analyst",
+      "Network Engineer",
+      "Systems Operations Engineer",
+      "Systems Integration Engineer",
+      "Chief Information Officer (CIO)"
+    ],
+    "recommended_course_ids": [
+      "Introduction to Linux",
+      "Computer Networking",
+      "Operating Systems",
+      "Computer Systems",
+      "Enterprise Systems",
+      "System Design and Analysis",
+      "Database Management Systems",
+      "Distributed Systems",
+      "Computer Architecture",
+      "Cybersecurity"
+    ],
+    "student_next_steps": [
+      "Build a home lab with Windows, Linux, users, and shared resources",
+      "Learn basic networking, command-line, and troubleshooting skills",
+      "Document several technical problems and how they were resolved",
+      "Practice supporting real users through campus or volunteer work",
+      "Apply for help-desk, infrastructure, network, or systems internships"
+    ],
+    "related_category_ids": [
+      "Cybersecurity",
+      "Computer Science & Software Development",
+      "Computer Engineering",
+      "Business Intelligence",
+      "Business & Management"
+    ],
+    "sources": [
+      "https://www.bls.gov/ooh/computer-and-information-technology/computer-support-specialists.htm",
+      "https://www.bls.gov/ooh/computer-and-information-technology/network-and-computer-systems-administrators.htm",
+      "https://www.bls.gov/ooh/computer-and-information-technology/computer-network-architects.htm",
+      "https://www.bls.gov/ooh/computer-and-information-technology/computer-systems-analysts.htm",
+      "https://www.onetonline.org/link/summary/15-1211.00",
+      "https://www.onetonline.org/link/summary/15-1244.00",
+      "https://www.onetonline.org/link/summary/15-1299.08",
+      "https://catalogue.loyola.edu/preview_program.php?catoid=35&poid=4423"
+    ],
+    "last_researched": "2026-08-25"
+  },
+  {
+    "id": "Finance",
+    "tagline": "Evaluate money, investments, and risk to guide financial decisions.",
+    "overview": "Finance careers focus on how individuals and organizations raise, invest, protect, and allocate money. Professionals evaluate companies, build financial models, analyze investment opportunities, assess credit and risk, manage portfolios, and advise clients or executives. The work ranges from relationship-driven financial advising to technical forecasting and quantitative investment research.",
+    "career_themes": [
+      "Evaluating companies and investments",
+      "Managing financial risk",
+      "Planning budgets and capital decisions",
+      "Building forecasts and valuation models",
+      "Advising clients and organizational leaders"
+    ],
+    "typical_tasks": [
+      "Review financial statements, market data, and economic conditions",
+      "Build forecasts, budgets, and valuation models",
+      "Assess credit, investment, or portfolio risk",
+      "Prepare reports and recommendations for clients or managers",
+      "Monitor investments and compare performance with benchmarks",
+      "Present financial findings and defend assumptions"
+    ],
+    "core_skills": {
+      "hard_skills": [
+        "Financial Modeling",
+        "Valuation",
+        "Financial Statement Analysis",
+        "Excel",
+        "Risk Assessment",
+        "Portfolio Analysis",
+        "Forecasting",
+        "Bloomberg Terminal",
+        "Capital Markets",
+        "Data Analysis"
+      ],
+      "soft_skills": [
+        "Client Communication",
+        "Presentation Skills",
+        "Attention to Detail",
+        "Ethical Judgment",
+        "Teamwork",
+        "Time Management"
+      ],
+      "general_talents": [
+        "Quantitative Reasoning",
+        "Risk Awareness",
+        "Pattern Recognition",
+        "Sound Judgment",
+        "Composure",
+        "Strategic Thinking"
+      ]
+    },
+    "education": {
+      "common_entry_levels": [
+        "bachelors"
+      ],
+      "graduate_school_value": "helpful",
+      "graduate_school_note": "A bachelor's degree is sufficient for many analyst, credit, treasury, advising, and investment positions. Graduate education is more valuable for quantitative finance, advanced research, executive leadership, and some investment roles.",
+      "licensing_or_certification": "There is no universal finance license. Securities, brokerage, and advisory positions may require employer-sponsored FINRA registration. Credentials such as CFA, CFP, and FRM are role-specific and usually pursued after entering the field."
+    },
+    "salary": {
+      "band": "medium_high",
+      "typical_range": {
+        "minimum": 60000,
+        "maximum": 150000
+      },
+      "variability_note": "Compensation varies sharply by role, location, employer, bonuses, and performance. Entry-level positions may fall below this range, while investment banking, quantitative finance, portfolio management, and senior leadership can exceed it substantially."
+    },
+    "work_profile": {
+      "common_environments": [
+        "Office / Corporate Setting",
+        "Remote / Work From Home",
+        "Fast-Paced / High-Pressure",
+        "Structured / Predictable",
+        "Team-Based / Collaborative",
+        "Independent / Solo Work",
+        "Client-Facing / Social",
+        "Quiet / Low Interaction"
+      ],
+      "people_balance": "balanced",
+      "intensity": "highly_demanding",
+      "location_flexibility": "moderate"
+    },
+    "advantages": [
+      "Finance skills apply across banking, investing, insurance, real estate, government, and corporate planning.",
+      "The field offers both quantitative and client-facing career paths.",
+      "Financial models and investment reports create concrete portfolio evidence.",
+      "Strong performance can lead to substantial compensation and responsibility.",
+      "Professionals develop an applied understanding of companies, markets, and economic decisions."
+    ],
+    "tradeoffs": [
+      "Some roles require long hours, strict deadlines, and constant performance pressure.",
+      "Bonuses and job stability may depend on markets or company results.",
+      "Competitive positions often require internships and strong technical preparation.",
+      "Licensing or professional examinations may be required for certain paths.",
+      "Poor analysis or unethical recommendations can create major financial consequences."
+    ],
+    "sample_job_ids": [
+      "Associate Financial Analyst",
+      "Financial Analyst",
+      "Financial and Investment Analyst",
+      "Credit Analyst",
+      "Treasury Analyst",
+      "Portfolio Analyst",
+      "Asset & Wealth Management Analyst",
+      "Personal Financial Advisor",
+      "Venture Capital Analyst",
+      "Investment Fund Manager"
+    ],
+    "recommended_course_ids": [
+      "Survey of Finance",
+      "Financial Accounting",
+      "Financial Management",
+      "Financial Modeling",
+      "Junior Financial Analyst",
+      "Sellinger Applied Portfolio Fund",
+      "Real Estate Finance and Investment",
+      "Real Estate Modeling and Valuation",
+      "Econometrics",
+      "Applied Economic Forecasting"
+    ],
+    "student_next_steps": [
+      "Build a financial model for a publicly traded company",
+      "Write a short investment or credit recommendation",
+      "Practice Excel, financial statements, and valuation methods",
+      "Join a student investment fund or finance organization",
+      "Apply for banking, corporate finance, investment, or risk internships"
+    ],
+    "related_category_ids": [
+      "Accounting",
+      "Economics",
+      "Analytics & Data",
+      "Mathematics & Statistics",
+      "Business Intelligence",
+      "Business & Management"
+    ],
+    "sources": [
+      "https://www.bls.gov/ooh/business-and-financial/financial-analysts.htm",
+      "https://www.bls.gov/ooh/business-and-financial/personal-financial-advisors.htm",
+      "https://www.bls.gov/ooh/management/financial-managers.htm",
+      "https://www.onetonline.org/link/summary/13-2051.00",
+      "https://www.onetonline.org/link/summary/13-2041.00",
+      "https://www.onetonline.org/link/summary/13-2054.00",
+      "https://catalogue.loyola.edu/preview_course_nopop.php?catoid=39&coid=87333",
+      "https://catalogue.loyola.edu/preview_course_nopop.php?catoid=28&coid=56638"
+    ],
+    "last_researched": "2026-08-25"
+  },
+  {
+    "id": "Science & Research",
+    "tagline": "Test questions with evidence and turn observations into reliable knowledge.",
+    "overview": "Science and research careers investigate how natural, medical, environmental, and physical systems work. Professionals design studies, collect samples, operate laboratory or field equipment, analyze results, and communicate what the evidence supports. Bachelor's-level graduates often begin as technicians, coordinators, or research assistants, while independent research and laboratory leadership commonly require graduate education.",
+    "career_themes": [
+      "Testing scientific questions",
+      "Collecting laboratory and field evidence",
+      "Analyzing samples and research data",
+      "Developing reliable research methods",
+      "Communicating scientific findings"
+    ],
+    "typical_tasks": [
+      "Review previous research and define a testable question",
+      "Prepare samples, materials, instruments, or study participants",
+      "Follow experimental procedures and safety requirements",
+      "Record observations and maintain detailed research notes",
+      "Analyze results and check them for errors or bias",
+      "Write reports, posters, papers, or research presentations"
+    ],
+    "core_skills": {
+      "hard_skills": [
+        "Experimental Design",
+        "Laboratory Techniques",
+        "Data Collection",
+        "Statistical Analysis",
+        "Scientific Writing",
+        "Literature Review",
+        "Measurement and Testing",
+        "Data Visualization",
+        "Lab Safety",
+        "Research Ethics"
+      ],
+      "soft_skills": [
+        "Research Communication",
+        "Collaboration",
+        "Attention to Detail",
+        "Project Planning",
+        "Documentation",
+        "Patience"
+      ],
+      "general_talents": [
+        "Scientific Curiosity",
+        "Healthy Skepticism",
+        "Observational Ability",
+        "Logical Reasoning",
+        "Persistence",
+        "Comfort with Uncertainty"
+      ]
+    },
+    "education": {
+      "common_entry_levels": [
+        "bachelors",
+        "masters",
+        "doctoral"
+      ],
+      "graduate_school_value": "important",
+      "graduate_school_note": "A bachelor's degree can lead to technician, laboratory, research-assistant, and project-coordination positions. Independent research, advanced specialization, university teaching, and laboratory leadership frequently require a master's degree or Ph.D.",
+      "licensing_or_certification": "No universal research license is required. Clinical laboratories, regulated testing environments, animal research, and specialized equipment may require occupation-specific training or certification."
+    },
+    "salary": {
+      "band": "medium_high",
+      "typical_range": {
+        "minimum": 45000,
+        "maximum": 120000
+      },
+      "variability_note": "Technicians and academic research assistants may earn near or below the minimum. Experienced scientists in biotechnology, pharmaceuticals, government, computing, and research management may earn substantially more."
+    },
+    "work_profile": {
+      "common_environments": [
+        "Laboratory / Research Setting",
+        "Academic / Educational Setting",
+        "Research / Idea-Driven Setting",
+        "Independent / Solo Work",
+        "Team-Based / Collaborative",
+        "Quiet / Low Interaction",
+        "Field-Based / On-Site",
+        "Government / Public Sector"
+      ],
+      "people_balance": "mostly_independent",
+      "intensity": "moderately_demanding",
+      "location_flexibility": "low"
+    },
+    "advantages": [
+      "The work contributes to practical knowledge in health, technology, environment, and industry.",
+      "Students can explore several specialties before committing to graduate school.",
+      "Research experience strengthens applications for technical employment and advanced study.",
+      "Projects develop transferable skills in data, writing, experimentation, and problem solving.",
+      "The field rewards curiosity and sustained investigation."
+    ],
+    "tradeoffs": [
+      "Many independent scientist positions require graduate education.",
+      "Experiments may fail or produce unclear results after significant preparation.",
+      "Academic and nonprofit research can depend on temporary grants or contracts.",
+      "Laboratory procedures and documentation may become repetitive.",
+      "Some positions involve hazardous materials, biological samples, or difficult field conditions."
+    ],
+    "sample_job_ids": [
+      "Research Assistant",
+      "Laboratory Technician",
+      "Field & Lab Technician",
+      "Clinical Research Coordinator",
+      "Associate Scientist",
+      "Scientist I",
+      "Post-Baccalaureate Researcher",
+      "Post-Baccalaureate IRTA",
+      "Environmental Toxicologist",
+      "Cognitive Neuroscientist"
+    ],
+    "recommended_course_ids": [
+      "Biology I",
+      "Biology I Lab",
+      "General Chemistry I",
+      "Organic Chemistry",
+      "Organic Chemistry Lab",
+      "Quantitative Chemical Analysis",
+      "Experimental Methods",
+      "Experimental Design",
+      "Research Methods I",
+      "Writing About Science"
+    ],
+    "student_next_steps": [
+      "Ask a Loyola professor about assisting with an active research project",
+      "Develop statistics, laboratory, and research-writing skills",
+      "Maintain a detailed lab notebook or research log",
+      "Present a project through a poster, report, or student conference",
+      "Apply for laboratory, field, clinical-research, or summer research positions"
+    ],
+    "related_category_ids": [
+      "Healthcare",
+      "Analytics & Data",
+      "Environmental Work & Sustainability",
+      "Mathematics & Statistics",
+      "Materials Engineering",
+      "Biomechanical Engineering"
+    ],
+    "sources": [
+      "https://www.bls.gov/ooh/life-physical-and-social-science/",
+      "https://www.bls.gov/ooh/life-physical-and-social-science/biological-technicians.htm",
+      "https://www.bls.gov/ooh/life-physical-and-social-science/chemists-and-materials-scientists.htm",
+      "https://www.bls.gov/ooh/life-physical-and-social-science/medical-scientists.htm",
+      "https://www.onetonline.org/link/summary/19-4021.00",
+      "https://www.onetonline.org/link/summary/19-1042.00",
+      "https://www.onetonline.org/link/summary/11-9121.01",
+      "https://catalogue.loyola.edu/preview_course_nopop.php?catoid=30&coid=62964",
+      "https://catalogue.loyola.edu/preview_course_nopop.php?catoid=39&coid=87185"
+    ],
+    "last_researched": "2026-08-25"
+  },
+  {
+    "id": "Electrical Engineering",
+    "tagline": "Design the circuits, signals, controls, and power systems behind modern technology.",
+    "overview": "Electrical engineering fits students who enjoy using math and physics to understand how electronic and power systems work. Professionals in this field design circuits, control systems, communication equipment, sensors, power networks, and other electrical technologies. The work usually combines computer simulation with laboratory testing, technical documentation, and collaboration with manufacturing or engineering teams.",
+    "career_themes": [
+      "Designing circuits and electronic systems",
+      "Building power and energy systems",
+      "Processing signals and communications",
+      "Automating equipment with control systems",
+      "Testing electrical hardware"
+    ],
+    "typical_tasks": [
+      "Create circuit diagrams and technical specifications",
+      "Simulate circuits before building hardware",
+      "Test prototypes with oscilloscopes and meters",
+      "Analyze signal, voltage, and power data",
+      "Troubleshoot electrical system failures",
+      "Document test results and design changes"
+    ],
+    "core_skills": {
+      "hard_skills": [
+        "Circuit Design",
+        "PCB Design",
+        "Oscilloscope Testing",
+        "MATLAB",
+        "LTspice",
+        "Signal Processing",
+        "Control Systems",
+        "Power Systems",
+        "Soldering",
+        "Technical Drawings"
+      ],
+      "soft_skills": [
+        "Technical Communication",
+        "Team Collaboration",
+        "Technical Documentation",
+        "Project Planning",
+        "Safety Awareness",
+        "Attention to Detail"
+      ],
+      "general_talents": [
+        "Mathematical Reasoning",
+        "Systems Thinking",
+        "Diagnostic Thinking",
+        "Spatial Reasoning",
+        "Precision",
+        "Curiosity"
+      ]
+    },
+    "education": {
+      "common_entry_levels": [
+        "bachelors"
+      ],
+      "graduate_school_value": "helpful",
+      "graduate_school_note": "A graduate degree can help with advanced work in signal processing, semiconductor design, communications, controls, power systems, and research. Most entry-level engineering positions begin with a bachelor's degree.",
+      "licensing_or_certification": "No universal license is required. A Professional Engineer license may be required when independently offering engineering services to the public. The usual licensing path begins with the FE exam and EIT status."
+    },
+    "salary": {
+      "band": "medium_high",
+      "typical_range": {
+        "minimum": 75000,
+        "maximum": 175000
+      },
+      "variability_note": "The BLS reported a May 2024 median of $111,910 for electrical engineers and $127,590 for electronics engineers except computer. Semiconductor, aerospace, research, and senior power roles can pay more."
+    },
+    "work_profile": {
+      "common_environments": [
+        "Office / Corporate Setting",
+        "Laboratory / Research Setting",
+        "Industrial / Manufacturing Setting",
+        "Team-Based / Collaborative",
+        "Independent / Solo Work",
+        "Field-Based / On-Site",
+        "Structured / Predictable",
+        "Research / Idea-Driven Setting"
+      ],
+      "people_balance": "balanced",
+      "intensity": "moderately_demanding",
+      "location_flexibility": "moderate"
+    },
+    "advantages": [
+      "Electrical systems are used in energy, electronics, aerospace, communications, robotics, transportation, and medical technology.",
+      "Projects produce tangible circuits, devices, and systems that students can demonstrate in a portfolio.",
+      "The field offers strong compensation and several technical specialization paths.",
+      "Electrical knowledge transfers well into computer engineering, automation, and embedded systems.",
+      "Internships and laboratory projects provide direct opportunities to test career fit."
+    ],
+    "tradeoffs": [
+      "The coursework requires sustained work in calculus, physics, circuits, and differential equations.",
+      "Hardware failures can be expensive or dangerous, making accuracy and safety procedures important.",
+      "Some positions require laboratory, manufacturing, utility, or customer-site work.",
+      "Testing and troubleshooting may take longer than the original design.",
+      "Engineers must keep up with changing hardware, software, and industry standards."
+    ],
+    "sample_job_ids": [
+      "Circuit Design Engineer",
+      "Control Systems Engineer",
+      "Power Electronics Engineer",
+      "Power Systems Engineer",
+      "RF (Radio Frequency) Engineer",
+      "Telecommunications Engineer",
+      "Instrumentation Engineer",
+      "Verification / Test Engineer",
+      "Semiconductor Process Engineer",
+      "Grid Automation Principal"
+    ],
+    "recommended_course_ids": [
+      "Linear Circuit Analysis",
+      "Electronics",
+      "Electronics Lab",
+      "Signals and Systems",
+      "Digital Logic",
+      "Digital Logic Lab",
+      "Electricity and Magnetism I",
+      "Embedded Systems",
+      "Digital Circuits and Systems",
+      "Engineering Design Project I"
+    ],
+    "student_next_steps": [
+      "Build and test a small circuit on a breadboard",
+      "Practice using a multimeter and oscilloscope",
+      "Simulate a circuit in LTspice or MATLAB",
+      "Join an engineering design or robotics team",
+      "Apply for an electronics, power, or controls internship"
+    ],
+    "related_category_ids": [
+      "Computer Engineering",
+      "Mechanical & Industrial Engineering",
+      "Computer Science & Software Development",
+      "Materials Engineering",
+      "Science & Research",
+      "Information Technology (IT)"
+    ],
+    "sources": [
+      "https://www.bls.gov/ooh/architecture-and-engineering/electrical-and-electronics-engineers.htm",
+      "https://www.onetonline.org/link/summary/17-2071.00",
+      "https://www.loyola.edu/academics/engineering/academics/degrees/computer-and-electrical-engineering.html",
+      "https://catalogue.loyola.edu/preview_entity.php?catoid=28&ent_oid=1355&returnto=964"
+    ],
+    "last_researched": "2026-08-25"
+  },
+  {
+    "id": "Mechanical & Industrial Engineering",
+    "tagline": "Design physical systems and improve how products and services are produced.",
+    "overview": "This category combines two related but distinct paths. Mechanical engineers design and test machines, products, thermal systems, and mechanical components. Industrial engineers improve production, quality, workflow, logistics, and the use of people and equipment. It fits students who enjoy solving practical problems and want to make a product or process safer, faster, more reliable, or less expensive.",
+    "career_themes": [
+      "Designing machines and products",
+      "Improving manufacturing processes",
+      "Working with thermal and fluid systems",
+      "Managing quality and reliability",
+      "Optimizing operations and resources"
+    ],
+    "typical_tasks": [
+      "Create CAD models and engineering drawings",
+      "Calculate forces, temperatures, and material behavior",
+      "Build and test mechanical prototypes",
+      "Analyze production time, cost, and quality data",
+      "Plan equipment layouts and workflows",
+      "Recommend design or process improvements"
+    ],
+    "core_skills": {
+      "hard_skills": [
+        "CAD Modeling",
+        "SolidWorks",
+        "MATLAB",
+        "ANSYS",
+        "Mechanical Design",
+        "Engineering Simulation",
+        "Manufacturing Systems",
+        "Process Improvement",
+        "Quality Control",
+        "Technical Drawings"
+      ],
+      "soft_skills": [
+        "Team Collaboration",
+        "Project Coordination",
+        "Technical Communication",
+        "Safety Awareness",
+        "Technical Documentation",
+        "Time Management"
+      ],
+      "general_talents": [
+        "Spatial Reasoning",
+        "Systems Thinking",
+        "Quantitative Reasoning",
+        "Practical Problem-Solving",
+        "Precision",
+        "Efficiency Mindset"
+      ]
+    },
+    "education": {
+      "common_entry_levels": [
+        "bachelors"
+      ],
+      "graduate_school_value": "helpful",
+      "graduate_school_note": "A bachelor's degree supports most entry-level engineering positions. Graduate study is more valuable for advanced simulation, robotics, aerospace, thermal systems, human factors, optimization, or research-heavy roles.",
+      "licensing_or_certification": "Licensing depends on the position. A Professional Engineer license is important when providing engineering services directly to the public. Lean Six Sigma and quality certifications can be useful in industrial and manufacturing roles."
+    },
+    "salary": {
+      "band": "medium_high",
+      "typical_range": {
+        "minimum": 70000,
+        "maximum": 160000
+      },
+      "variability_note": "The BLS reported May 2024 median wages of $102,320 for mechanical engineers and $101,140 for industrial engineers. Aerospace, research, management, and specialized manufacturing positions can exceed this range."
+    },
+    "work_profile": {
+      "common_environments": [
+        "Industrial / Manufacturing Setting",
+        "Field-Based / On-Site",
+        "Office / Corporate Setting",
+        "Laboratory / Research Setting",
+        "Team-Based / Collaborative",
+        "Structured / Predictable",
+        "Research / Idea-Driven Setting"
+      ],
+      "people_balance": "balanced",
+      "intensity": "moderately_demanding",
+      "location_flexibility": "low"
+    },
+    "advantages": [
+      "Students can work on physical products, machines, production systems, or organization-wide processes.",
+      "Mechanical and industrial skills apply across manufacturing, aerospace, transportation, energy, healthcare, and logistics.",
+      "CAD models, prototypes, simulations, and process studies can become strong portfolio projects.",
+      "The category supports both technical design and operations leadership paths.",
+      "Students can specialize without abandoning the broader engineering foundation."
+    ],
+    "tradeoffs": [
+      "The curriculum requires substantial calculus, physics, mechanics, and technical problem-solving.",
+      "Manufacturing positions may require regular time on production floors or at facilities.",
+      "Production failures and deadlines can create pressure to solve problems quickly.",
+      "Physical prototypes require more time and money to revise than many digital projects.",
+      "Some employers expect experience with industry-specific software, equipment, or quality standards."
+    ],
+    "sample_job_ids": [
+      "Automotive Engineer",
+      "Aerospace Systems Engineer",
+      "Manufacturing / Production Engineer",
+      "Product Design Engineer",
+      "HVAC Engineer",
+      "Plant / Facilities Engineer",
+      "Robotics Engineer",
+      "Thermal Engineer",
+      "Industrial Production Manager",
+      "Quality Control Systems Manager"
+    ],
+    "recommended_course_ids": [
+      "Statics",
+      "Dynamics",
+      "Solid Mechanics",
+      "Fluid Mechanics",
+      "Thermodynamics",
+      "Heat and Mass Transfer",
+      "Mechanical Design",
+      "Computer-Aided Simulation",
+      "Operations Research",
+      "Operations Management"
+    ],
+    "student_next_steps": [
+      "Create a working CAD assembly in SolidWorks",
+      "Analyze a mechanical system with MATLAB or ANSYS",
+      "Build and test a physical prototype",
+      "Complete a process-improvement or quality project",
+      "Apply for a manufacturing, design, or operations internship"
+    ],
+    "related_category_ids": [
+      "Electrical Engineering",
+      "Computer Engineering",
+      "Materials Engineering",
+      "Civil Engineering",
+      "Biomechanical Engineering",
+      "Business & Management",
+      "Analytics & Data"
+    ],
+    "sources": [
+      "https://www.bls.gov/ooh/architecture-and-engineering/mechanical-engineers.htm",
+      "https://www.bls.gov/ooh/architecture-and-engineering/industrial-engineers.htm",
+      "https://www.onetonline.org/link/summary/17-2141.00",
+      "https://www.onetonline.org/link/summary/17-2112.00",
+      "https://www.loyola.edu/academics/engineering/academics/degrees/mechanical-engineering.html"
+    ],
+    "last_researched": "2026-08-25"
+  },
+  {
+    "id": "Civil Engineering",
+    "tagline": "Plan and improve the structures and infrastructure communities rely on.",
+    "overview": "Civil engineering fits students who want to work on buildings, roads, bridges, transportation networks, construction sites, water systems, and community infrastructure. Civil engineers use structural calculations, drawings, maps, site information, budgets, and regulations to turn plans into safe projects. The work commonly moves between an office and active project sites.",
+    "career_themes": [
+      "Designing safe structures",
+      "Planning transportation systems",
+      "Managing water and environmental projects",
+      "Developing land and construction sites",
+      "Improving public infrastructure"
+    ],
+    "typical_tasks": [
+      "Prepare site plans and engineering drawings",
+      "Calculate structural loads and material requirements",
+      "Review survey, soil, traffic, or water data",
+      "Check designs against codes and permit requirements",
+      "Estimate project costs and construction schedules",
+      "Inspect construction progress at project sites"
+    ],
+    "core_skills": {
+      "hard_skills": [
+        "AutoCAD",
+        "Civil 3D",
+        "GIS Mapping",
+        "Surveying",
+        "Structural Analysis",
+        "Site Planning",
+        "Blueprint Reading",
+        "Project Estimating",
+        "Construction Documentation",
+        "Regulatory Compliance"
+      ],
+      "soft_skills": [
+        "Public Communication",
+        "Client Communication",
+        "Team Collaboration",
+        "Project Coordination",
+        "Technical Documentation",
+        "Safety Awareness"
+      ],
+      "general_talents": [
+        "Spatial Reasoning",
+        "Quantitative Reasoning",
+        "Practical Judgment",
+        "Long-Term Planning",
+        "Precision",
+        "Responsibility"
+      ]
+    },
+    "education": {
+      "common_entry_levels": [
+        "bachelors"
+      ],
+      "graduate_school_value": "helpful",
+      "graduate_school_note": "A bachelor's degree is the standard entry point. Graduate education becomes more valuable in structural, geotechnical, transportation, water-resource, and research-focused specializations.",
+      "licensing_or_certification": "Professional Engineer licensing is important in civil engineering and is commonly required to approve plans or provide services directly to the public. The usual path includes an accredited degree, the FE exam, EIT status, qualifying experience, and the PE exam."
+    },
+    "salary": {
+      "band": "medium_high",
+      "typical_range": {
+        "minimum": 66000,
+        "maximum": 161000
+      },
+      "variability_note": "The BLS reported a May 2024 median wage of $99,590 for civil engineers. Government, consulting, specialized design, project leadership, and licensed positions can produce different compensation."
+    },
+    "work_profile": {
+      "common_environments": [
+        "Field-Based / On-Site",
+        "Outdoor / Environmental Setting",
+        "Office / Corporate Setting",
+        "Government / Public Sector",
+        "Team-Based / Collaborative",
+        "Client-Facing / Social",
+        "Structured / Predictable",
+        "Travel-Heavy / Mobile"
+      ],
+      "people_balance": "balanced",
+      "intensity": "moderately_demanding",
+      "location_flexibility": "low"
+    },
+    "advantages": [
+      "Projects create visible results such as roads, buildings, water systems, and public spaces.",
+      "Civil engineers can work for consulting firms, construction companies, developers, utilities, or government agencies.",
+      "Infrastructure needs create work across cities, suburbs, and rural communities.",
+      "The field offers clear specialization and professional licensing paths.",
+      "The work connects engineering decisions to public safety and community development."
+    ],
+    "tradeoffs": [
+      "Site visits may involve weather, travel, noise, or active construction conditions.",
+      "Design decisions carry public-safety, legal, and financial responsibility.",
+      "Codes, permits, contracts, and government procedures can slow projects.",
+      "Large infrastructure projects may take years to complete.",
+      "Professional advancement may require licensing exams and documented experience."
+    ],
+    "sample_job_ids": [
+      "Community Development Planner",
+      "Transportation Analyst",
+      "Site Selection Specialist",
+      "Real Estate Development Coordinator",
+      "Green Building Consultant (LEED)",
+      "Principal Structural Engineer",
+      "Geotechnical Engineering Lead",
+      "Municipal Water System Architect",
+      "Transportation System Planner",
+      "Environmental Mitigation Engineer"
+    ],
+    "recommended_course_ids": [
+      "Introduction to Engineering",
+      "Statics",
+      "Solid Mechanics",
+      "Fluid Mechanics",
+      "Materials",
+      "Introduction to Geographic Information Systems",
+      "Location Analytics",
+      "Engineering Systems Analysis",
+      "Engineering Design Project I",
+      "Environmental Law and Policy"
+    ],
+    "student_next_steps": [
+      "Create a basic site plan in CAD or GIS",
+      "Study a local transportation or infrastructure problem",
+      "Visit a construction or public-works project",
+      "Learn how the FE and PE licensing process works",
+      "Apply for an engineering, construction, planning, or government internship"
+    ],
+    "related_category_ids": [
+      "Mechanical & Industrial Engineering",
+      "Environmental Work & Sustainability",
+      "Materials Engineering",
+      "Government & Public Policy",
+      "Business & Management",
+      "Analytics & Data"
+    ],
+    "sources": [
+      "https://www.bls.gov/ooh/architecture-and-engineering/civil-engineers.htm",
+      "https://www.onetonline.org/link/summary/17-2051.00",
+      "https://www.loyola.edu/academics/engineering/academics/degrees/",
+      "https://catalogue.loyola.edu/preview_entity.php?catoid=28&ent_oid=1355&returnto=964"
+    ],
+    "last_researched": "2026-08-25"
+  },
+  {
+    "id": "Biomechanical Engineering",
+    "tagline": "Use engineering to understand human movement and design safer medical technology.",
+    "overview": "Biomechanical engineering focuses on forces, motion, materials, and mechanical devices that interact with the human body. Students may study how joints move, how injuries occur, or how prosthetics, implants, rehabilitation equipment, surgical tools, and exoskeletons should perform. The field combines mechanical design, biology, data collection, laboratory testing, and medical-device safety.",
+    "career_themes": [
+      "Studying human movement",
+      "Designing prosthetics and implants",
+      "Preventing injuries",
+      "Testing medical products",
+      "Building rehabilitation technology"
+    ],
+    "typical_tasks": [
+      "Collect motion, force, or pressure data",
+      "Design medical components in CAD",
+      "Simulate forces on implants or body structures",
+      "Build and test assistive-device prototypes",
+      "Evaluate device safety and performance",
+      "Document results for engineering or regulatory teams"
+    ],
+    "core_skills": {
+      "hard_skills": [
+        "Biomechanics Testing",
+        "SolidWorks",
+        "MATLAB",
+        "Motion Capture",
+        "Force Sensors",
+        "Finite Element Analysis",
+        "CAD Modeling",
+        "3D Printing",
+        "Materials Testing",
+        "Data Analysis"
+      ],
+      "soft_skills": [
+        "Clinical Communication",
+        "Team Collaboration",
+        "Technical Documentation",
+        "Empathy",
+        "Project Planning",
+        "Research Ethics"
+      ],
+      "general_talents": [
+        "Spatial Reasoning",
+        "Quantitative Reasoning",
+        "Careful Observation",
+        "Creative Design",
+        "Precision",
+        "Human-Centered Thinking"
+      ]
+    },
+    "education": {
+      "common_entry_levels": [
+        "bachelors"
+      ],
+      "graduate_school_value": "helpful",
+      "graduate_school_note": "A bachelor's degree can support entry-level medical-device, testing, manufacturing, and quality roles. A master's degree or doctorate is often valuable for specialized biomechanics research, advanced implant design, rehabilitation engineering, and university research.",
+      "licensing_or_certification": "There is no universal biomechanical engineering license. A PE license applies to some engineering positions, while medical-device employers may value experience with FDA requirements, design controls, quality systems, and human-subject research procedures."
+    },
+    "salary": {
+      "band": "medium_high",
+      "typical_range": {
+        "minimum": 72000,
+        "maximum": 165000
+      },
+      "variability_note": "The BLS reported a May 2024 median wage of $106,950 for bioengineers and biomedical engineers. Pay varies across medical-device manufacturing, engineering services, healthcare support, research, and advanced product leadership."
+    },
+    "work_profile": {
+      "common_environments": [
+        "Laboratory / Research Setting",
+        "Healthcare / Clinical Setting",
+        "Industrial / Manufacturing Setting",
+        "Team-Based / Collaborative",
+        "Research / Idea-Driven Setting",
+        "Office / Corporate Setting",
+        "Field-Based / On-Site",
+        "Independent / Solo Work"
+      ],
+      "people_balance": "balanced",
+      "intensity": "moderately_demanding",
+      "location_flexibility": "low"
+    },
+    "advantages": [
+      "The work connects engineering directly to mobility, rehabilitation, injury prevention, and patient care.",
+      "Students can create tangible projects involving prosthetics, wearable sensors, sports equipment, or assistive devices.",
+      "The field combines mechanics, biology, materials, software, and product design.",
+      "Career options exist in medical devices, sports technology, rehabilitation, research, and advanced manufacturing.",
+      "Biomechanics projects can provide strong preparation for graduate research."
+    ],
+    "tradeoffs": [
+      "The job market is narrower than general mechanical engineering or software development.",
+      "Specialized research and development positions may require graduate education.",
+      "Medical-device testing and regulatory approval can make development slower.",
+      "Design errors can affect patient safety, increasing the need for careful validation.",
+      "Many projects require access to laboratories, testing equipment, or clinical partners."
+    ],
+    "sample_job_ids": [
+      "Biomaterials Developer",
+      "Biomechanical Prosthetic Designer",
+      "Cardiovascular Device Principal",
+      "Neural Interface Engineer",
+      "Orthopedic Implant Architect",
+      "Robotic Exoskeleton Designer",
+      "Trauma Biomechanist",
+      "Surgical Tool Designer",
+      "Biosensor Array Designer",
+      "Medical Robotics Controls Lead"
+    ],
+    "recommended_course_ids": [
+      "Biomechanics of Sports and Exercise",
+      "Physics of Medicine and the Human Body",
+      "Waves and the Physics of Medicine",
+      "Human Anatomy and Physiology",
+      "Introduction to Engineering Materials",
+      "Materials Science Lab",
+      "Solid Mechanics",
+      "Solid Mechanics Lab",
+      "3D Design in Art and Engineering",
+      "Engineering Design Project I"
+    ],
+    "student_next_steps": [
+      "Complete a motion or force analysis project",
+      "Design a simple assistive device in CAD",
+      "Learn MATLAB or Python for biomechanical data",
+      "Ask a professor about biomechanics research",
+      "Apply for a medical-device, rehabilitation, or sports-technology internship"
+    ],
+    "related_category_ids": [
+      "Mechanical & Industrial Engineering",
+      "Healthcare",
+      "Science & Research",
+      "Materials Engineering",
+      "Electrical Engineering",
+      "Analytics & Data"
+    ],
+    "sources": [
+      "https://www.bls.gov/ooh/architecture-and-engineering/biomedical-engineers.htm",
+      "https://www.onetonline.org/link/summary/17-2031.00",
+      "https://www.loyola.edu/academics/physics/curriculum/courses.html",
+      "https://www.loyola.edu/academics/engineering/academics/degrees/mechanical-engineering.html"
+    ],
+    "last_researched": "2026-08-25"
+  },
+  {
+    "id": "Computer Science & Software Development",
+    "tagline": "Build the software systems people and organizations use.",
+    "overview": "Computer science and software development fit students who enjoy turning problems into working programs. Developers build websites, mobile applications, backend services, automation tools, databases, and large software systems. The work includes understanding user needs, designing a solution, writing code, testing it, fixing problems, deploying updates, and maintaining the product after release.",
+    "career_themes": [
+      "Building software applications",
+      "Designing algorithms and data structures",
+      "Creating web and mobile products",
+      "Developing backend and distributed systems",
+      "Testing and maintaining software"
+    ],
+    "typical_tasks": [
+      "Turn product requirements into technical plans",
+      "Write and review program code",
+      "Create automated tests and fix defects",
+      "Connect applications to databases and APIs",
+      "Deploy software and monitor performance",
+      "Document systems for users and developers"
+    ],
+    "core_skills": {
+      "hard_skills": [
+        "Programming",
+        "Data Structures",
+        "Algorithms",
+        "Git",
+        "SQL",
+        "REST APIs",
+        "Software Testing",
+        "System Design",
+        "Linux",
+        "Docker"
+      ],
+      "soft_skills": [
+        "Team Collaboration",
+        "Technical Communication",
+        "Documentation",
+        "Feedback Handling",
+        "Time Management",
+        "Problem-Solving"
+      ],
+      "general_talents": [
+        "Logical Reasoning",
+        "Abstract Thinking",
+        "Persistence",
+        "Creative Thinking",
+        "Independent Learning",
+        "Attention to Detail"
+      ]
+    },
+    "education": {
+      "common_entry_levels": [
+        "bachelors"
+      ],
+      "graduate_school_value": "optional",
+      "graduate_school_note": "A bachelor's degree is common, but a strong portfolio and relevant experience can also influence hiring. Graduate study is more valuable for research, advanced machine learning, computer science theory, and certain specialized systems roles.",
+      "licensing_or_certification": "No professional license is generally required. Cloud, security, or platform certifications can support specific positions, but working projects and technical experience usually matter more for software-development hiring."
+    },
+    "salary": {
+      "band": "high",
+      "typical_range": {
+        "minimum": 65000,
+        "maximum": 170000
+      },
+      "variability_note": "The BLS reported May 2024 medians of $133,080 for software developers and $90,930 for web developers. Compensation varies substantially by specialization, experience, employer, location, and equity-based pay."
+    },
+    "work_profile": {
+      "common_environments": [
+        "Remote / Work From Home",
+        "Office / Corporate Setting",
+        "Startup / Entrepreneurial Setting",
+        "Independent / Solo Work",
+        "Team-Based / Collaborative",
+        "Quiet / Low Interaction",
+        "Flexible / Unstructured",
+        "Research / Idea-Driven Setting"
+      ],
+      "people_balance": "mostly_independent",
+      "intensity": "moderately_demanding",
+      "location_flexibility": "high"
+    },
+    "advantages": [
+      "Students can build portfolio projects with a computer and low-cost development tools.",
+      "Software skills apply across finance, healthcare, government, entertainment, education, and engineering.",
+      "Many positions support remote or hybrid work.",
+      "The field offers strong compensation and several technical career paths.",
+      "Students can test their interest early by building and releasing a small application."
+    ],
+    "tradeoffs": [
+      "Developers must continually learn new tools, platforms, and programming practices.",
+      "Debugging can require long periods of focused and repetitive work.",
+      "Technical interviews may require separate preparation in algorithms and system design.",
+      "Deadlines, outages, or on-call schedules can create periods of high pressure.",
+      "Hiring and compensation can change quickly across technology sectors."
+    ],
+    "sample_job_ids": [
+      "Associate Software Engineer",
+      "Full Stack Developer",
+      "Software Developer",
+      "Software Engineer",
+      "Web Developer",
+      "MLOps Programmer Analyst",
+      "Automation Engineer",
+      "IoT (Internet of Things) Developer",
+      "Principal OS Engineer",
+      "Distributed Systems Architect"
+    ],
+    "recommended_course_ids": [
+      "Introduction to Programming",
+      "Object-Oriented Software Design",
+      "Object-Oriented Data Structures",
+      "Algorithm Analysis",
+      "Software Engineering",
+      "Programming Languages",
+      "Operating Systems",
+      "Web Development",
+      "Database Management Systems",
+      "Software Testing"
+    ],
+    "student_next_steps": [
+      "Build and deploy a small web or mobile application",
+      "Publish code with documentation and tests on GitHub",
+      "Practice data structures and debugging",
+      "Learn how to connect an application to a database and API",
+      "Apply for a software internship or contribute to an open-source project"
+    ],
+    "related_category_ids": [
+      "Computer Engineering",
+      "Information Technology (IT)",
+      "Cybersecurity",
+      "Analytics & Data",
+      "Business Intelligence",
+      "Mathematics & Statistics"
+    ],
+    "sources": [
+      "https://www.bls.gov/ooh/computer-and-information-technology/software-developers.htm",
+      "https://www.bls.gov/ooh/computer-and-information-technology/web-developers.htm",
+      "https://www.onetonline.org/link/summary/15-1252.00",
+      "https://www.loyola.edu/academics/computer-science/degrees/",
+      "https://catalogue.loyola.edu/preview_program.php?catoid=39&poid=5062&print=&returnto=1438"
+    ],
+    "last_researched": "2026-08-25"
+  },
+  {
+    "id": "Computer Engineering",
+    "tagline": "Build the hardware and low-level software inside computing devices.",
+    "overview": "Computer engineering combines electrical engineering and computer science. Computer engineers work with processors, digital circuits, embedded systems, firmware, sensors, FPGA designs, and the interfaces connecting hardware to software. It fits students who want to understand what happens below an application and enjoy testing physical devices as well as writing code.",
+    "career_themes": [
+      "Designing digital hardware",
+      "Programming embedded devices",
+      "Developing processors and chips",
+      "Connecting hardware and software",
+      "Verifying computing systems"
+    ],
+    "typical_tasks": [
+      "Design digital circuits or processor components",
+      "Write firmware and hardware-description code",
+      "Simulate logic before building hardware",
+      "Test boards, processors, and device interfaces",
+      "Debug timing, memory, and communication problems",
+      "Document hardware and verification results"
+    ],
+    "core_skills": {
+      "hard_skills": [
+        "Verilog",
+        "VHDL",
+        "FPGA",
+        "Microcontrollers",
+        "C/C++",
+        "Embedded Systems",
+        "PCB Design",
+        "Digital Logic",
+        "Oscilloscope Testing",
+        "Hardware Verification"
+      ],
+      "soft_skills": [
+        "Team Collaboration",
+        "Technical Communication",
+        "Technical Documentation",
+        "Attention to Detail",
+        "Project Planning",
+        "Patience"
+      ],
+      "general_talents": [
+        "Logical Reasoning",
+        "Systems Thinking",
+        "Diagnostic Thinking",
+        "Spatial Reasoning",
+        "Precision",
+        "Persistence"
+      ]
+    },
+    "education": {
+      "common_entry_levels": [
+        "bachelors"
+      ],
+      "graduate_school_value": "helpful",
+      "graduate_school_note": "A bachelor's degree is the standard entry point. Graduate study becomes more useful for advanced processor architecture, semiconductor design, integrated circuits, hardware acceleration, and research positions.",
+      "licensing_or_certification": "No general professional license is required for most computer-engineering positions. A PE license applies only to certain public-facing engineering roles. Vendor certifications may help in specialized embedded or hardware platforms but are not universal."
+    },
+    "salary": {
+      "band": "high",
+      "typical_range": {
+        "minimum": 85000,
+        "maximum": 180000
+      },
+      "variability_note": "The BLS reported a May 2024 median wage of $155,020 for computer hardware engineers. Semiconductor, processor, research, and senior architecture positions can exceed the listed range."
+    },
+    "work_profile": {
+      "common_environments": [
+        "Laboratory / Research Setting",
+        "Industrial / Manufacturing Setting",
+        "Office / Corporate Setting",
+        "Team-Based / Collaborative",
+        "Independent / Solo Work",
+        "Structured / Predictable",
+        "Research / Idea-Driven Setting",
+        "Field-Based / On-Site"
+      ],
+      "people_balance": "balanced",
+      "intensity": "moderately_demanding",
+      "location_flexibility": "moderate"
+    },
+    "advantages": [
+      "The field provides experience with both physical hardware and software.",
+      "Computer engineers can work in semiconductors, robotics, vehicles, aerospace, medical devices, communications, and consumer electronics.",
+      "Microcontroller and FPGA projects produce concrete portfolio evidence.",
+      "Hardware expertise can lead to specialized and well-paid engineering positions.",
+      "The degree can support movement into electrical engineering, embedded software, or systems engineering."
+    ],
+    "tradeoffs": [
+      "The curriculum combines demanding topics from programming, circuits, digital logic, and mathematics.",
+      "Hardware changes are slower and more expensive than editing software.",
+      "Many positions require access to laboratories, development boards, or manufacturing equipment.",
+      "Semiconductor and advanced hardware jobs may be concentrated in particular regions.",
+      "Small timing, power, or component errors can prevent an entire system from working."
+    ],
+    "sample_job_ids": [
+      "ASIC/FPGA Engineer",
+      "Embedded Systems Engineer",
+      "Firmware Engineer",
+      "Hardware Design Engineer",
+      "Computer Architecture Analyst",
+      "Systems Integration Engineer",
+      "Verification / Test Engineer",
+      "Principal Processor Architect",
+      "Neuromorphic Hardware Engineer",
+      "Edge AI Hardware Designer"
+    ],
+    "recommended_course_ids": [
+      "Digital Logic",
+      "Digital Logic Lab",
+      "Computer Architecture",
+      "Embedded Systems",
+      "Computer Systems",
+      "Operating Systems",
+      "Digital Circuits and Systems",
+      "Electronics",
+      "Electronics Lab",
+      "Object-Oriented Engineering Design"
+    ],
+    "student_next_steps": [
+      "Build a microcontroller or FPGA project",
+      "Practice C, C++, Verilog, or VHDL",
+      "Use an oscilloscope or logic analyzer to debug a circuit",
+      "Document code, schematics, and test results in one portfolio project",
+      "Apply for an embedded systems, hardware, firmware, or semiconductor internship"
+    ],
+    "related_category_ids": [
+      "Electrical Engineering",
+      "Computer Science & Software Development",
+      "Cybersecurity",
+      "Information Technology (IT)",
+      "Mechanical & Industrial Engineering",
+      "Science & Research"
+    ],
+    "sources": [
+      "https://www.bls.gov/ooh/architecture-and-engineering/computer-hardware-engineers.htm",
+      "https://www.loyola.edu/academics/engineering/academics/degrees/computer-and-electrical-engineering.html",
+      "https://catalogue.loyola.edu/preview_program.php?catoid=23&poid=2450&print=&returnto=779",
+      "https://catalogue.loyola.edu/preview_entity.php?catoid=28&ent_oid=1355&returnto=964"
+    ],
+    "last_researched": "2026-08-25"
+  },
+  {
+    "id": "Economics",
+    "tagline": "Use data and economic reasoning to understand markets, policy, and human decisions.",
+    "overview": "Economics fits students who want to understand why prices change, how businesses respond to incentives, what drives employment and inflation, and how government decisions affect people. The work often involves collecting data, testing explanations, forecasting future conditions, and turning the results into recommendations for businesses, investors, nonprofits, or public agencies.",
+    "career_themes": [
+      "Explaining market behavior",
+      "Evaluating public policy",
+      "Forecasting economic conditions",
+      "Studying consumer decisions",
+      "Measuring costs and benefits"
+    ],
+    "typical_tasks": [
+      "Collect employment, price, market, or consumer data",
+      "Build regression and forecasting models",
+      "Estimate how a policy could affect different groups",
+      "Compare the costs and benefits of possible decisions",
+      "Create charts and reports for decision-makers",
+      "Explain model results without relying on technical language"
+    ],
+    "core_skills": {
+      "hard_skills": [
+        "Econometrics",
+        "Economic Modeling",
+        "Forecasting",
+        "Regression Analysis",
+        "Cost-Benefit Analysis",
+        "Excel",
+        "Stata",
+        "R",
+        "Python",
+        "Data Visualization"
+      ],
+      "soft_skills": [
+        "Research Communication",
+        "Policy Writing",
+        "Presentation Skills",
+        "Source Evaluation",
+        "Team Collaboration",
+        "Professional Judgment"
+      ],
+      "general_talents": [
+        "Quantitative Reasoning",
+        "Pattern Recognition",
+        "Systems Thinking",
+        "Cause-and-Effect Reasoning",
+        "Curiosity",
+        "Balanced Judgment"
+      ]
+    },
+    "education": {
+      "common_entry_levels": [
+        "bachelors",
+        "masters"
+      ],
+      "graduate_school_value": "important",
+      "graduate_school_note": "A bachelor's degree can lead to analyst, consulting, finance, market research, and policy-support positions. Jobs carrying the formal title of economist often require a master's degree, while university research generally requires a doctorate.",
+      "licensing_or_certification": "No professional license is generally required. Strong econometrics, programming, research, and writing experience usually matters more than certification."
+    },
+    "salary": {
+      "band": "medium_high",
+      "typical_range": {
+        "minimum": 60000,
+        "maximum": 145000
+      },
+      "variability_note": "The BLS reported a May 2024 median of $115,440 for economists. Entry-level analyst roles may pay less, while experienced economists in finance, consulting, technology, and government can earn more."
+    },
+    "work_profile": {
+      "common_environments": [
+        "Office / Corporate Setting",
+        "Government / Public Sector",
+        "Research / Idea-Driven Setting",
+        "Academic / Educational Setting",
+        "Independent / Solo Work",
+        "Team-Based / Collaborative",
+        "Remote / Work From Home",
+        "Structured / Predictable"
+      ],
+      "people_balance": "mostly_independent",
+      "intensity": "moderately_demanding",
+      "location_flexibility": "high"
+    },
+    "advantages": [
+      "Economic reasoning applies to business, finance, government, healthcare, technology, and environmental policy.",
+      "Students learn to connect data with real decisions instead of only reporting numbers.",
+      "Economics combines well with statistics, data science, finance, political science, and business.",
+      "Research papers and forecasting projects can become useful portfolio samples.",
+      "The field supports both quantitative and policy-focused career paths."
+    ],
+    "tradeoffs": [
+      "The formal economist job market is much smaller than the broader market for business and data analysts.",
+      "Many research-heavy positions require graduate education.",
+      "Economic models simplify reality and can produce weak conclusions when assumptions are unrealistic.",
+      "Forecasts are uncertain and must be updated when conditions change.",
+      "Students who avoid statistics and programming may have fewer career options."
+    ],
+    "sample_job_ids": [
+      "Economist",
+      "Environmental Economist",
+      "Market Research Analyst",
+      "Policy Analyst",
+      "Associate Financial Analyst",
+      "Financial Analyst",
+      "Marketing Econometrician",
+      "Behavioral Economist",
+      "Labor Market Economist",
+      "Econometrician"
+    ],
+    "recommended_course_ids": [
+      "Microeconomics",
+      "Macroeconomics",
+      "Intermediate Microeconomics",
+      "Intermediate Macroeconomics",
+      "Mathematical Economics",
+      "Econometrics",
+      "Game Theory",
+      "Applied Economic Forecasting",
+      "Economics of Race and Inequality",
+      "Economics International Study Tour"
+    ],
+    "student_next_steps": [
+      "Use FRED or BLS data to answer one economic question",
+      "Build a regression or forecasting project in Stata, R, or Python",
+      "Write a one-page policy or market recommendation",
+      "Join a research, consulting, finance, or data project",
+      "Apply for an analyst internship before targeting economist positions"
+    ],
+    "related_category_ids": [
+      "Finance",
+      "Analytics & Data",
+      "Business Intelligence",
+      "Mathematics & Statistics",
+      "Politics & Public Policy",
+      "Environmental Work & Sustainability"
+    ],
+    "sources": [
+      "https://www.bls.gov/ooh/life-physical-and-social-science/economists.htm",
+      "https://www.onetonline.org/link/summary/19-3011.00",
+      "https://catalogue.loyola.edu/preview_program.php?catoid=35&poid=4483",
+      "https://catalogue.loyola.edu/preview_program.php?catoid=28&poid=3223"
+    ],
+    "last_researched": "2026-08-25"
+  },
+  {
+    "id": "Environmental Work & Sustainability",
+    "tagline": "Measure environmental problems and help organizations reduce their impact.",
+    "overview": "Environmental work fits students who want to address pollution, climate risk, conservation, land use, sustainable business, or environmental policy. Depending on the role, professionals may collect soil and water samples, map environmental conditions, review permits, calculate emissions, inspect facilities, or help an organization reduce waste and energy use. The category includes scientific, regulatory, business, and community-facing paths.",
+    "career_themes": [
+      "Monitoring environmental conditions",
+      "Reducing pollution and waste",
+      "Improving organizational sustainability",
+      "Protecting ecosystems and communities",
+      "Applying environmental laws and policy"
+    ],
+    "typical_tasks": [
+      "Collect and analyze soil, water, air, or emissions data",
+      "Map environmental risks with GIS",
+      "Review permits and environmental regulations",
+      "Calculate an organization's emissions or resource use",
+      "Inspect facilities for environmental compliance",
+      "Recommend practical sustainability improvements"
+    ],
+    "core_skills": {
+      "hard_skills": [
+        "GIS Mapping",
+        "Environmental Sampling",
+        "Data Collection",
+        "Environmental Auditing",
+        "Carbon Accounting",
+        "Life Cycle Assessment",
+        "Regulatory Compliance",
+        "Excel",
+        "R",
+        "Data Visualization"
+      ],
+      "soft_skills": [
+        "Technical Communication",
+        "Public Communication",
+        "Project Coordination",
+        "Stakeholder Engagement",
+        "Report Writing",
+        "Team Collaboration"
+      ],
+      "general_talents": [
+        "Systems Thinking",
+        "Careful Observation",
+        "Scientific Reasoning",
+        "Long-Term Planning",
+        "Practical Judgment",
+        "Community Awareness"
+      ]
+    },
+    "education": {
+      "common_entry_levels": [
+        "bachelors"
+      ],
+      "graduate_school_value": "helpful",
+      "graduate_school_note": "A bachelor's degree supports many environmental science, compliance, sustainability, GIS, and program roles. Graduate study becomes more valuable for advanced climate modeling, toxicology, research, environmental economics, and specialized policy work.",
+      "licensing_or_certification": "No universal license applies across the category. Environmental engineers may pursue PE licensure. GIS, LEED, hazardous-material, auditing, and sustainability credentials can support specific positions."
+    },
+    "salary": {
+      "band": "medium",
+      "typical_range": {
+        "minimum": 50000,
+        "maximum": 135000
+      },
+      "variability_note": "The BLS reported a May 2024 median of $80,060 for environmental scientists and specialists. Environmental engineering, consulting, corporate sustainability, and management roles may pay more than field technician or nonprofit positions."
+    },
+    "work_profile": {
+      "common_environments": [
+        "Outdoor / Environmental Setting",
+        "Field-Based / On-Site",
+        "Government / Public Sector",
+        "Laboratory / Research Setting",
+        "Office / Corporate Setting",
+        "Community / Public-Facing Setting",
+        "Team-Based / Collaborative",
+        "Research / Idea-Driven Setting"
+      ],
+      "people_balance": "balanced",
+      "intensity": "moderately_demanding",
+      "location_flexibility": "moderate"
+    },
+    "advantages": [
+      "The work can produce measurable improvements in pollution, energy use, conservation, and public health.",
+      "Career options exist in government, consulting, engineering, nonprofits, research, and private companies.",
+      "Students can combine environmental interests with data, policy, business, law, or communication.",
+      "Fieldwork and campus sustainability projects provide accessible ways to test career fit.",
+      "GIS maps, environmental assessments, and emissions reports can become portfolio projects."
+    ],
+    "tradeoffs": [
+      "Some positions involve outdoor work, travel, hazardous sites, or uncomfortable weather.",
+      "Environmental progress may be limited by budgets, politics, and regulatory delays.",
+      "Entry-level nonprofit and field positions may pay less than corporate or engineering roles.",
+      "Sustainability titles are inconsistent, so similar jobs may require very different skills.",
+      "Advanced climate and scientific research usually requires graduate education."
+    ],
+    "sample_job_ids": [
+      "Climate Risk Analyst",
+      "Corporate Sustainability Analyst",
+      "Environmental Compliance Officer",
+      "Environmental Economist",
+      "ESG (Environmental, Social, Governance) Specialist",
+      "Environmental Educator",
+      "Environmental Policy Advocate",
+      "Environmental Compliance Inspector",
+      "Sustainability Consultant",
+      "Supply Chain Sustainability Specialist"
+    ],
+    "recommended_course_ids": [
+      "Environmental Science and Sustainability",
+      "Environmental Biology",
+      "Aquatic Ecology",
+      "Global Environment",
+      "Global Environment: Politics",
+      "Global Environment: Business",
+      "Environmental Law and Policy",
+      "Introduction to Geographic Information Systems",
+      "Mathematics of Sustainability",
+      "Environmental Ethics"
+    ],
+    "student_next_steps": [
+      "Map a local environmental problem using GIS",
+      "Measure waste, energy, or water use for a campus organization",
+      "Practice collecting and documenting environmental samples",
+      "Volunteer with a conservation or environmental justice project",
+      "Apply for a government, consulting, nonprofit, or sustainability internship"
+    ],
+    "related_category_ids": [
+      "Science & Research",
+      "Civil Engineering",
+      "Politics & Public Policy",
+      "Economics",
+      "Materials Engineering",
+      "Writing & Journalism"
+    ],
+    "sources": [
+      "https://www.bls.gov/ooh/life-physical-and-social-science/environmental-scientists-and-specialists.htm",
+      "https://www.bls.gov/ooh/life-physical-and-social-science/conservation-scientists.htm",
+      "https://www.onetonline.org/link/summary/19-2041.00",
+      "https://www.loyola.edu/academics/environmental-science-studies/faculty/",
+      "https://www.loyola.edu/academics/physics/curriculum/degrees-offered-focus-areas/environmental-engineering.html"
+    ],
+    "last_researched": "2026-08-25"
+  },
+  {
+    "id": "Accounting",
+    "tagline": "Track financial activity and verify that organizations report it accurately.",
+    "overview": "Accounting fits students who are comfortable working with financial records, detailed rules, and deadlines. Accountants record transactions, prepare financial statements, calculate taxes, test internal controls, and investigate whether records are accurate. Their work helps managers, investors, regulators, and clients understand where money came from, where it went, and whether the organization followed required standards.",
+    "career_themes": [
+      "Preparing financial statements",
+      "Auditing records and controls",
+      "Tracking costs and budgets",
+      "Calculating business taxes",
+      "Investigating financial irregularities"
+    ],
+    "typical_tasks": [
+      "Record and classify business transactions",
+      "Reconcile bank and ledger balances",
+      "Prepare financial statements and supporting schedules",
+      "Test transactions during an audit",
+      "Calculate tax obligations and filing adjustments",
+      "Explain financial issues to managers or clients"
+    ],
+    "core_skills": {
+      "hard_skills": [
+        "Financial Reporting",
+        "General Ledger",
+        "Account Reconciliation",
+        "Auditing",
+        "Tax Preparation",
+        "Internal Controls",
+        "GAAP",
+        "Excel",
+        "Accounting Systems",
+        "Data Analysis"
+      ],
+      "soft_skills": [
+        "Client Communication",
+        "Professional Ethics",
+        "Technical Documentation",
+        "Deadline Management",
+        "Team Collaboration",
+        "Confidentiality"
+      ],
+      "general_talents": [
+        "Attention to Detail",
+        "Numerical Accuracy",
+        "Organization",
+        "Rule-Based Reasoning",
+        "Consistency",
+        "Problem Detection"
+      ]
+    },
+    "education": {
+      "common_entry_levels": [
+        "bachelors"
+      ],
+      "graduate_school_value": "helpful",
+      "graduate_school_note": "A bachelor's degree supports staff accounting, audit, tax, and corporate accounting roles. Additional graduate coursework can help students meet CPA education requirements or move into specialized taxation, forensic accounting, and information-systems work.",
+      "licensing_or_certification": "A CPA license is not required for every accounting job, but it is important for public accounting and certain advancement paths. CPA education and experience requirements vary by state. CMA, CIA, and CISA credentials support management accounting, internal audit, and technology-audit roles."
+    },
+    "salary": {
+      "band": "medium_high",
+      "typical_range": {
+        "minimum": 53000,
+        "maximum": 141000
+      },
+      "variability_note": "The BLS reported a May 2024 median of $81,680 for accountants and auditors. CPA status, industry specialization, management responsibility, and public-accounting experience can raise compensation."
+    },
+    "work_profile": {
+      "common_environments": [
+        "Office / Corporate Setting",
+        "Structured / Predictable",
+        "Independent / Solo Work",
+        "Team-Based / Collaborative",
+        "Client-Facing / Social",
+        "Remote / Work From Home",
+        "Fast-Paced / High-Pressure",
+        "Government / Public Sector"
+      ],
+      "people_balance": "mostly_independent",
+      "intensity": "moderately_demanding",
+      "location_flexibility": "high"
+    },
+    "advantages": [
+      "Nearly every organization needs accounting, reporting, tax, or audit support.",
+      "The field offers clear entry-level positions and structured advancement paths.",
+      "Accounting knowledge transfers into finance, consulting, compliance, analytics, and management.",
+      "Students can demonstrate their skills through reconciliations, financial statements, and audit projects.",
+      "Professional credentials can provide a visible career advantage."
+    ],
+    "tradeoffs": [
+      "Tax season, audits, quarter-end, and year-end reporting can require long hours.",
+      "Small errors can affect financial statements, taxes, or regulatory filings.",
+      "Some tasks are repetitive and governed by detailed procedures.",
+      "CPA eligibility and testing require substantial additional work.",
+      "Accounting standards, tax rules, and reporting technology change regularly."
+    ],
+    "sample_job_ids": [
+      "Accountant / Auditor",
+      "Audit Associate",
+      "Staff Accountant",
+      "Forensic Staff Accountant",
+      "Internal IT Auditor",
+      "SOC Audit Staff",
+      "IT Risk Auditor",
+      "Chief Audit Executive (CAE)",
+      "ESG Accounting Specialist",
+      "Accounting Information Architect"
+    ],
+    "recommended_course_ids": [
+      "Financial Accounting",
+      "Managerial Accounting",
+      "Cost Accounting",
+      "Auditing",
+      "Taxation of Business Entities",
+      "Accounting Information Systems",
+      "Financial Management",
+      "Business Statistics",
+      "Enterprise Systems",
+      "Data Analytics and IS"
+    ],
+    "student_next_steps": [
+      "Build financial statements from a sample transaction file",
+      "Practice reconciliations and lookup formulas in Excel",
+      "Volunteer with a supervised tax-preparation program",
+      "Check Maryland CPA education requirements before senior year",
+      "Apply for audit, tax, corporate accounting, or internal-control internships"
+    ],
+    "related_category_ids": [
+      "Finance",
+      "Business Intelligence",
+      "Analytics & Data",
+      "Business & Management",
+      "Information Technology (IT)",
+      "Cybersecurity"
+    ],
+    "sources": [
+      "https://www.bls.gov/ooh/business-and-financial/accountants-and-auditors.htm",
+      "https://www.onetonline.org/link/summary/13-2011.00",
+      "https://catalogue.loyola.edu/preview_program.php?catoid=16&poid=1756&print=&returnto=572",
+      "https://catalogue.loyola.edu/preview_program.php?catoid=30&poid=3885&returnto=1093"
+    ],
+    "last_researched": "2026-08-25"
+  },
+  {
+    "id": "Mathematics & Statistics",
+    "tagline": "Use mathematical models and data to solve problems that cannot be answered by intuition alone.",
+    "overview": "Mathematics and statistics fit students who enjoy working carefully through difficult problems and explaining why an answer is valid. Applied work may involve designing experiments, estimating risk, testing medical treatments, forecasting demand, or optimizing a system. Pure mathematics focuses more heavily on proofs, structures, and the logical foundations later used in computing, economics, physics, and cryptography.",
+    "career_themes": [
+      "Building mathematical models",
+      "Designing statistical studies",
+      "Estimating risk and uncertainty",
+      "Optimizing complex decisions",
+      "Developing and testing mathematical methods"
+    ],
+    "typical_tasks": [
+      "Choose an appropriate model for a research question",
+      "Clean and validate data before analysis",
+      "Calculate estimates and uncertainty intervals",
+      "Design experiments or sampling plans",
+      "Write code to run simulations and models",
+      "Present results through tables, graphs, and explanations"
+    ],
+    "core_skills": {
+      "hard_skills": [
+        "Statistical Modeling",
+        "Probability",
+        "Experimental Design",
+        "Regression Analysis",
+        "Optimization",
+        "R",
+        "Python",
+        "MATLAB",
+        "LaTeX",
+        "Data Visualization"
+      ],
+      "soft_skills": [
+        "Technical Communication",
+        "Research Communication",
+        "Team Collaboration",
+        "Documentation",
+        "Question Framing",
+        "Quality Checking"
+      ],
+      "general_talents": [
+        "Logical Reasoning",
+        "Pattern Recognition",
+        "Abstract Thinking",
+        "Quantitative Reasoning",
+        "Persistence",
+        "Precision"
+      ]
+    },
+    "education": {
+      "common_entry_levels": [
+        "bachelors",
+        "masters"
+      ],
+      "graduate_school_value": "important",
+      "graduate_school_note": "A bachelor's degree can lead to actuarial, analytics, operations research, programming, and junior statistical roles. Formal mathematician and statistician positions frequently require a master's degree, while university research generally requires a doctorate.",
+      "licensing_or_certification": "No general professional license is required. Actuarial careers require a sequence of professional examinations. Certifications in statistical software are optional and usually less important than applied project experience."
+    },
+    "salary": {
+      "band": "high",
+      "typical_range": {
+        "minimum": 60000,
+        "maximum": 175000
+      },
+      "variability_note": "The BLS reported May 2024 medians of $121,680 for mathematicians and $103,300 for statisticians. Compensation varies across government, insurance, healthcare, technology, finance, and academic research."
+    },
+    "work_profile": {
+      "common_environments": [
+        "Research / Idea-Driven Setting",
+        "Independent / Solo Work",
+        "Quiet / Low Interaction",
+        "Office / Corporate Setting",
+        "Academic / Educational Setting",
+        "Remote / Work From Home",
+        "Team-Based / Collaborative",
+        "Laboratory / Research Setting"
+      ],
+      "people_balance": "mostly_independent",
+      "intensity": "moderately_demanding",
+      "location_flexibility": "high"
+    },
+    "advantages": [
+      "Mathematical and statistical skills transfer across science, finance, healthcare, government, engineering, and technology.",
+      "Students learn methods for handling uncertainty instead of relying on guesses.",
+      "Programming and domain knowledge can turn the degree into several applied career paths.",
+      "Research and modeling projects provide measurable portfolio evidence.",
+      "The field provides strong preparation for quantitative graduate programs."
+    ],
+    "tradeoffs": [
+      "A degree built around theory alone may not communicate job readiness to employers.",
+      "Formal mathematician and statistician roles often require graduate education.",
+      "Proof-based courses demand a different style of thinking from routine calculation.",
+      "Incorrect assumptions or poor data can invalidate an otherwise correct model.",
+      "Students need programming and communication skills to access the widest range of jobs."
+    ],
+    "sample_job_ids": [
+      "Actuarial Analyst",
+      "Actuary",
+      "Biostatistician",
+      "Mathematician",
+      "Statistician",
+      "Operations Research Analyst",
+      "Statistical Demographer",
+      "Econometrician",
+      "Quantitative Trader",
+      "Data Scientist"
+    ],
+    "recommended_course_ids": [
+      "Calculus I",
+      "Linear Algebra",
+      "Discrete Methods",
+      "Analysis I",
+      "Probability and Statistics",
+      "Statistical Computing",
+      "Intermediate Statistical Methods",
+      "Applied Multivariate Analysis",
+      "Experimental Design",
+      "Stochastic Processes"
+    ],
+    "student_next_steps": [
+      "Complete one statistical analysis using a public dataset",
+      "Learn R or Python well enough to reproduce the analysis",
+      "Write a short explanation of the assumptions and limitations",
+      "Enter a modeling, analytics, or actuarial competition",
+      "Apply for research, actuarial, operations, or analytics internships"
+    ],
+    "related_category_ids": [
+      "Analytics & Data",
+      "Science & Research",
+      "Economics",
+      "Finance",
+      "Computer Science & Software Development",
+      "Healthcare"
+    ],
+    "sources": [
+      "https://www.bls.gov/ooh/math/mathematicians-and-statisticians.htm",
+      "https://www.bls.gov/ooh/math/operations-research-analysts.htm",
+      "https://www.bls.gov/ooh/math/actuaries.htm",
+      "https://www.onetonline.org/link/summary/15-2041.00",
+      "https://catalogue.loyola.edu/preview_program.php?catoid=30&poid=3787"
+    ],
+    "last_researched": "2026-08-25"
+  },
+  {
+    "id": "Materials Engineering",
+    "tagline": "Develop and test the metals, polymers, ceramics, and composites used in real products.",
+    "overview": "Materials engineering fits students who want to understand why physical materials bend, crack, corrode, conduct heat, or survive demanding conditions. Materials engineers select and modify metals, polymers, ceramics, composites, and electronic materials for products such as aircraft, batteries, medical implants, buildings, and computer chips. The work combines laboratory testing, chemistry, physics, manufacturing, and failure analysis.",
+    "career_themes": [
+      "Developing new materials",
+      "Testing strength and durability",
+      "Investigating product failures",
+      "Improving manufacturing processes",
+      "Selecting materials for specific conditions"
+    ],
+    "typical_tasks": [
+      "Test material strength, hardness, corrosion, or heat resistance",
+      "Examine samples with microscopes and laboratory instruments",
+      "Compare materials against product requirements",
+      "Investigate why a component cracked or failed",
+      "Adjust manufacturing or heat-treatment procedures",
+      "Document test methods and recommend material changes"
+    ],
+    "core_skills": {
+      "hard_skills": [
+        "Materials Testing",
+        "Microscopy",
+        "Failure Analysis",
+        "Mechanical Testing",
+        "Thermal Analysis",
+        "Corrosion Testing",
+        "Laboratory Methods",
+        "CAD Modeling",
+        "Engineering Simulation",
+        "Statistical Analysis"
+      ],
+      "soft_skills": [
+        "Technical Communication",
+        "Laboratory Documentation",
+        "Team Collaboration",
+        "Safety Awareness",
+        "Project Planning",
+        "Quality Control"
+      ],
+      "general_talents": [
+        "Careful Observation",
+        "Scientific Reasoning",
+        "Diagnostic Thinking",
+        "Quantitative Reasoning",
+        "Precision",
+        "Curiosity"
+      ]
+    },
+    "education": {
+      "common_entry_levels": [
+        "bachelors"
+      ],
+      "graduate_school_value": "helpful",
+      "graduate_school_note": "A bachelor's degree supports entry-level testing, manufacturing, quality, and materials engineering positions. Graduate study is more valuable for nanotechnology, semiconductor materials, battery research, biomaterials, and advanced materials development.",
+      "licensing_or_certification": "No universal materials-engineering license is required. A PE license applies to some public-facing engineering work. Specialized testing, welding, quality, and nondestructive-evaluation credentials may help in particular industries."
+    },
+    "salary": {
+      "band": "medium_high",
+      "typical_range": {
+        "minimum": 68000,
+        "maximum": 172000
+      },
+      "variability_note": "The BLS reported a May 2024 median of $108,310 for materials engineers. Semiconductor, aerospace, research, and senior product-development roles can pay more."
+    },
+    "work_profile": {
+      "common_environments": [
+        "Laboratory / Research Setting",
+        "Industrial / Manufacturing Setting",
+        "Research / Idea-Driven Setting",
+        "Team-Based / Collaborative",
+        "Independent / Solo Work",
+        "Office / Corporate Setting",
+        "Structured / Predictable",
+        "Field-Based / On-Site"
+      ],
+      "people_balance": "balanced",
+      "intensity": "moderately_demanding",
+      "location_flexibility": "low"
+    },
+    "advantages": [
+      "Materials decisions affect products in aerospace, energy, medicine, electronics, construction, and transportation.",
+      "Laboratory tests produce direct evidence students can include in technical portfolios.",
+      "The field connects chemistry and physics to real manufacturing problems.",
+      "Students can specialize in metals, polymers, ceramics, composites, biomaterials, or electronic materials.",
+      "Failure analysis gives the work a clear investigative component."
+    ],
+    "tradeoffs": [
+      "Many positions require regular laboratory or manufacturing-site access.",
+      "Advanced research roles may require a master's degree or doctorate.",
+      "Testing can be repetitive because results must be verified under several conditions.",
+      "Material and manufacturing failures can create serious safety or financial consequences.",
+      "Specialized equipment may limit the projects students can complete independently."
+    ],
+    "sample_job_ids": [
+      "Biomaterials Developer",
+      "Composite Materials Engineer",
+      "Materials Lab Technician",
+      "Metallurgical Engineer",
+      "Semiconductor Process Engineer",
+      "Materials Genome Scientist",
+      "Space Materials Scientist",
+      "Biomaterial Implant Scientist",
+      "Metallurgical Failure Consultant",
+      "Corrosion Mitigator"
+    ],
+    "recommended_course_ids": [
+      "Introduction to Engineering Materials",
+      "Materials Science Lab",
+      "Solid Mechanics",
+      "Solid Mechanics Lab",
+      "General Chemistry I",
+      "Quantitative Chemical Analysis",
+      "Organic Chemistry",
+      "Physics I",
+      "Thermodynamics",
+      "Computer-Aided Simulation"
+    ],
+    "student_next_steps": [
+      "Compare two materials using a documented laboratory test",
+      "Write a failure-analysis report for a broken component",
+      "Learn microscopy, hardness testing, or tensile testing",
+      "Ask an engineering or physics professor about materials research",
+      "Apply for a manufacturing, quality, aerospace, or laboratory internship"
+    ],
+    "related_category_ids": [
+      "Mechanical & Industrial Engineering",
+      "Electrical Engineering",
+      "Biomechanical Engineering",
+      "Science & Research",
+      "Civil Engineering",
+      "Environmental Work & Sustainability"
+    ],
+    "sources": [
+      "https://www.bls.gov/ooh/architecture-and-engineering/materials-engineers.htm",
+      "https://www.bls.gov/ooh/life-physical-and-social-science/chemists-and-materials-scientists.htm",
+      "https://www.onetonline.org/link/summary/17-2131.00",
+      "https://www.loyola.edu/academics/physics/curriculum/degrees-offered-focus-areas/mechanical-engineering.html",
+      "https://www.loyola.edu/academics/engineering/news/2014-new-materials-experiment.html"
+    ],
+    "last_researched": "2026-08-25"
+  },
+  {
+    "id": "Education",
+    "tagline": "Help people learn by designing instruction, guiding practice, and measuring progress.",
+    "overview": "Education fits students who enjoy explaining ideas, supporting other people, and adjusting their approach when someone does not understand. Teachers and education professionals plan lessons, lead activities, assess learning, manage group behavior, and communicate with students, families, and colleagues. The category also includes academic advising, admissions, training, instructional design, and education policy.",
+    "career_themes": [
+      "Teaching academic subjects",
+      "Designing lessons and curriculum",
+      "Supporting student development",
+      "Creating workplace training",
+      "Improving educational programs"
+    ],
+    "typical_tasks": [
+      "Set clear learning goals",
+      "Create lessons, activities, and practice materials",
+      "Explain the same idea in different ways",
+      "Assess student work and provide feedback",
+      "Maintain records and communicate progress",
+      "Adjust instruction for different learning needs"
+    ],
+    "core_skills": {
+      "hard_skills": [
+        "Lesson Planning",
+        "Curriculum Design",
+        "Classroom Management",
+        "Learning Assessment",
+        "Educational Technology",
+        "Google Classroom",
+        "Learning Management Systems",
+        "Presentation Design",
+        "Student Records",
+        "Program Evaluation"
+      ],
+      "soft_skills": [
+        "Public Speaking",
+        "Active Listening",
+        "Conflict Management",
+        "Clear Communication",
+        "Patience",
+        "Empathy"
+      ],
+      "general_talents": [
+        "Explanation",
+        "Social Awareness",
+        "Adaptability",
+        "Organization",
+        "Encouragement",
+        "Leadership"
+      ]
+    },
+    "education": {
+      "common_entry_levels": [
+        "bachelors",
+        "masters"
+      ],
+      "graduate_school_value": "helpful",
+      "graduate_school_note": "A bachelor's degree and state-approved preparation can lead to classroom teaching. Instructional coordination, school leadership, counseling, and university teaching usually require graduate education and prior professional experience.",
+      "licensing_or_certification": "Public-school teachers generally need state licensure for their grade level or subject. Requirements vary by state. Private-school, corporate-training, tutoring, and some instructional-design roles may not require a teaching license."
+    },
+    "salary": {
+      "band": "medium",
+      "typical_range": {
+        "minimum": 45000,
+        "maximum": 105000
+      },
+      "variability_note": "The BLS reported May 2024 medians of $64,580 for high school teachers and $74,720 for instructional coordinators. Pay depends heavily on the role, school system, contract, location, education level, and experience."
+    },
+    "work_profile": {
+      "common_environments": [
+        "Academic / Educational Setting",
+        "Team-Based / Collaborative",
+        "Client-Facing / Social",
+        "Community / Public-Facing Setting",
+        "Structured / Predictable",
+        "Writing / Communication Setting",
+        "Government / Public Sector",
+        "Fast-Paced / High-Pressure"
+      ],
+      "people_balance": "people_heavy",
+      "intensity": "moderately_demanding",
+      "location_flexibility": "low"
+    },
+    "advantages": [
+      "Educators can see how their work affects student knowledge, confidence, and opportunities.",
+      "Teaching skills transfer into training, advising, instructional design, nonprofit work, and management.",
+      "Students can test their interest through tutoring or classroom observation before committing to licensure.",
+      "The field offers subject-specific, age-specific, administrative, and technology-focused paths.",
+      "Lesson plans and learning materials provide concrete portfolio evidence."
+    ],
+    "tradeoffs": [
+      "Teaching requires substantial preparation, grading, documentation, and communication outside lesson time.",
+      "Classroom management can be emotionally demanding.",
+      "Public-school roles require state-specific licensing and background checks.",
+      "Compensation may not match the workload in some districts or nonprofit settings.",
+      "Advanced administration and curriculum roles usually require graduate study and prior experience."
+    ],
+    "sample_job_ids": [
+      "Geometry Teacher",
+      "High School Physics Teacher",
+      "Academic Advisor",
+      "Instructional Designer",
+      "Admissions Counselor",
+      "Corporate Trainer",
+      "Environmental Educator",
+      "Education Policy Researcher",
+      "Curriculum Transformation Director",
+      "Superintendent of Schools"
+    ],
+    "recommended_course_ids": [
+      "Introduction to Education",
+      "Educational Psychology",
+      "Comprehensive Classroom Management",
+      "Field Experience in Math Education",
+      "Child Development",
+      "Adolescent Development",
+      "Psychology of Learning",
+      "Multicultural Issues in Psychology",
+      "Public Speaking",
+      "Professional Writing"
+    ],
+    "student_next_steps": [
+      "Tutor or mentor one student consistently",
+      "Create and teach a short lesson with a clear learning goal",
+      "Observe a classroom or educational program",
+      "Review Maryland licensing requirements for the subject and age group",
+      "Apply for a school, camp, tutoring, advising, or training position"
+    ],
+    "related_category_ids": [
+      "Social & Behavioral Sciences",
+      "Writing & Journalism",
+      "Languages & International Affairs",
+      "History & Cultural Heritage",
+      "Science & Research",
+      "Religion, Ministry & Spiritual Life"
+    ],
+    "sources": [
+      "https://www.bls.gov/ooh/education-training-and-library/high-school-teachers.htm",
+      "https://www.bls.gov/ooh/education-training-and-library/instructional-coordinators.htm",
+      "https://www.onetonline.org/link/summary/25-2031.00",
+      "https://catalogue.loyola.edu/preview_program.php?catoid=39&poid=5137&print=&returnto=1437"
+    ],
+    "last_researched": "2026-08-25"
+  },
+  {
+    "id": "Writing & Journalism",
+    "tagline": "Research, verify, and shape information into writing people can understand and use.",
+    "overview": "Writing and journalism fit students who enjoy finding the right information and presenting it clearly for a specific audience. Journalists interview sources, verify claims, review public records, and report what happened. Writers and editors may create articles, reports, speeches, technical guides, marketing copy, books, or digital content. Across these roles, published work and proven reliability matter as much as the degree itself.",
+    "career_themes": [
+      "Reporting verified information",
+      "Writing for specific audiences",
+      "Editing and improving drafts",
+      "Interviewing people and sources",
+      "Publishing across digital and print media"
+    ],
+    "typical_tasks": [
+      "Research a topic using documents and credible sources",
+      "Interview people who have direct knowledge",
+      "Write articles, reports, scripts, or guides",
+      "Check names, dates, quotations, and supporting evidence",
+      "Revise work to meet editorial requirements",
+      "Prepare content for web, print, audio, or video publication"
+    ],
+    "core_skills": {
+      "hard_skills": [
+        "News Writing",
+        "Copy Editing",
+        "Fact Checking",
+        "Interviewing",
+        "Source Verification",
+        "AP Style",
+        "Content Management",
+        "SEO Writing",
+        "Audio Editing",
+        "Multimedia Reporting"
+      ],
+      "soft_skills": [
+        "Clear Communication",
+        "Deadline Management",
+        "Source Development",
+        "Feedback Handling",
+        "Professional Ethics",
+        "Audience Awareness"
+      ],
+      "general_talents": [
+        "Curiosity",
+        "Story Recognition",
+        "Language Control",
+        "Careful Observation",
+        "Critical Thinking",
+        "Persistence"
+      ]
+    },
+    "education": {
+      "common_entry_levels": [
+        "bachelors"
+      ],
+      "graduate_school_value": "optional",
+      "graduate_school_note": "A bachelor's degree is common, but employers usually place heavy weight on published clips, internships, subject knowledge, and editing ability. Graduate study is more useful for specialized reporting, advanced technical writing, academia, or a major career change.",
+      "licensing_or_certification": "No professional license is generally required. A strong portfolio of published work is usually more valuable than a general writing certification."
+    },
+    "salary": {
+      "band": "medium",
+      "typical_range": {
+        "minimum": 40000,
+        "maximum": 135000
+      },
+      "variability_note": "The BLS reported May 2024 medians of $60,280 for journalists, $72,270 for writers and authors, and $75,260 for editors. Technical writing, management, freelancing, location, and subject specialization create substantial variation."
+    },
+    "work_profile": {
+      "common_environments": [
+        "Writing / Communication Setting",
+        "Independent / Solo Work",
+        "Remote / Work From Home",
+        "Flexible / Unstructured",
+        "Fast-Paced / High-Pressure",
+        "Community / Public-Facing Setting",
+        "Cultural / Arts-Oriented Setting",
+        "Travel-Heavy / Mobile"
+      ],
+      "people_balance": "balanced",
+      "intensity": "moderately_demanding",
+      "location_flexibility": "high"
+    },
+    "advantages": [
+      "Writing skills transfer into journalism, publishing, business, science, government, marketing, and nonprofit work.",
+      "Students can begin building a portfolio through campus publications and independent reporting.",
+      "Subject expertise can create specialized paths in science, business, health, politics, or technology.",
+      "Many roles allow remote, freelance, or project-based work.",
+      "Published work gives employers direct evidence of research and communication ability."
+    ],
+    "tradeoffs": [
+      "Entry-level journalism and publishing positions can be competitive and modestly paid.",
+      "Deadlines may require evening, weekend, or breaking-news work.",
+      "Freelance income can be inconsistent.",
+      "Writers must accept frequent editing, rejection, and revision.",
+      "Generative AI increases pressure on generic writing, making reporting, expertise, judgment, and original sourcing more important."
+    ],
+    "sample_job_ids": [
+      "News Reporter",
+      "Technical Writer",
+      "Copywriter",
+      "Editorial Assistant",
+      "Grant Writer",
+      "Speechwriter",
+      "Environmental Journalist",
+      "Investigative Journalist",
+      "Editor-in-Chief",
+      "Literary Agent / Editor"
+    ],
+    "recommended_course_ids": [
+      "Writing 100",
+      "Media Writing",
+      "News Reporting and Writing",
+      "Copy Editing",
+      "Professional Writing",
+      "Business Journalism",
+      "Writing About Science",
+      "Writing and Editing for Publication",
+      "Multimedia Storytelling",
+      "Travel Reporting"
+    ],
+    "student_next_steps": [
+      "Publish three polished clips in different formats",
+      "Report one original campus or Baltimore story",
+      "Practice interviewing and verifying information",
+      "Edit a draft using a professional style guide",
+      "Apply to a campus publication, newsroom, publisher, or communications internship"
+    ],
+    "related_category_ids": [
+      "Media, Communications & Public Relations",
+      "Marketing & Advertising",
+      "Arts & Creative Industries",
+      "Politics & Public Policy",
+      "History & Cultural Heritage",
+      "Science & Research",
+      "Environmental Work & Sustainability"
+    ],
+    "sources": [
+      "https://www.bls.gov/ooh/media-and-communication/writers-and-authors.htm",
+      "https://www.bls.gov/ooh/media-and-communication/reporters-correspondents-and-broadcast-news-analysts.htm",
+      "https://www.bls.gov/ooh/media-and-communication/editors.htm",
+      "https://www.onetonline.org/link/summary/27-3043.00",
+      "https://www.onetonline.org/link/summary/27-3023.00",
+      "https://www.loyola.edu/academics/writing/",
+      "https://catalogue.loyola.edu/preview_program.php?catoid=28&poid=3213"
+    ],
+    "last_researched": "2026-08-25"
+  },
+  {
+    "id": "Politics & Public Policy",
+    "tagline": "Turn public problems into research, policy proposals, campaigns, and government programs.",
+    "overview": "Politics and public policy fit students who want to understand how governments make decisions and how those decisions affect communities. Professionals in this field research legislation, analyze budgets and public data, speak with community groups, prepare recommendations, and help elected officials, agencies, campaigns, or advocacy organizations act on an issue. The work is less about debating opinions and more about gathering evidence, understanding stakeholders, and working through real political and administrative limits.",
+    "career_themes": [
+      "Analyzing public policy",
+      "Supporting government programs",
+      "Organizing political campaigns",
+      "Representing public interests",
+      "Measuring public opinion"
+    ],
+    "typical_tasks": [
+      "Research proposed laws and regulations",
+      "Write policy briefs and legislative summaries",
+      "Analyze demographic, budget, or polling data",
+      "Prepare officials for meetings and hearings",
+      "Coordinate campaign or advocacy events",
+      "Gather feedback from community stakeholders"
+    ],
+    "core_skills": {
+      "hard_skills": [
+        "Policy Analysis",
+        "Legislative Research",
+        "Program Evaluation",
+        "Survey Research",
+        "Budget Analysis",
+        "Data Visualization",
+        "Excel",
+        "GIS Mapping",
+        "Policy Writing",
+        "Public Records Research"
+      ],
+      "soft_skills": [
+        "Public Speaking",
+        "Stakeholder Communication",
+        "Persuasive Communication",
+        "Negotiation",
+        "Coalition Building",
+        "Professional Writing"
+      ],
+      "general_talents": [
+        "Systems Thinking",
+        "Social Awareness",
+        "Balanced Judgment",
+        "Cause-and-Effect Reasoning",
+        "Leadership",
+        "Adaptability"
+      ]
+    },
+    "education": {
+      "common_entry_levels": [
+        "bachelors",
+        "masters"
+      ],
+      "graduate_school_value": "helpful",
+      "graduate_school_note": "A bachelor's degree can lead to campaign, legislative support, government affairs, nonprofit, and junior policy positions. Formal political scientist and advanced policy research roles often require a master's degree or doctorate.",
+      "licensing_or_certification": "No general license is required. Planning roles may value AICP certification after qualifying education and experience. Data, GIS, budgeting, and program-evaluation skills are usually more useful than general political certifications."
+    },
+    "salary": {
+      "band": "medium_high",
+      "typical_range": {
+        "minimum": 50000,
+        "maximum": 145000
+      },
+      "variability_note": "The BLS reported May 2024 medians of $139,380 for political scientists and $83,720 for urban and regional planners. Campaign and entry-level nonprofit positions often pay less than research, consulting, management, and federal roles."
+    },
+    "work_profile": {
+      "common_environments": [
+        "Government / Public Sector",
+        "Community / Public-Facing Setting",
+        "Office / Corporate Setting",
+        "Writing / Communication Setting",
+        "Team-Based / Collaborative",
+        "Client-Facing / Social",
+        "Research / Idea-Driven Setting",
+        "Fast-Paced / High-Pressure"
+      ],
+      "people_balance": "balanced",
+      "intensity": "moderately_demanding",
+      "location_flexibility": "moderate"
+    },
+    "advantages": [
+      "The work can influence legislation, government services, elections, and community investment.",
+      "Students can enter through campaigns, internships, advocacy organizations, or government offices.",
+      "Policy research combines writing, data, law, economics, and public communication.",
+      "Experience transfers between government, consulting, nonprofits, and corporate public affairs.",
+      "Policy briefs, polling analyses, and program evaluations can become portfolio evidence."
+    ],
+    "tradeoffs": [
+      "Government and legislative changes can cancel or redirect projects.",
+      "Political progress is often slower than the underlying public problem.",
+      "Campaign work may require evenings, weekends, and unpredictable schedules.",
+      "Entry-level political and nonprofit positions may offer modest compensation.",
+      "Formal political science research positions are limited and often require graduate education."
+    ],
+    "sample_job_ids": [
+      "Government and Public Services Analyst",
+      "Policy Analyst",
+      "Campaign Coordinator",
+      "Lobbyist / Government Affairs Associate",
+      "Environmental Policy Advocate",
+      "Trade Policy Assistant",
+      "Political Pollster / Methodologist",
+      "Campaign Strategist",
+      "Chief Policy Analyst",
+      "Urban Planning Director"
+    ],
+    "recommended_course_ids": [
+      "Introduction to Public Policy",
+      "State and Local Politics and Policymaking",
+      "American Politics",
+      "Media and the Political Process",
+      "Analytical and Legal Reasoning",
+      "Constitutional Law: Federalism and Separation of Powers",
+      "Contemporary Campaigns and Elections",
+      "Interest Groups and Lobbying",
+      "Comparative Politics",
+      "International Politics"
+    ],
+    "student_next_steps": [
+      "Write a one-page brief on a Maryland policy issue",
+      "Attend a city council, county, or legislative hearing",
+      "Volunteer for a campaign or advocacy organization",
+      "Analyze public budget, census, or polling data",
+      "Apply for a legislative, government, planning, or nonprofit internship"
+    ],
+    "related_category_ids": [
+      "Legal Services",
+      "Economics",
+      "Analytics & Data",
+      "Environmental Work & Sustainability",
+      "Media, Communications & Public Relations",
+      "Social & Behavioral Sciences"
+    ],
+    "sources": [
+      "https://www.bls.gov/ooh/life-physical-and-social-science/political-scientists.htm",
+      "https://www.bls.gov/ooh/life-physical-and-social-science/urban-and-regional-planners.htm",
+      "https://www.onetonline.org/link/summary/19-3094.00",
+      "https://catalogue.loyola.edu/preview_program.php?catoid=35&poid=4399",
+      "https://catalogue.loyola.edu/content.php?catoid=35&filter%5B3%5D=1&filter%5Bcpage%5D=13&filter%5Bitem_type%5D=3&filter%5Bonly_active%5D=1&navoid=1249&print="
+    ],
+    "last_researched": "2026-08-25"
+  },
+  {
+    "id": "Legal Services",
+    "tagline": "Research legal questions, organize evidence, and help people or organizations navigate the law.",
+    "overview": "Legal services fit students who like reading closely, identifying what a rule actually says, and building an argument from evidence. Attorneys advise clients and represent them in negotiations or court. Paralegals, investigators, mediators, and program coordinators collect records, prepare documents, track deadlines, interview people, and support legal cases. Becoming an attorney requires law school and bar admission, but several legal-support careers do not.",
+    "career_themes": [
+      "Researching laws and cases",
+      "Preparing legal documents",
+      "Organizing evidence",
+      "Advising and representing clients",
+      "Resolving disputes"
+    ],
+    "typical_tasks": [
+      "Research statutes, regulations, and court decisions",
+      "Summarize evidence and case history",
+      "Draft contracts, motions, or client correspondence",
+      "Track filing dates and legal deadlines",
+      "Interview clients, witnesses, or specialists",
+      "Prepare materials for negotiation, hearings, or trial"
+    ],
+    "core_skills": {
+      "hard_skills": [
+        "Legal Research",
+        "Case Analysis",
+        "Contract Review",
+        "Legal Writing",
+        "Citation Methods",
+        "Document Management",
+        "Evidence Organization",
+        "Regulatory Research",
+        "E-Discovery",
+        "Public Records Research"
+      ],
+      "soft_skills": [
+        "Client Communication",
+        "Persuasive Communication",
+        "Negotiation",
+        "Confidentiality",
+        "Deadline Management",
+        "Professional Ethics"
+      ],
+      "general_talents": [
+        "Close Reading",
+        "Logical Reasoning",
+        "Attention to Detail",
+        "Argument Evaluation",
+        "Composure",
+        "Balanced Judgment"
+      ]
+    },
+    "education": {
+      "common_entry_levels": [
+        "associates",
+        "bachelors",
+        "professional_degree"
+      ],
+      "graduate_school_value": "required_for_attorneys",
+      "graduate_school_note": "Paralegal, legal assistant, compliance, and program-support roles may begin with an associate or bachelor's degree. Practicing attorneys must earn a JD and satisfy state bar-admission requirements.",
+      "licensing_or_certification": "Attorneys must be admitted to the bar in the jurisdiction where they practice. Paralegal certification is generally optional, although employers may prefer it. Mediation and court-interpreter requirements vary by state and court system."
+    },
+    "salary": {
+      "band": "high",
+      "typical_range": {
+        "minimum": 45000,
+        "maximum": 180000
+      },
+      "variability_note": "The BLS reported May 2024 medians of $61,010 for paralegals and legal assistants and $151,160 for lawyers. Attorney compensation varies sharply by practice area, employer, location, and billable-hour expectations."
+    },
+    "work_profile": {
+      "common_environments": [
+        "Office / Corporate Setting",
+        "Structured / Predictable",
+        "Fast-Paced / High-Pressure",
+        "Client-Facing / Social",
+        "Writing / Communication Setting",
+        "Independent / Solo Work",
+        "Team-Based / Collaborative",
+        "Government / Public Sector"
+      ],
+      "people_balance": "balanced",
+      "intensity": "demanding",
+      "location_flexibility": "moderate"
+    },
+    "advantages": [
+      "Legal work can directly protect rights, resolve disputes, and guide important decisions.",
+      "The field offers paths in government, corporations, courts, nonprofits, and private firms.",
+      "Legal research and writing transfer into compliance, policy, contracts, and consulting.",
+      "Students can test the field through legal aid, mock trial, internships, and court observation.",
+      "Attorneys can specialize in areas connected to technology, business, healthcare, media, or the environment."
+    ],
+    "tradeoffs": [
+      "Becoming an attorney requires three additional years of school and potentially substantial debt.",
+      "Court filings and client matters involve strict deadlines and serious consequences.",
+      "Adversarial cases can be stressful and emotionally draining.",
+      "Large-firm attorney compensation often comes with long and unpredictable hours.",
+      "Legal work involves more reading, writing, and procedural detail than courtroom speaking."
+    ],
+    "sample_job_ids": [
+      "Paralegal / Legal Assistant",
+      "Legal Investigator",
+      "Mediator / Conflict Resolution Specialist",
+      "Jury Consultant",
+      "Legal Aid Program Coordinator",
+      "Corporate Litigator",
+      "Criminal Defense Attorney",
+      "Patent Attorney",
+      "Immigration Law Attorney",
+      "International Trade Lawyer"
+    ],
+    "recommended_course_ids": [
+      "Analytical and Legal Reasoning",
+      "Law and Social Justice",
+      "International Business Law",
+      "Law in Literature",
+      "Constitutional Law: Federalism and Separation of Powers",
+      "Constitutional Law: Individual Liberties",
+      "Politics of the Judicial Process",
+      "Law and Religion",
+      "Free Speech, Free Expression",
+      "Law, Lawyers, and Litigants in European History"
+    ],
+    "student_next_steps": [
+      "Brief a court case using facts, issue, rule, and holding",
+      "Observe a public court hearing",
+      "Volunteer with legal aid or a rights-focused nonprofit",
+      "Apply for a courthouse, law office, compliance, or paralegal internship",
+      "Compare JD cost and career outcomes before committing to law school"
+    ],
+    "related_category_ids": [
+      "Politics & Public Policy",
+      "Business & Management",
+      "Accounting",
+      "Cybersecurity",
+      "Writing & Journalism",
+      "Religion, Ministry & Spiritual Life"
+    ],
+    "sources": [
+      "https://www.bls.gov/ooh/legal/lawyers.htm",
+      "https://www.bls.gov/ooh/legal/paralegals-and-legal-assistants.htm",
+      "https://www.bls.gov/ooh/legal/arbitrators-mediators-and-conciliators.htm",
+      "https://www.onetonline.org/link/summary/23-1011.00",
+      "https://catalogue.loyola.edu/preview_course_nopop.php?catoid=35&coid=75288"
+    ],
+    "last_researched": "2026-08-25"
+  },
+  {
+    "id": "Languages & International Affairs",
+    "tagline": "Use language and cultural knowledge to help people and organizations work across borders.",
+    "overview": "Languages and international affairs fit students who want to communicate across cultures and understand how political, economic, and social conditions differ between countries. The work may involve translating documents, interpreting conversations, supporting diplomats, assisting international students or migrants, researching regional risks, or coordinating programs across several countries. Professional fluency requires sustained speaking, listening, reading, and writing practice beyond completing a few language courses.",
+    "career_themes": [
+      "Communicating across languages",
+      "Supporting diplomacy and international programs",
+      "Adapting products for different countries",
+      "Assisting migrants and international students",
+      "Researching global events and regional risks"
+    ],
+    "typical_tasks": [
+      "Translate documents while preserving their meaning",
+      "Interpret conversations in real time",
+      "Research political and cultural conditions in another country",
+      "Prepare international briefings and correspondence",
+      "Coordinate travel, visas, meetings, or overseas programs",
+      "Adapt communication for local cultural expectations"
+    ],
+    "core_skills": {
+      "hard_skills": [
+        "Foreign Languages",
+        "Translation",
+        "Interpretation",
+        "Regional Research",
+        "International Policy",
+        "Cross-Cultural Analysis",
+        "Localization",
+        "Professional Writing",
+        "Country Risk Analysis",
+        "Document Review"
+      ],
+      "soft_skills": [
+        "Cross-Cultural Communication",
+        "Active Listening",
+        "Diplomacy",
+        "Adaptability",
+        "Relationship Building",
+        "Professional Discretion"
+      ],
+      "general_talents": [
+        "Language Learning",
+        "Cultural Awareness",
+        "Memory",
+        "Social Perception",
+        "Curiosity",
+        "Composure"
+      ]
+    },
+    "education": {
+      "common_entry_levels": [
+        "bachelors",
+        "masters"
+      ],
+      "graduate_school_value": "helpful",
+      "graduate_school_note": "A bachelor's degree combined with strong language proficiency can support translation, international education, aid, localization, and program roles. Diplomacy, geopolitical research, and advanced international policy positions may prefer graduate education and relevant regional experience.",
+      "licensing_or_certification": "No universal license is required. Court and medical interpreters may need jurisdiction-specific certification. Government and national-security positions may require citizenship, background investigations, or security clearances."
+    },
+    "salary": {
+      "band": "medium",
+      "typical_range": {
+        "minimum": 40000,
+        "maximum": 120000
+      },
+      "variability_note": "The BLS reported a May 2024 median of $59,440 for interpreters and translators. Government, localization, specialized legal or medical language work, and international management may pay more."
+    },
+    "work_profile": {
+      "common_environments": [
+        "Government / Public Sector",
+        "Travel-Heavy / Mobile",
+        "Community / Public-Facing Setting",
+        "Client-Facing / Social",
+        "Writing / Communication Setting",
+        "Academic / Educational Setting",
+        "Team-Based / Collaborative",
+        "Remote / Work From Home"
+      ],
+      "people_balance": "people_heavy",
+      "intensity": "moderately_demanding",
+      "location_flexibility": "moderate"
+    },
+    "advantages": [
+      "Language ability creates access to communities and information unavailable to monolingual workers.",
+      "International skills apply to diplomacy, business, education, migration, aid, media, and law.",
+      "Study abroad and community work provide direct ways to test the field.",
+      "Students can combine language proficiency with technical, business, legal, or healthcare knowledge.",
+      "Cross-cultural experience can support careers involving travel or international collaboration."
+    ],
+    "tradeoffs": [
+      "Course completion alone rarely produces professional fluency.",
+      "Language ability without a second specialization may not create a clear career path.",
+      "Freelance translation and interpretation work can be inconsistent.",
+      "Interpretation requires fast, accurate decisions under pressure.",
+      "Government and overseas assignments may involve lengthy applications, relocation, or security requirements."
+    ],
+    "sample_job_ids": [
+      "Foreign Service Officer",
+      "International Relations Specialist",
+      "Foreign Language Translator",
+      "Court Interpreter",
+      "International Aid Worker",
+      "Diplomatic Administrative Officer",
+      "International Student Advisor",
+      "Trade Policy Assistant",
+      "Localization Product Lead",
+      "Cross-Border Media Bureau Chief"
+    ],
+    "recommended_course_ids": [
+      "Arabic 104",
+      "Chinese 104",
+      "Italian 104",
+      "Comprehensive Beginning French",
+      "Comprehensive Beginning Spanish",
+      "Business French",
+      "Contemporary Spanish Civilization and Culture",
+      "International Communication",
+      "International Politics",
+      "Global Politics of Migration"
+    ],
+    "student_next_steps": [
+      "Practice weekly conversation with fluent speakers",
+      "Measure proficiency using an ACTFL-aligned assessment",
+      "Create a reviewed translation or bilingual writing sample",
+      "Study abroad or volunteer with an immigrant-serving organization",
+      "Apply for an international education, aid, localization, or government internship"
+    ],
+    "related_category_ids": [
+      "Politics & Public Policy",
+      "Legal Services",
+      "History & Cultural Heritage",
+      "Business & Management",
+      "Media, Communications & Public Relations",
+      "Education"
+    ],
+    "sources": [
+      "https://www.bls.gov/ooh/media-and-communication/interpreters-and-translators.htm",
+      "https://www.onetonline.org/link/summary/27-3091.00",
+      "https://www.loyola.edu/academics/modern-languages/",
+      "https://www.loyola.edu/academics/modern-languages/curriculum/core-language-requirement.html",
+      "https://www.loyola.edu/academics/modern-languages/curriculum/study-abroad.html"
+    ],
+    "last_researched": "2026-08-25"
+  },
+  {
+    "id": "History & Cultural Heritage",
+    "tagline": "Research, preserve, and explain the records and objects that document the past.",
+    "overview": "History and cultural heritage fit students who enjoy working with original evidence such as letters, photographs, government records, oral histories, buildings, artworks, and physical artifacts. Historians interpret what the evidence shows. Archivists organize and preserve records. Museum and preservation professionals care for objects, buildings, and collections while helping the public understand why they matter.",
+    "career_themes": [
+      "Researching historical evidence",
+      "Preserving records and artifacts",
+      "Managing museum collections",
+      "Documenting community history",
+      "Interpreting history for the public"
+    ],
+    "typical_tasks": [
+      "Locate primary sources in archives and databases",
+      "Verify dates, names, ownership, and historical context",
+      "Describe records using searchable metadata",
+      "Handle and store historical materials safely",
+      "Interview people for oral-history projects",
+      "Create exhibits, tours, articles, or digital collections"
+    ],
+    "core_skills": {
+      "hard_skills": [
+        "Archival Research",
+        "Primary Source Analysis",
+        "Historical Research",
+        "Oral History",
+        "Collections Management",
+        "Digital Archives",
+        "Metadata Creation",
+        "Artifact Documentation",
+        "Exhibit Research",
+        "Genealogical Research"
+      ],
+      "soft_skills": [
+        "Research Writing",
+        "Public Communication",
+        "Interviewing",
+        "Project Coordination",
+        "Source Evaluation",
+        "Community Engagement"
+      ],
+      "general_talents": [
+        "Curiosity",
+        "Close Reading",
+        "Contextual Thinking",
+        "Attention to Detail",
+        "Pattern Recognition",
+        "Patience"
+      ]
+    },
+    "education": {
+      "common_entry_levels": [
+        "bachelors",
+        "masters"
+      ],
+      "graduate_school_value": "important",
+      "graduate_school_note": "A bachelor's degree can support museum assistant, records, research, and public-history positions. Professional historian, archivist, curator, and conservation roles commonly prefer or require a relevant master's degree.",
+      "licensing_or_certification": "No general license is required. Archivists may pursue professional certification. Art conservation and advanced museum work frequently require specialized graduate education and supervised practical experience."
+    },
+    "salary": {
+      "band": "medium",
+      "typical_range": {
+        "minimum": 40000,
+        "maximum": 110000
+      },
+      "variability_note": "The BLS reported May 2024 medians of $74,050 for historians and $57,100 across archivists, curators, and museum workers. Senior management, consulting, and specialized preservation roles can pay more."
+    },
+    "work_profile": {
+      "common_environments": [
+        "Cultural / Arts-Oriented Setting",
+        "Academic / Educational Setting",
+        "Quiet / Low Interaction",
+        "Independent / Solo Work",
+        "Research / Idea-Driven Setting",
+        "Government / Public Sector",
+        "Writing / Communication Setting",
+        "Field-Based / On-Site"
+      ],
+      "people_balance": "mostly_independent",
+      "intensity": "moderately_demanding",
+      "location_flexibility": "low"
+    },
+    "advantages": [
+      "The work preserves records, objects, and stories that could otherwise be lost.",
+      "Students can build practical experience through archives, museums, oral histories, and digital exhibits.",
+      "Historical research supports careers in museums, law, government, education, media, and preservation.",
+      "Projects can create visible public resources rather than remaining classroom papers.",
+      "Students can specialize by region, time period, material, or type of institution."
+    ],
+    "tradeoffs": [
+      "Museum, archive, and historian positions are competitive.",
+      "Many professional roles require graduate education despite modest salary levels.",
+      "Institutions may depend on grants, donations, or government funding.",
+      "Collections work can involve repetitive description and careful handling procedures.",
+      "Students need digital, project, or public-facing skills in addition to historical knowledge."
+    ],
+    "sample_job_ids": [
+      "Archivist / Records Manager",
+      "Museum Curator Assistant",
+      "Historic Preservationist",
+      "Art Conservator / Restorer",
+      "Oral Historian",
+      "Corporate Historian",
+      "Digital Heritage Specialist",
+      "Community Heritage Coordinator",
+      "Cultural Resource Manager",
+      "Museum Director"
+    ],
+    "recommended_course_ids": [
+      "Encountering the Past",
+      "The Historian's Craft",
+      "Introduction to Public History",
+      "History Seminar",
+      "US History Since Reconstruction",
+      "Civil Rights Era",
+      "Africa in the Age of Globalization",
+      "Introduction to Modern Latin America",
+      "History of Modern China",
+      "Black Death in Global Perspective"
+    ],
+    "student_next_steps": [
+      "Build a digital exhibit from primary sources",
+      "Record an oral history with consent and a transcript",
+      "Practice describing archival items with searchable metadata",
+      "Volunteer at a museum, archive, or historical society",
+      "Apply for public-history, preservation, records, or collections internships"
+    ],
+    "related_category_ids": [
+      "Writing & Journalism",
+      "Arts & Creative Industries",
+      "Education",
+      "Languages & International Affairs",
+      "Politics & Public Policy",
+      "Religion, Ministry & Spiritual Life"
+    ],
+    "sources": [
+      "https://www.bls.gov/ooh/life-physical-and-social-science/historians.htm",
+      "https://www.bls.gov/ooh/education-training-and-library/curators-museum-technicians-and-conservators.htm",
+      "https://www.onetonline.org/link/summary/19-3093.00",
+      "https://catalogue.loyola.edu/preview_entity.php?catoid=28&ent_oid=1359&returnto=964",
+      "https://catalogue.loyola.edu/preview_course_nopop.php?catoid=39&coid=86392"
+    ],
+    "last_researched": "2026-08-25"
+  },
+  {
+    "id": "Media, Communications & Public Relations",
+    "tagline": "Manage how an organization communicates with its audiences, employees, and the public.",
+    "overview": "Media, communications, and public relations fit students who enjoy shaping messages and coordinating how information reaches different audiences. Professionals write press releases, pitch reporters, manage social channels, prepare executives for interviews, communicate with employees, and respond when an organization faces criticism or a crisis. Unlike journalism, the work represents an organization or client rather than independently reporting on it.",
+    "career_themes": [
+      "Managing public reputation",
+      "Building media relationships",
+      "Planning communication campaigns",
+      "Coordinating social media",
+      "Handling crisis communication"
+    ],
+    "typical_tasks": [
+      "Write press releases and executive talking points",
+      "Pitch stories to journalists and media outlets",
+      "Plan content across social and digital channels",
+      "Monitor coverage and audience response",
+      "Prepare communication during a crisis",
+      "Report campaign results to clients or leadership"
+    ],
+    "core_skills": {
+      "hard_skills": [
+        "Media Relations",
+        "Press Release Writing",
+        "Social Media Strategy",
+        "Content Planning",
+        "Media Monitoring",
+        "Campaign Analytics",
+        "Crisis Communication",
+        "Content Management",
+        "Audience Research",
+        "Presentation Design"
+      ],
+      "soft_skills": [
+        "Public Speaking",
+        "Relationship Building",
+        "Persuasive Communication",
+        "Client Communication",
+        "Feedback Handling",
+        "Team Collaboration"
+      ],
+      "general_talents": [
+        "Audience Awareness",
+        "Message Framing",
+        "Social Perception",
+        "Adaptability",
+        "Organization",
+        "Composure"
+      ]
+    },
+    "education": {
+      "common_entry_levels": [
+        "bachelors"
+      ],
+      "graduate_school_value": "optional",
+      "graduate_school_note": "A bachelor's degree and strong portfolio are sufficient for many entry-level communications and PR roles. Graduate education is generally more useful for career changes, specialized research, or senior strategic leadership.",
+      "licensing_or_certification": "No professional license is required. Platform and analytics certifications may help with specific tools, but writing samples, campaign results, media experience, and professional judgment usually matter more."
+    },
+    "salary": {
+      "band": "medium_high",
+      "typical_range": {
+        "minimum": 45000,
+        "maximum": 145000
+      },
+      "variability_note": "The BLS reported May 2024 medians of $69,780 for public relations specialists and $138,520 for public relations managers. Industry, location, client responsibility, and management experience create substantial variation."
+    },
+    "work_profile": {
+      "common_environments": [
+        "Writing / Communication Setting",
+        "Office / Corporate Setting",
+        "Fast-Paced / High-Pressure",
+        "Team-Based / Collaborative",
+        "Client-Facing / Social",
+        "Community / Public-Facing Setting",
+        "Remote / Work From Home",
+        "Startup / Entrepreneurial Setting"
+      ],
+      "people_balance": "people_heavy",
+      "intensity": "demanding",
+      "location_flexibility": "high"
+    },
+    "advantages": [
+      "Communications work exists in corporations, government, healthcare, entertainment, education, and nonprofits.",
+      "Students can build experience through clubs, campus organizations, and local clients.",
+      "Campaigns produce measurable results and visible portfolio pieces.",
+      "The field combines writing, strategy, media, analytics, and relationship management.",
+      "Communication skills can support advancement into brand, public affairs, or executive leadership."
+    ],
+    "tradeoffs": [
+      "Crises and negative coverage may require immediate responses outside normal hours.",
+      "Public mistakes can damage both the organization and the communicator's credibility.",
+      "Entry-level roles may involve heavy scheduling, monitoring, and administrative work.",
+      "Success is partly dependent on journalists, algorithms, and public reaction.",
+      "Professionals must separate personal opinions from the organization they represent."
+    ],
+    "sample_job_ids": [
+      "Associate Media Specialist",
+      "Communications & Development Associate",
+      "Public Relations Specialist",
+      "Social Media Manager",
+      "Publicist",
+      "Internal Communications Specialist",
+      "Media Planner",
+      "Press Secretary Assistant",
+      "Crisis Communications Analyst",
+      "Audience Research Director"
+    ],
+    "recommended_course_ids": [
+      "Introduction to Communication",
+      "Fundamentals of Advertising and Public Relations",
+      "Writing for Public Relations",
+      "Case Studies in Public Relations",
+      "Media Relations",
+      "Social Media Strategies",
+      "Health Communication",
+      "Communication Research",
+      "Integrated Marketing Communication",
+      "International Communication"
+    ],
+    "student_next_steps": [
+      "Create a press release, media list, and social rollout for one event",
+      "Manage communication for a student organization and track results",
+      "Practice responding to a realistic crisis scenario",
+      "Pitch a genuine campus or community story to a publication",
+      "Apply for a PR, communications, public affairs, or social media internship"
+    ],
+    "related_category_ids": [
+      "Marketing & Advertising",
+      "Writing & Journalism",
+      "Arts & Creative Industries",
+      "Politics & Public Policy",
+      "Business & Management",
+      "Languages & International Affairs"
+    ],
+    "sources": [
+      "https://www.bls.gov/ooh/media-and-communication/public-relations-specialists.htm",
+      "https://www.bls.gov/ooh/management/public-relations-managers.htm",
+      "https://www.onetonline.org/link/summary/27-3031.00",
+      "https://catalogue.loyola.edu/preview_program.php?catoid=39&poid=5056&print=",
+      "https://catalogue.loyola.edu/preview_course_nopop.php?catoid=39&coid=87640"
+    ],
+    "last_researched": "2026-08-25"
+  },
+  {
+    "id": "Arts & Creative Industries",
+    "tagline": "Turn visual, audio, performance, and design ideas into finished creative work.",
+    "overview": "Arts and creative industries fit students who want to make work that people can see, hear, watch, use, or experience. Depending on the path, professionals may design graphics, record audio, film a documentary, build a theatrical set, illustrate medical information, create costumes, or shape a digital interface. Career progress depends heavily on the quality of the portfolio, the ability to complete projects on schedule, and reliable collaboration with clients and production teams.",
+    "career_themes": [
+      "Creating visual designs",
+      "Producing film and audio",
+      "Designing performances and environments",
+      "Building interactive experiences",
+      "Directing creative projects"
+    ],
+    "typical_tasks": [
+      "Develop sketches, scripts, storyboards, or mockups",
+      "Create work with design, editing, or production software",
+      "Present concepts and respond to feedback",
+      "Prepare files, equipment, sets, or assets for production",
+      "Coordinate with performers, clients, and technical teams",
+      "Revise and deliver finished creative work"
+    ],
+    "core_skills": {
+      "hard_skills": [
+        "Graphic Design",
+        "Video Editing",
+        "Audio Editing",
+        "Photography",
+        "Illustration",
+        "Motion Graphics",
+        "3D Design",
+        "Storyboarding",
+        "Production Planning",
+        "Portfolio Development"
+      ],
+      "soft_skills": [
+        "Creative Collaboration",
+        "Client Communication",
+        "Feedback Handling",
+        "Project Coordination",
+        "Presentation Skills",
+        "Deadline Management"
+      ],
+      "general_talents": [
+        "Visual Thinking",
+        "Storytelling",
+        "Originality",
+        "Spatial Reasoning",
+        "Observation",
+        "Experimentation"
+      ]
+    },
+    "education": {
+      "common_entry_levels": [
+        "bachelors",
+        "portfolio_based"
+      ],
+      "graduate_school_value": "optional",
+      "graduate_school_note": "A bachelor's degree can provide training and professional connections, but portfolio quality and production experience are central to hiring. Graduate education is more relevant for university teaching, art therapy, advanced research, and some specialized design fields.",
+      "licensing_or_certification": "No general license is required. Art therapy and certain design professions may require graduate education or state-specific credentials. Software certificates rarely replace a strong portfolio."
+    },
+    "salary": {
+      "band": "medium",
+      "typical_range": {
+        "minimum": 35000,
+        "maximum": 140000
+      },
+      "variability_note": "The BLS reported a May 2024 median of $53,180 across arts and design occupations. Graphic designers had a $61,300 median, while experienced art directors had a $111,040 median. Freelance income can vary substantially."
+    },
+    "work_profile": {
+      "common_environments": [
+        "Cultural / Arts-Oriented Setting",
+        "Flexible / Unstructured",
+        "Team-Based / Collaborative",
+        "Independent / Solo Work",
+        "Startup / Entrepreneurial Setting",
+        "Field-Based / On-Site",
+        "Travel-Heavy / Mobile",
+        "Remote / Work From Home"
+      ],
+      "people_balance": "balanced",
+      "intensity": "moderately_demanding",
+      "location_flexibility": "moderate"
+    },
+    "advantages": [
+      "Students can show employers completed work instead of relying only on grades.",
+      "Creative skills apply to entertainment, advertising, publishing, healthcare, education, and technology.",
+      "Freelance and independent work can provide additional ways to enter the field.",
+      "Projects combine personal expression with real production and client constraints.",
+      "Students can test several media before choosing a specialization."
+    ],
+    "tradeoffs": [
+      "Creative job markets are competitive and often portfolio-driven.",
+      "Freelance and project-based income can be unstable.",
+      "Production schedules may require nights, weekends, travel, or long sessions.",
+      "Client feedback can override personal creative preferences.",
+      "Students must continually update both their portfolio and technical tools."
+    ],
+    "sample_job_ids": [
+      "Graphic Designer",
+      "Audio Engineer / Sound Designer",
+      "Set / Scenic Designer",
+      "Creative Director Assistant",
+      "Costume Designer / Wardrobe Stylist",
+      "Community Arts Center Director",
+      "User Experience (UX) Designer",
+      "Medical / Scientific Illustrator",
+      "Documentary Film Director",
+      "Cinematographer / Director of Photography"
+    ],
+    "recommended_course_ids": [
+      "Acting I",
+      "Basic Digital Photography",
+      "Animation and Motion Graphics",
+      "Graphics I",
+      "Video I",
+      "Documentary Production",
+      "Podcasting and Long-Form Digital Audio",
+      "3D Design in Art and Engineering",
+      "Book Design and Production",
+      "Scene Design"
+    ],
+    "student_next_steps": [
+      "Build a portfolio containing six to ten finished pieces",
+      "Complete one collaborative production with a real deadline",
+      "Learn one primary creative tool beyond basic tutorials",
+      "Submit work to an exhibition, festival, publication, or competition",
+      "Apply for production, design, gallery, studio, or creative-agency internships"
+    ],
+    "related_category_ids": [
+      "Media, Communications & Public Relations",
+      "Writing & Journalism",
+      "Marketing & Advertising",
+      "Computer Science & Software Development",
+      "History & Cultural Heritage",
+      "Education"
+    ],
+    "sources": [
+      "https://www.bls.gov/ooh/arts-and-design/",
+      "https://www.bls.gov/ooh/arts-and-design/graphic-designers.htm",
+      "https://www.bls.gov/ooh/arts-and-design/art-directors.htm",
+      "https://www.bls.gov/ooh/arts-and-design/set-and-exhibit-designers.htm",
+      "https://www.onetonline.org/link/summary/27-1024.00"
+    ],
+    "last_researched": "2026-08-25"
+  },
+  {
+    "id": "Social & Behavioral Sciences",
+    "tagline": "Study how people think, behave, develop, and respond to groups, institutions, and environments.",
+    "overview": "Social and behavioral sciences fit students who want to investigate human behavior using observation, interviews, surveys, experiments, and statistical analysis. Applied roles use this evidence to improve workplaces, products, health programs, public policy, or community services. Clinical psychologists diagnose and treat mental-health conditions, but that path requires doctoral education, supervised training, and state licensure.",
+    "career_themes": [
+      "Studying human behavior",
+      "Measuring attitudes and experiences",
+      "Improving workplaces and products",
+      "Supporting mental and community health",
+      "Evaluating social programs"
+    ],
+    "typical_tasks": [
+      "Design surveys, interviews, or behavioral studies",
+      "Recruit participants and collect data",
+      "Analyze qualitative and quantitative results",
+      "Assess employee, patient, user, or community needs",
+      "Present findings to program or product teams",
+      "Protect participant privacy and document research methods"
+    ],
+    "core_skills": {
+      "hard_skills": [
+        "Survey Design",
+        "Interview Research",
+        "Experimental Design",
+        "Psychological Testing",
+        "Statistical Analysis",
+        "Qualitative Coding",
+        "SPSS",
+        "R",
+        "Program Evaluation",
+        "Research Ethics"
+      ],
+      "soft_skills": [
+        "Active Listening",
+        "Interviewing",
+        "Empathy",
+        "Research Communication",
+        "Team Collaboration",
+        "Confidentiality"
+      ],
+      "general_talents": [
+        "Social Perception",
+        "Careful Observation",
+        "Pattern Recognition",
+        "Balanced Judgment",
+        "Curiosity",
+        "Emotional Awareness"
+      ]
+    },
+    "education": {
+      "common_entry_levels": [
+        "bachelors",
+        "masters",
+        "doctorate"
+      ],
+      "graduate_school_value": "important",
+      "graduate_school_note": "A bachelor's degree can support research assistant, human resources, behavioral technician, user research, and program roles. Psychologist, sociologist, licensed counselor, and advanced research positions generally require graduate education.",
+      "licensing_or_certification": "Clinical and counseling psychologists need state licensure, usually after doctoral education and supervised experience. Counseling and social-work roles have separate state requirements. Nonclinical research, HR, policy, and user-research positions generally do not require clinical licensing."
+    },
+    "salary": {
+      "band": "medium_high",
+      "typical_range": {
+        "minimum": 45000,
+        "maximum": 145000
+      },
+      "variability_note": "The BLS reported May 2024 medians of $94,310 for psychologists, $101,690 for sociologists, and $63,380 for survey researchers. Education level, licensure, specialization, and industry strongly affect earnings."
+    },
+    "work_profile": {
+      "common_environments": [
+        "Research / Idea-Driven Setting",
+        "Healthcare / Clinical Setting",
+        "Community / Public-Facing Setting",
+        "Academic / Educational Setting",
+        "Office / Corporate Setting",
+        "Government / Public Sector",
+        "Client-Facing / Social",
+        "Laboratory / Research Setting"
+      ],
+      "people_balance": "balanced",
+      "intensity": "moderately_demanding",
+      "location_flexibility": "moderate"
+    },
+    "advantages": [
+      "Behavioral research applies to healthcare, technology, policy, education, marketing, and organizational development.",
+      "Students can choose between research, corporate, community, and clinical directions.",
+      "Survey, interview, and statistical projects provide concrete portfolio evidence.",
+      "Understanding human behavior improves work involving products, organizations, and public programs.",
+      "The field pairs well with data science, business, public health, and communications."
+    ],
+    "tradeoffs": [
+      "Psychologist and other clinical titles require lengthy graduate training and licensure.",
+      "Human behavior is difficult to measure without bias or missing context.",
+      "Clinical and community work can be emotionally demanding.",
+      "Research involving people requires careful privacy, consent, and ethics procedures.",
+      "Students without research methods or statistics may struggle to enter applied roles."
+    ],
+    "sample_job_ids": [
+      "Human Resources Specialist",
+      "Mental Health Behavioral Technician",
+      "User Research Analyst",
+      "Social Policy Researcher",
+      "Industrial-Organizational Psychologist",
+      "Clinical Psychologist",
+      "Demographic Modeler",
+      "DEI Strategy Consultant",
+      "Public Health Epidemiologist",
+      "Trial Consultant Methodologist"
+    ],
+    "recommended_course_ids": [
+      "Introduction to Psychology",
+      "Introduction to Sociology",
+      "Social Psychology",
+      "Industrial-Organizational Psychology",
+      "Research Methods I",
+      "Psychological Tests and Measurements",
+      "Life Span Development",
+      "Multicultural Issues in Psychology",
+      "Psychology of Gender",
+      "Forensic Psychology"
+    ],
+    "student_next_steps": [
+      "Design a focused survey or interview study",
+      "Complete human-subject research ethics training",
+      "Analyze behavioral data in SPSS, R, or Python",
+      "Volunteer in a research, health, youth, or community setting",
+      "Compare education and licensing requirements before choosing a clinical path"
+    ],
+    "related_category_ids": [
+      "Healthcare",
+      "Analytics & Data",
+      "Education",
+      "Marketing & Advertising",
+      "Politics & Public Policy",
+      "Business & Management"
+    ],
+    "sources": [
+      "https://www.bls.gov/ooh/life-physical-and-social-science/psychologists.htm",
+      "https://www.bls.gov/ooh/life-physical-and-social-science/sociologists.htm",
+      "https://www.bls.gov/ooh/life-physical-and-social-science/survey-researchers.htm",
+      "https://catalogue.loyola.edu/preview_program.php?catoid=30&poid=3814&print=&returnto=1093",
+      "https://catalogue.loyola.edu/preview_program.php?catoid=28&poid=3282"
+    ],
+    "last_researched": "2026-08-25"
+  },
+  {
+    "id": "Religion, Ministry & Spiritual Life",
+    "tagline": "Support people and communities through spiritual care, ethical reflection, education, and service.",
+    "overview": "Religion, ministry, and spiritual life fit students who want to help people make sense of belief, suffering, moral decisions, community responsibility, and major life events. The work may include leading worship, teaching religious education, supporting patients and families, coordinating service programs, facilitating interfaith dialogue, or advising on ethical questions. Academic theology, ordained ministry, chaplaincy, counseling, and nonprofit leadership follow different preparation paths.",
+    "career_themes": [
+      "Providing spiritual care",
+      "Leading religious education",
+      "Supporting ethical decisions",
+      "Building interfaith relationships",
+      "Organizing service and justice programs"
+    ],
+    "typical_tasks": [
+      "Prepare worship services, lessons, or reflection materials",
+      "Meet with people experiencing grief or personal crisis",
+      "Coordinate volunteers and community programs",
+      "Facilitate discussion across religious traditions",
+      "Research ethical questions in healthcare or public life",
+      "Manage events, budgets, communication, and program records"
+    ],
+    "core_skills": {
+      "hard_skills": [
+        "Theological Research",
+        "Religious Education",
+        "Pastoral Care",
+        "Program Development",
+        "Ethical Analysis",
+        "Scriptural Interpretation",
+        "Volunteer Coordination",
+        "Nonprofit Administration",
+        "Public Speaking",
+        "Professional Writing"
+      ],
+      "soft_skills": [
+        "Active Listening",
+        "Empathy",
+        "Conflict Mediation",
+        "Community Building",
+        "Cultural Sensitivity",
+        "Confidentiality"
+      ],
+      "general_talents": [
+        "Moral Reasoning",
+        "Reflection",
+        "Emotional Awareness",
+        "Explanation",
+        "Patience",
+        "Service Orientation"
+      ]
+    },
+    "education": {
+      "common_entry_levels": [
+        "bachelors",
+        "masters"
+      ],
+      "graduate_school_value": "important_for_specialized_roles",
+      "graduate_school_note": "A bachelor's degree can support ministry coordination, religious education, nonprofit, outreach, and communications roles. Chaplaincy, academic theology, clinical counseling, and many senior ministry positions commonly require graduate education, supervised formation, or denominational approval.",
+      "licensing_or_certification": "Requirements depend on the role and faith tradition. Ordination and ministry authorization are controlled by religious organizations. Professional chaplaincy often requires graduate theological education, clinical pastoral education, and faith-group endorsement. Licensed counseling requires separate state-approved clinical education."
+    },
+    "salary": {
+      "band": "medium",
+      "typical_range": {
+        "minimum": 38000,
+        "maximum": 105000
+      },
+      "variability_note": "BLS industry data reported salaries near $60,000 for directors of religious activities and education in religious organizations. Compensation varies widely across congregations, hospitals, schools, universities, nonprofits, and senior leadership."
+    },
+    "work_profile": {
+      "common_environments": [
+        "Community / Public-Facing Setting",
+        "Academic / Educational Setting",
+        "Healthcare / Clinical Setting",
+        "Client-Facing / Social",
+        "Team-Based / Collaborative",
+        "Writing / Communication Setting",
+        "Flexible / Unstructured",
+        "Cultural / Arts-Oriented Setting"
+      ],
+      "people_balance": "people_heavy",
+      "intensity": "moderately_demanding",
+      "location_flexibility": "low"
+    },
+    "advantages": [
+      "The work can provide direct support during grief, illness, conflict, and major life transitions.",
+      "Students can combine theology with healthcare, education, nonprofit work, law, psychology, or communication.",
+      "Service and ministry settings provide accessible ways to test vocational fit.",
+      "The field develops public speaking, listening, ethical reasoning, and community leadership.",
+      "Interfaith and justice-focused work can serve religiously diverse communities."
+    ],
+    "tradeoffs": [
+      "Compensation can be modest relative to the education expected.",
+      "Congregational and pastoral work often includes evenings, weekends, and emergencies.",
+      "Spiritual-care roles involve exposure to grief, illness, conflict, and crisis.",
+      "Hiring and advancement may depend on denominational requirements or faith-group endorsement.",
+      "A theology degree alone does not qualify someone for licensed counseling or clinical psychology."
+    ],
+    "sample_job_ids": [
+      "Youth Ministry Coordinator",
+      "Non-Profit Chaplain Assistant",
+      "Interfaith Liaison Officer",
+      "Director of Religious Education",
+      "Grief / Bereavement Support Specialist",
+      "Ethicist / Bioethics Consultant Assistant",
+      "Pastoral Counselor",
+      "Liturgical Music Director",
+      "Social Justice Ministry Advocate",
+      "Hospital Bioethicist"
+    ],
+    "recommended_course_ids": [
+      "Theology and the Arts: A Global History",
+      "Women in the Christian Tradition",
+      "History and Storytelling in the Bible",
+      "Christian Theology and World Religions",
+      "Theological and Spiritual Perspectives on Suffering",
+      "Ethics, Immigration, and Catholic Social Teaching",
+      "Worship, Culture, and Justice",
+      "Encounters Between Christianity, Judaism, and Islam",
+      "War, Health, and Peacebuilding",
+      "Bioethics and Social Justice"
+    ],
+    "student_next_steps": [
+      "Volunteer consistently with a ministry or faith-based service program",
+      "Plan and lead one discussion, reflection, or service event",
+      "Interview a chaplain, clergy member, educator, or nonprofit leader",
+      "Explore clinical pastoral education before pursuing chaplaincy",
+      "Create a sample lesson, ethics brief, or community-program proposal"
+    ],
+    "related_category_ids": [
+      "Education",
+      "Social & Behavioral Sciences",
+      "Healthcare",
+      "Legal Services",
+      "History & Cultural Heritage",
+      "Politics & Public Policy"
+    ],
+    "sources": [
+      "https://www.onetonline.org/link/summary/21-2011.00",
+      "https://www.onetonline.org/link/summary/21-2021.00",
+      "https://www.bls.gov/oes/2023/may/naics4_813100.htm",
+      "https://www.loyola.edu/academics/theology/",
+      "https://www.loyola.edu/academics/theology/undergraduate/degree-requirements.html",
+      "https://www.loyola.edu/academics/theology/graduate/certificate/"
+    ],
+    "last_researched": "2026-08-25"
+  }
+]

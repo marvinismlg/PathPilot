@@ -1,0 +1,2844 @@
+[
+    {
+    "id": "Marketing & Advertising",
+    "major_interest": [
+      { "id": "Marketing", "weight": 0.99 },
+      { "id": "Advertising", "weight": 0.98 },
+      { "id": "Journalism", "weight": 0.76 },
+      { "id": "Writing", "weight": 0.72 },
+      { "id": "Business Administration (General Business)", "weight": 0.72 },
+      { "id": "Info Systems & Data Analytics", "weight": 0.68 },
+      { "id": "Psychology", "weight": 0.64 },
+      { "id": "International Business", "weight": 0.60 },
+      { "id": "Photography", "weight": 0.54 },
+      { "id": "Visual Arts", "weight": 0.50 }
+    ],
+    "desired_field": [
+      { "id": "Marketing & Advertising", "weight": 0.99 },
+      { "id": "Something in Business", "weight": 0.90 },
+      { "id": "Media Strategy & Public Communication", "weight": 0.74 },
+      { "id": "Business Management", "weight": 0.60 },
+      { "id": "Creative Arts & Design", "weight": 0.56 },
+      { "id": "Business Intelligence", "weight": 0.52 }
+    ],
+    "soft_skills": [
+      { "id": "Creativity", "weight": 0.97 },
+      { "id": "Communication", "weight": 0.95 },
+      { "id": "Persuasion", "weight": 0.92 },
+      { "id": "Adaptability", "weight": 0.85 },
+      { "id": "Critical Thinking", "weight": 0.82 },
+      { "id": "Attention to Detail", "weight": 0.78 },
+      { "id": "Active Listening", "weight": 0.75 },
+      { "id": "Decision Making", "weight": 0.73 },
+      { "id": "Confidence", "weight": 0.70 }
+    ],
+    "hard_skills": [
+      { "id": "Market Research", "weight": 0.98 },
+      { "id": "Digital Advertising", "weight": 0.97 },
+      { "id": "Branding", "weight": 0.94 },
+      { "id": "Content Production", "weight": 0.86 },
+      { "id": "Data Analysis", "weight": 0.80 },
+      { "id": "Customer Relationship Management", "weight": 0.78 },
+      { "id": "Sales Strategy", "weight": 0.76 },
+      { "id": "Visual Storytelling", "weight": 0.72 },
+      { "id": "Professional Writing", "weight": 0.70 },
+      { "id": "CRM Tools", "weight": 0.68 },
+      { "id": "Hubspot", "weight": 0.64 },
+      { "id": "Salesforce", "weight": 0.60 },
+      { "id": "Excel", "weight": 0.56 }
+    ],
+    "general_talents": [
+      { "id": "Creativity & Ideation", "weight": 0.98 },
+      { "id": "Writing & communication", "weight": 0.95 },
+      { "id": "Public speaking & persuasion", "weight": 0.88 },
+      { "id": "Interpersonal & Relationship Building", "weight": 0.86 },
+      { "id": "Analysis & research", "weight": 0.78 },
+      { "id": "Observation & Pattern Recognition", "weight": 0.72 },
+      { "id": "Adaptability & Learning Quickly", "weight": 0.72 },
+      { "id": "Organization & planning", "weight": 0.68 }
+    ],
+    "employee_type": [
+      { "id": "Creative / Idea-Driven", "weight": 0.98 },
+      { "id": "People-Focused / Relationship-Driven", "weight": 0.91 },
+      { "id": "Strategic / Big-Picture", "weight": 0.89 },
+      { "id": "Collaborative / Team-Oriented", "weight": 0.86 },
+      { "id": "Flexible / Adaptable", "weight": 0.82 },
+      { "id": "Analytical / Detail-Oriented", "weight": 0.74 },
+      { "id": "Leader / Manager", "weight": 0.68 }
+    ],
+    "solo_or_people": [
+      { "id": "solo", "weight": 0.64 },
+      { "id": "people", "weight": 0.92 }
+    ],
+    "work_environment": [
+      { "id": "Writing / Communication Setting", "weight": 0.95 },
+      { "id": "Office / Corporate Setting", "weight": 0.89 },
+      { "id": "Team-Based / Collaborative", "weight": 0.88 },
+      { "id": "Client-Facing / Social", "weight": 0.86 },
+      { "id": "Fast-Paced / High-Pressure", "weight": 0.79 },
+      { "id": "Flexible / Unstructured", "weight": 0.77 },
+      { "id": "Remote / Work From Home", "weight": 0.70 },
+      { "id": "Startup / Entrepreneurial Setting", "weight": 0.68 },
+      { "id": "Cultural / Arts-Oriented Setting", "weight": 0.62 }
+    ],
+    "work_locations": [
+      { "id": "Flexible / Anywhere", "weight": 0.88 },
+      { "id": "Major City / Urban", "weight": 0.84 },
+      { "id": "Hybrid", "weight": 0.80 },
+      { "id": "Remote", "weight": 0.74 },
+      { "id": "International", "weight": 0.58 }
+    ],
+    "desired_outcomes": [
+      { "id": "Creative Expression / Communication", "weight": 0.97 },
+      { "id": "Career Growth / Advancement", "weight": 0.88 },
+      { "id": "Creative Freedom / Autonomy", "weight": 0.84 },
+      { "id": "Entrepreneurship / Start a Business", "weight": 0.80 },
+      { "id": "Build Transferable Skills / Future Opportunities", "weight": 0.76 },
+      { "id": "High Income / Wealth Building", "weight": 0.66 },
+      { "id": "Impact-Driven / Meaningful Work", "weight": 0.64 }
+    ],
+    "work_intensity": [
+      { "id": "Standard / Moderate — around 40 hours, manageable challenge", "weight": 0.86 },
+      { "id": "Moderately Demanding — ~40–50 hours, mentally demanding", "weight": 0.82 },
+      { "id": "Seasonal / Periodic Intensity — normal most of the year, but major crunch periods", "weight": 0.72 },
+      { "id": "Variable / Unpredictable Intensity — workload and hours can swing heavily", "weight": 0.68 },
+      { "id": "High Intensity — ~50–60 hours, high workload and pressure", "weight": 0.62 }
+    ],
+    "grad_or_no": [
+      { "id": "no_grad", "weight": 0.96 },
+      { "id": "yes_grad", "weight": 0.54 }
+    ],
+    "education_requirement": [
+      { "id": "bachelors", "weight": 0.96 },
+      { "id": "masters", "weight": 0.58 }
+    ],
+    "salary_band": [
+      { "id": "medium", "weight": 0.82 },
+      { "id": "medium_high", "weight": 0.88 }
+    ]
+  },
+  {
+    "id": "Healthcare",
+    "major_interest": [
+      { "id": "Nursing", "weight": 0.99 },
+      { "id": "Biohealth", "weight": 0.97 },
+      { "id": "Speech-Language-Hearing Sciences", "weight": 0.92 },
+      { "id": "Biology", "weight": 0.90 },
+      { "id": "Biochemistry", "weight": 0.84 },
+      { "id": "Psychology", "weight": 0.76 },
+      { "id": "Chemistry", "weight": 0.72 },
+      { "id": "Sociology", "weight": 0.62 },
+      { "id": "Business Administration (General Business)", "weight": 0.54 },
+      { "id": "Info Systems & Data Analytics", "weight": 0.50 }
+    ],
+    "desired_field": [
+      { "id": "Clinical Healthcare", "weight": 0.99 },
+      { "id": "Something in Health or Science", "weight": 0.96 },
+      { "id": "Public Health", "weight": 0.92 },
+      { "id": "Healthcare Administration", "weight": 0.84 },
+      { "id": "Medical Research & Biotechnology", "weight": 0.80 },
+      { "id": "Biostatistics", "weight": 0.66 },
+      { "id": "Science & Research", "weight": 0.60 }
+    ],
+    "soft_skills": [
+      { "id": "Empathy", "weight": 0.98 },
+      { "id": "Attention to Detail", "weight": 0.95 },
+      { "id": "Communication", "weight": 0.93 },
+      { "id": "Active Listening", "weight": 0.92 },
+      { "id": "Precision", "weight": 0.91 },
+      { "id": "Safety Awareness", "weight": 0.89 },
+      { "id": "Critical Thinking", "weight": 0.88 },
+      { "id": "Patience", "weight": 0.86 },
+      { "id": "Decision Making", "weight": 0.83 },
+      { "id": "Research Discipline", "weight": 0.70 }
+    ],
+    "hard_skills": [
+      { "id": "Data Collection", "weight": 0.91 },
+      { "id": "Measurement & Testing", "weight": 0.88 },
+      { "id": "Laboratory Techniques", "weight": 0.84 },
+      { "id": "Research Methods", "weight": 0.81 },
+      { "id": "Regulatory Compliance", "weight": 0.79 },
+      { "id": "Laboratory Methods", "weight": 0.76 },
+      { "id": "Scientific Writing", "weight": 0.70 },
+      { "id": "Statistical Modeling", "weight": 0.64 },
+      { "id": "Learning Program Design", "weight": 0.58 },
+      { "id": "General Education", "weight": 0.52 }
+    ],
+    "general_talents": [
+      { "id": "Empathy & Understanding People", "weight": 0.99 },
+      { "id": "Interpersonal & Relationship Building", "weight": 0.94 },
+      { "id": "Attention to Detail", "weight": 0.92 },
+      { "id": "Teaching & Mentoring", "weight": 0.88 },
+      { "id": "Problem Solving", "weight": 0.87 },
+      { "id": "Observation & Pattern Recognition", "weight": 0.84 },
+      { "id": "Memory & Knowledge Retention", "weight": 0.80 },
+      { "id": "Analysis & research", "weight": 0.72 }
+    ],
+    "employee_type": [
+      { "id": "People-Focused / Relationship-Driven", "weight": 0.99 },
+      { "id": "Structured / Process-Driven", "weight": 0.92 },
+      { "id": "Collaborative / Team-Oriented", "weight": 0.92 },
+      { "id": "Hands-On / Practical", "weight": 0.88 },
+      { "id": "Analytical / Detail-Oriented", "weight": 0.85 },
+      { "id": "Flexible / Adaptable", "weight": 0.78 },
+      { "id": "Leader / Manager", "weight": 0.64 }
+    ],
+    "solo_or_people": [
+      { "id": "solo", "weight": 0.54 },
+      { "id": "people", "weight": 0.99 }
+    ],
+    "work_environment": [
+      { "id": "Healthcare / Clinical Setting", "weight": 0.99 },
+      { "id": "Team-Based / Collaborative", "weight": 0.95 },
+      { "id": "Client-Facing / Social", "weight": 0.89 },
+      { "id": "Structured / Predictable", "weight": 0.84 },
+      { "id": "Fast-Paced / High-Pressure", "weight": 0.82 },
+      { "id": "Community / Public-Facing Setting", "weight": 0.74 },
+      { "id": "Laboratory / Research Setting", "weight": 0.70 },
+      { "id": "Field-Based / On-Site", "weight": 0.58 }
+    ],
+    "work_locations": [
+      { "id": "Flexible / Anywhere", "weight": 0.90 },
+      { "id": "Major City / Urban", "weight": 0.86 },
+      { "id": "Suburban", "weight": 0.83 },
+      { "id": "Rural", "weight": 0.74 }
+    ],
+    "desired_outcomes": [
+      { "id": "Impact-Driven / Meaningful Work", "weight": 0.99 },
+      { "id": "Job Security / Low Career Risk", "weight": 0.95 },
+      { "id": "Long-Term Stable Career", "weight": 0.93 },
+      { "id": "Specialized Expertise / Become an Expert", "weight": 0.91 },
+      { "id": "Education / People-Oriented Development", "weight": 0.88 },
+      { "id": "Career Growth / Advancement", "weight": 0.84 },
+      { "id": "High Income / Wealth Building", "weight": 0.74 },
+      { "id": "Cultural / Social Impact", "weight": 0.66 }
+    ],
+    "work_intensity": [
+      { "id": "Variable / Unpredictable Intensity — workload and hours can swing heavily", "weight": 0.89 },
+      { "id": "High Intensity — ~50–60 hours, high workload and pressure", "weight": 0.86 },
+      { "id": "Moderately Demanding — ~40–50 hours, mentally demanding", "weight": 0.84 },
+      { "id": "Standard / Moderate — around 40 hours, manageable challenge", "weight": 0.74 },
+      { "id": "Seasonal / Periodic Intensity — normal most of the year, but major crunch periods", "weight": 0.52 }
+    ],
+    "grad_or_no": [
+      { "id": "no_grad", "weight": 0.80 },
+      { "id": "yes_grad", "weight": 0.95 }
+    ],
+    "education_requirement": [
+      { "id": "bachelors", "weight": 0.94 },
+      { "id": "masters", "weight": 0.92 }
+    ],
+    "salary_band": [
+      { "id": "medium", "weight": 0.84 },
+      { "id": "medium_high", "weight": 0.92 }
+    ]
+  },
+  {
+    "id": "Analytics & Data",
+    "major_interest": [
+      { "id": "Info Systems & Data Analytics", "weight": 0.99 },
+      { "id": "Data Science", "weight": 0.99 },
+      { "id": "Mathematics", "weight": 0.92 },
+      { "id": "Computer Science", "weight": 0.87 },
+      { "id": "Economics", "weight": 0.80 },
+      { "id": "Business Economics", "weight": 0.76 },
+      { "id": "Financial Risk Management", "weight": 0.64 },
+      { "id": "Physics", "weight": 0.58 }
+    ],
+    "desired_field": [
+      { "id": "Data Analytics", "weight": 0.99 },
+      { "id": "Statistician", "weight": 0.94 },
+      { "id": "Something in Technology", "weight": 0.88 },
+      { "id": "Artificial Intelligence & Machine Learning", "weight": 0.84 },
+      { "id": "Business Intelligence", "weight": 0.78 },
+      { "id": "Biostatistics", "weight": 0.62 },
+      { "id": "Economics & Public Policy", "weight": 0.54 }
+    ],
+    "soft_skills": [
+      { "id": "Critical Thinking", "weight": 0.97 },
+      { "id": "Logical Thinking", "weight": 0.95 },
+      { "id": "Attention to Detail", "weight": 0.93 },
+      { "id": "Pattern Recognition", "weight": 0.92 },
+      { "id": "Problem Solving", "weight": 0.91 },
+      { "id": "Curiosity", "weight": 0.88 },
+      { "id": "Precision", "weight": 0.84 },
+      { "id": "Persistence", "weight": 0.78 },
+      { "id": "Decision Making", "weight": 0.72 }
+    ],
+    "hard_skills": [
+      { "id": "Data Analysis", "weight": 0.99 },
+      { "id": "Statistical Modeling", "weight": 0.98 },
+      { "id": "Data Visualization", "weight": 0.95 },
+      { "id": "Programming", "weight": 0.90 },
+      { "id": "Database Management", "weight": 0.87 },
+      { "id": "Quantitative Research", "weight": 0.86 },
+      { "id": "Forecasting", "weight": 0.82 },
+      { "id": "Excel", "weight": 0.80 },
+      { "id": "Power BI", "weight": 0.76 },
+      { "id": "Tableau", "weight": 0.74 },
+      { "id": "Scientific Computing", "weight": 0.70 },
+      { "id": "Optimization", "weight": 0.66 },
+      { "id": "Economic Modeling", "weight": 0.56 }
+    ],
+    "general_talents": [
+      { "id": "Math & numbers", "weight": 0.99 },
+      { "id": "Analysis & research", "weight": 0.98 },
+      { "id": "Observation & Pattern Recognition", "weight": 0.95 },
+      { "id": "Problem Solving", "weight": 0.92 },
+      { "id": "Technology & Systems Thinking", "weight": 0.87 },
+      { "id": "Attention to Detail", "weight": 0.86 },
+      { "id": "Adaptability & Learning Quickly", "weight": 0.68 }
+    ],
+    "employee_type": [
+      { "id": "Analytical / Detail-Oriented", "weight": 0.99 },
+      { "id": "Independent / Self-Directed", "weight": 0.90 },
+      { "id": "Structured / Process-Driven", "weight": 0.86 },
+      { "id": "Creative / Idea-Driven", "weight": 0.72 },
+      { "id": "Collaborative / Team-Oriented", "weight": 0.70 },
+      { "id": "Flexible / Adaptable", "weight": 0.68 }
+    ],
+    "solo_or_people": [
+      { "id": "solo", "weight": 0.93 },
+      { "id": "people", "weight": 0.62 }
+    ],
+    "work_environment": [
+      { "id": "Quiet / Low Interaction", "weight": 0.91 },
+      { "id": "Office / Corporate Setting", "weight": 0.89 },
+      { "id": "Remote / Work From Home", "weight": 0.87 },
+      { "id": "Independent / Solo Work", "weight": 0.86 },
+      { "id": "Research / Idea-Driven Setting", "weight": 0.84 },
+      { "id": "Structured / Predictable", "weight": 0.74 },
+      { "id": "Team-Based / Collaborative", "weight": 0.66 },
+      { "id": "Startup / Entrepreneurial Setting", "weight": 0.56 }
+    ],
+    "work_locations": [
+      { "id": "Remote", "weight": 0.95 },
+      { "id": "Flexible / Anywhere", "weight": 0.93 },
+      { "id": "Hybrid", "weight": 0.87 },
+      { "id": "Major City / Urban", "weight": 0.80 }
+    ],
+    "desired_outcomes": [
+      { "id": "Specialized Expertise / Become an Expert", "weight": 0.95 },
+      { "id": "Intellectual Exploration / Lifelong Learning", "weight": 0.93 },
+      { "id": "High Income / Wealth Building", "weight": 0.87 },
+      { "id": "Career Growth / Advancement", "weight": 0.85 },
+      { "id": "Build Transferable Skills / Future Opportunities", "weight": 0.82 },
+      { "id": "Work-Life Balance / Flexibility", "weight": 0.74 },
+      { "id": "Job Security / Low Career Risk", "weight": 0.68 }
+    ],
+    "work_intensity": [
+      { "id": "Moderately Demanding — ~40–50 hours, mentally demanding", "weight": 0.89 },
+      { "id": "Standard / Moderate — around 40 hours, manageable challenge", "weight": 0.87 },
+      { "id": "High Intensity — ~50–60 hours, high workload and pressure", "weight": 0.66 },
+      { "id": "Variable / Unpredictable Intensity — workload and hours can swing heavily", "weight": 0.58 }
+    ],
+    "grad_or_no": [
+      { "id": "no_grad", "weight": 0.95 },
+      { "id": "yes_grad", "weight": 0.82 }
+    ],
+    "education_requirement": [
+      { "id": "bachelors", "weight": 0.96 },
+      { "id": "masters", "weight": 0.84 }
+    ],
+    "salary_band": [
+      { "id": "medium", "weight": 0.66 },
+      { "id": "medium_high", "weight": 0.96 }
+    ]
+  },
+  {
+    "id": "Business Intelligence",
+    "major_interest": [
+      { "id": "Info Systems & Data Analytics", "weight": 0.99 },
+      { "id": "Data Science", "weight": 0.92 },
+      { "id": "Business Economics", "weight": 0.86 },
+      { "id": "Business Administration (General Business)", "weight": 0.84 },
+      { "id": "Economics", "weight": 0.80 },
+      { "id": "Computer Science", "weight": 0.74 },
+      { "id": "Finance", "weight": 0.72 },
+      { "id": "Accounting", "weight": 0.68 },
+      { "id": "Supply Chain Management", "weight": 0.64 },
+      { "id": "Marketing", "weight": 0.58 }
+    ],
+    "desired_field": [
+      { "id": "Business Intelligence", "weight": 0.99 },
+      { "id": "Data Analytics", "weight": 0.90 },
+      { "id": "Something in Business", "weight": 0.88 },
+      { "id": "Business Management", "weight": 0.78 },
+      { "id": "Consulting", "weight": 0.76 },
+      { "id": "Something in Technology", "weight": 0.70 },
+      { "id": "Finance", "weight": 0.58 }
+    ],
+    "soft_skills": [
+      { "id": "Critical Thinking", "weight": 0.95 },
+      { "id": "Decision Making", "weight": 0.92 },
+      { "id": "Attention to Detail", "weight": 0.90 },
+      { "id": "Logical Thinking", "weight": 0.88 },
+      { "id": "Problem Solving", "weight": 0.88 },
+      { "id": "Communication", "weight": 0.86 },
+      { "id": "Pattern Recognition", "weight": 0.84 },
+      { "id": "Organization", "weight": 0.80 },
+      { "id": "Adaptability", "weight": 0.70 }
+    ],
+    "hard_skills": [
+      { "id": "Data Analysis", "weight": 0.99 },
+      { "id": "Data Visualization", "weight": 0.96 },
+      { "id": "Power BI", "weight": 0.94 },
+      { "id": "Tableau", "weight": 0.90 },
+      { "id": "Database Management", "weight": 0.88 },
+      { "id": "Excel", "weight": 0.87 },
+      { "id": "Forecasting", "weight": 0.76 },
+      { "id": "Business Strategy", "weight": 0.74 },
+      { "id": "Process Improvement", "weight": 0.73 },
+      { "id": "Statistical Modeling", "weight": 0.68 },
+      { "id": "Market Research", "weight": 0.64 },
+      { "id": "Presentation Design", "weight": 0.62 }
+    ],
+    "general_talents": [
+      { "id": "Analysis & research", "weight": 0.97 },
+      { "id": "Technology & Systems Thinking", "weight": 0.90 },
+      { "id": "Math & numbers", "weight": 0.88 },
+      { "id": "Problem Solving", "weight": 0.86 },
+      { "id": "Organization & planning", "weight": 0.84 },
+      { "id": "Writing & communication", "weight": 0.74 },
+      { "id": "Leadership & Decision Making", "weight": 0.68 },
+      { "id": "Observation & Pattern Recognition", "weight": 0.68 }
+    ],
+    "employee_type": [
+      { "id": "Analytical / Detail-Oriented", "weight": 0.98 },
+      { "id": "Strategic / Big-Picture", "weight": 0.92 },
+      { "id": "Structured / Process-Driven", "weight": 0.88 },
+      { "id": "Collaborative / Team-Oriented", "weight": 0.82 },
+      { "id": "People-Focused / Relationship-Driven", "weight": 0.70 },
+      { "id": "Leader / Manager", "weight": 0.66 },
+      { "id": "Independent / Self-Directed", "weight": 0.65 }
+    ],
+    "solo_or_people": [
+      { "id": "solo", "weight": 0.79 },
+      { "id": "people", "weight": 0.76 }
+    ],
+    "work_environment": [
+      { "id": "Office / Corporate Setting", "weight": 0.96 },
+      { "id": "Team-Based / Collaborative", "weight": 0.86 },
+      { "id": "Structured / Predictable", "weight": 0.84 },
+      { "id": "Remote / Work From Home", "weight": 0.78 },
+      { "id": "Writing / Communication Setting", "weight": 0.70 },
+      { "id": "Fast-Paced / High-Pressure", "weight": 0.62 },
+      { "id": "Independent / Solo Work", "weight": 0.60 }
+    ],
+    "work_locations": [
+      { "id": "Hybrid", "weight": 0.91 },
+      { "id": "Remote", "weight": 0.86 },
+      { "id": "Major City / Urban", "weight": 0.85 },
+      { "id": "Flexible / Anywhere", "weight": 0.80 }
+    ],
+    "desired_outcomes": [
+      { "id": "Build Transferable Skills / Future Opportunities", "weight": 0.92 },
+      { "id": "Career Growth / Advancement", "weight": 0.90 },
+      { "id": "High Income / Wealth Building", "weight": 0.84 },
+      { "id": "Specialized Expertise / Become an Expert", "weight": 0.84 },
+      { "id": "Job Security / Low Career Risk", "weight": 0.78 },
+      { "id": "Work-Life Balance / Flexibility", "weight": 0.74 },
+      { "id": "Leadership / Executive Path", "weight": 0.72 }
+    ],
+    "work_intensity": [
+      { "id": "Standard / Moderate — around 40 hours, manageable challenge", "weight": 0.91 },
+      { "id": "Moderately Demanding — ~40–50 hours, mentally demanding", "weight": 0.86 },
+      { "id": "Seasonal / Periodic Intensity — normal most of the year, but major crunch periods", "weight": 0.58 },
+      { "id": "High Intensity — ~50–60 hours, high workload and pressure", "weight": 0.54 }
+    ],
+    "grad_or_no": [
+      { "id": "no_grad", "weight": 0.96 },
+      { "id": "yes_grad", "weight": 0.66 }
+    ],
+    "education_requirement": [
+      { "id": "bachelors", "weight": 0.97 },
+      { "id": "masters", "weight": 0.70 }
+    ],
+    "salary_band": [
+      { "id": "medium", "weight": 0.72 },
+      { "id": "medium_high", "weight": 0.93 }
+    ]
+  },
+  {
+    "id": "Business & Management",
+    "major_interest": [
+      { "id": "Business Administration (General Business)", "weight": 0.99 },
+      { "id": "Management Consulting", "weight": 0.97 },
+      { "id": "International Business", "weight": 0.86 },
+      { "id": "Supply Chain Management", "weight": 0.82 },
+      { "id": "Marketing", "weight": 0.78 },
+      { "id": "Business Economics", "weight": 0.77 },
+      { "id": "Finance", "weight": 0.72 },
+      { "id": "Sustainability Management", "weight": 0.64 },
+      { "id": "Real Estate", "weight": 0.62 },
+      { "id": "Info Systems & Data Analytics", "weight": 0.58 }
+    ],
+    "desired_field": [
+      { "id": "Business Management", "weight": 0.99 },
+      { "id": "Something in Business", "weight": 0.96 },
+      { "id": "Consulting", "weight": 0.90 },
+      { "id": "International Business", "weight": 0.80 },
+      { "id": "Marketing & Advertising", "weight": 0.68 },
+      { "id": "Finance", "weight": 0.66 },
+      { "id": "Business Intelligence", "weight": 0.64 }
+    ],
+    "soft_skills": [
+      { "id": "Leadership", "weight": 0.99 },
+      { "id": "Communication", "weight": 0.96 },
+      { "id": "Decision Making", "weight": 0.94 },
+      { "id": "Organization", "weight": 0.92 },
+      { "id": "Negotiation", "weight": 0.90 },
+      { "id": "Problem Solving", "weight": 0.85 },
+      { "id": "Active Listening", "weight": 0.82 },
+      { "id": "Adaptability", "weight": 0.81 },
+      { "id": "Confidence", "weight": 0.77 }
+    ],
+    "hard_skills": [
+      { "id": "Business Strategy", "weight": 0.99 },
+      { "id": "Project Coordination", "weight": 0.94 },
+      { "id": "Process Improvement", "weight": 0.91 },
+      { "id": "Negotiation", "weight": 0.88 },
+      { "id": "Sales Strategy", "weight": 0.80 },
+      { "id": "Presentation Design", "weight": 0.78 },
+      { "id": "Supply Chain Planning", "weight": 0.74 },
+      { "id": "Market Research", "weight": 0.72 },
+      { "id": "Customer Relationship Management", "weight": 0.68 },
+      { "id": "Risk Assessment", "weight": 0.66 },
+      { "id": "Financial Modeling", "weight": 0.60 }
+    ],
+    "general_talents": [
+      { "id": "Leadership & Decision Making", "weight": 0.99 },
+      { "id": "Interpersonal & Relationship Building", "weight": 0.96 },
+      { "id": "Organization & planning", "weight": 0.95 },
+      { "id": "Public speaking & persuasion", "weight": 0.88 },
+      { "id": "Problem Solving", "weight": 0.86 },
+      { "id": "Adaptability & Learning Quickly", "weight": 0.82 },
+      { "id": "Analysis & research", "weight": 0.72 },
+      { "id": "Teaching & Mentoring", "weight": 0.66 }
+    ],
+    "employee_type": [
+      { "id": "Leader / Manager", "weight": 0.99 },
+      { "id": "Strategic / Big-Picture", "weight": 0.96 },
+      { "id": "People-Focused / Relationship-Driven", "weight": 0.93 },
+      { "id": "Collaborative / Team-Oriented", "weight": 0.90 },
+      { "id": "Structured / Process-Driven", "weight": 0.80 },
+      { "id": "Flexible / Adaptable", "weight": 0.78 },
+      { "id": "Analytical / Detail-Oriented", "weight": 0.72 }
+    ],
+    "solo_or_people": [
+      { "id": "solo", "weight": 0.58 },
+      { "id": "people", "weight": 0.97 }
+    ],
+    "work_environment": [
+      { "id": "Office / Corporate Setting", "weight": 0.96 },
+      { "id": "Team-Based / Collaborative", "weight": 0.93 },
+      { "id": "Client-Facing / Social", "weight": 0.89 },
+      { "id": "Fast-Paced / High-Pressure", "weight": 0.82 },
+      { "id": "Structured / Predictable", "weight": 0.76 },
+      { "id": "Startup / Entrepreneurial Setting", "weight": 0.74 },
+      { "id": "Travel-Heavy / Mobile", "weight": 0.64 },
+      { "id": "Flexible / Unstructured", "weight": 0.62 }
+    ],
+    "work_locations": [
+      { "id": "Major City / Urban", "weight": 0.91 },
+      { "id": "Hybrid", "weight": 0.84 },
+      { "id": "Flexible / Anywhere", "weight": 0.80 },
+      { "id": "International", "weight": 0.74 },
+      { "id": "East Coast", "weight": 0.66 },
+      { "id": "West Coast", "weight": 0.62 }
+    ],
+    "desired_outcomes": [
+      { "id": "Leadership / Executive Path", "weight": 0.99 },
+      { "id": "Career Growth / Advancement", "weight": 0.95 },
+      { "id": "Entrepreneurship / Start a Business", "weight": 0.91 },
+      { "id": "Build Transferable Skills / Future Opportunities", "weight": 0.88 },
+      { "id": "High Income / Wealth Building", "weight": 0.86 },
+      { "id": "Large Exit / Financial Independence", "weight": 0.66 },
+      { "id": "Prestige / Competitive Career", "weight": 0.72 },
+      { "id": "Impact-Driven / Meaningful Work", "weight": 0.60 }
+    ],
+    "work_intensity": [
+      { "id": "Moderately Demanding — ~40–50 hours, mentally demanding", "weight": 0.91 },
+      { "id": "High Intensity — ~50–60 hours, high workload and pressure", "weight": 0.84 },
+      { "id": "Variable / Unpredictable Intensity — workload and hours can swing heavily", "weight": 0.78 },
+      { "id": "Standard / Moderate — around 40 hours, manageable challenge", "weight": 0.74 },
+      { "id": "Extreme / Competitive Intensity — very long hours, high pressure, difficult work, strong performance expectations", "weight": 0.48 }
+    ],
+    "grad_or_no": [
+      { "id": "no_grad", "weight": 0.94 },
+      { "id": "yes_grad", "weight": 0.68 }
+    ],
+    "education_requirement": [
+      { "id": "bachelors", "weight": 0.98 },
+      { "id": "masters", "weight": 0.68 }
+    ],
+    "salary_band": [
+      { "id": "medium", "weight": 0.72 },
+      { "id": "medium_high", "weight": 0.95 }
+    ]
+  },
+  {
+    "id": "Cybersecurity",
+    "major_interest": [
+      { "id": "Computer Science", "weight": 0.99 },
+      { "id": "Computer Engineering", "weight": 0.94 },
+      { "id": "Info Systems & Data Analytics", "weight": 0.90 },
+      { "id": "Data Science", "weight": 0.70 },
+      { "id": "Electrical Engineering", "weight": 0.64 },
+      { "id": "Forensic Science", "weight": 0.60 },
+      { "id": "Mathematics", "weight": 0.54 }
+    ],
+    "desired_field": [
+      { "id": "Cybersecurity", "weight": 0.99 },
+      { "id": "Something in Technology", "weight": 0.93 },
+      { "id": "Information Technology (IT)", "weight": 0.86 },
+      { "id": "Software Engineering", "weight": 0.70 },
+      { "id": "Artificial Intelligence & Machine Learning", "weight": 0.54 }
+    ],
+    "soft_skills": [
+      { "id": "Problem Solving", "weight": 0.98 },
+      { "id": "Attention to Detail", "weight": 0.97 },
+      { "id": "Logical Thinking", "weight": 0.95 },
+      { "id": "Critical Thinking", "weight": 0.92 },
+      { "id": "Persistence", "weight": 0.91 },
+      { "id": "Precision", "weight": 0.89 },
+      { "id": "Adaptability", "weight": 0.87 },
+      { "id": "Safety Awareness", "weight": 0.80 },
+      { "id": "Decision Making", "weight": 0.74 }
+    ],
+    "hard_skills": [
+      { "id": "Cyber Defense", "weight": 0.99 },
+      { "id": "Network Administration", "weight": 0.95 },
+      { "id": "Systems Administration", "weight": 0.92 },
+      { "id": "Risk Assessment", "weight": 0.90 },
+      { "id": "Automation & Scripting", "weight": 0.87 },
+      { "id": "Cloud Infrastructure", "weight": 0.84 },
+      { "id": "Programming", "weight": 0.80 },
+      { "id": "Regulatory Compliance", "weight": 0.78 },
+      { "id": "Database Management", "weight": 0.70 },
+      { "id": "Technical Communication", "weight": 0.68 }
+    ],
+    "general_talents": [
+      { "id": "Technology & Systems Thinking", "weight": 0.99 },
+      { "id": "Problem Solving", "weight": 0.98 },
+      { "id": "Attention to Detail", "weight": 0.95 },
+      { "id": "Observation & Pattern Recognition", "weight": 0.93 },
+      { "id": "Analysis & research", "weight": 0.90 },
+      { "id": "Adaptability & Learning Quickly", "weight": 0.84 },
+      { "id": "Math & numbers", "weight": 0.66 }
+    ],
+    "employee_type": [
+      { "id": "Analytical / Detail-Oriented", "weight": 0.98 },
+      { "id": "Structured / Process-Driven", "weight": 0.94 },
+      { "id": "Independent / Self-Directed", "weight": 0.90 },
+      { "id": "Flexible / Adaptable", "weight": 0.80 },
+      { "id": "Collaborative / Team-Oriented", "weight": 0.74 },
+      { "id": "Strategic / Big-Picture", "weight": 0.70 },
+      { "id": "Hands-On / Practical", "weight": 0.68 }
+    ],
+    "solo_or_people": [
+      { "id": "solo", "weight": 0.88 },
+      { "id": "people", "weight": 0.66 }
+    ],
+    "work_environment": [
+      { "id": "Office / Corporate Setting", "weight": 0.91 },
+      { "id": "Quiet / Low Interaction", "weight": 0.86 },
+      { "id": "Remote / Work From Home", "weight": 0.82 },
+      { "id": "Structured / Predictable", "weight": 0.80 },
+      { "id": "Fast-Paced / High-Pressure", "weight": 0.75 },
+      { "id": "Team-Based / Collaborative", "weight": 0.72 },
+      { "id": "Government / Public Sector", "weight": 0.64 },
+      { "id": "Independent / Solo Work", "weight": 0.62 }
+    ],
+    "work_locations": [
+      { "id": "Remote", "weight": 0.91 },
+      { "id": "Flexible / Anywhere", "weight": 0.88 },
+      { "id": "Hybrid", "weight": 0.86 },
+      { "id": "Major City / Urban", "weight": 0.80 },
+      { "id": "East Coast", "weight": 0.58 }
+    ],
+    "desired_outcomes": [
+      { "id": "Specialized Expertise / Become an Expert", "weight": 0.97 },
+      { "id": "Job Security / Low Career Risk", "weight": 0.94 },
+      { "id": "High Income / Wealth Building", "weight": 0.92 },
+      { "id": "Career Growth / Advancement", "weight": 0.90 },
+      { "id": "Intellectual Exploration / Lifelong Learning", "weight": 0.86 },
+      { "id": "Build Transferable Skills / Future Opportunities", "weight": 0.82 },
+      { "id": "Impact-Driven / Meaningful Work", "weight": 0.74 }
+    ],
+    "work_intensity": [
+      { "id": "Moderately Demanding — ~40–50 hours, mentally demanding", "weight": 0.90 },
+      { "id": "Variable / Unpredictable Intensity — workload and hours can swing heavily", "weight": 0.84 },
+      { "id": "High Intensity — ~50–60 hours, high workload and pressure", "weight": 0.78 },
+      { "id": "Standard / Moderate — around 40 hours, manageable challenge", "weight": 0.74 },
+      { "id": "Seasonal / Periodic Intensity — normal most of the year, but major crunch periods", "weight": 0.58 }
+    ],
+    "grad_or_no": [
+      { "id": "no_grad", "weight": 0.95 },
+      { "id": "yes_grad", "weight": 0.66 }
+    ],
+    "education_requirement": [
+      { "id": "bachelors", "weight": 0.97 },
+      { "id": "masters", "weight": 0.64 }
+    ],
+    "salary_band": [
+      { "id": "medium", "weight": 0.64 },
+      { "id": "medium_high", "weight": 0.97 }
+    ]
+  },
+  {
+    "id": "Information Technology (IT)",
+    "major_interest": [
+      { "id": "Info Systems & Data Analytics", "weight": 0.99 },
+      { "id": "Computer Science", "weight": 0.94 },
+      { "id": "Computer Engineering", "weight": 0.82 },
+      { "id": "Data Science", "weight": 0.68 },
+      { "id": "Business Administration (General Business)", "weight": 0.50 }
+    ],
+    "desired_field": [
+      { "id": "Information Technology (IT)", "weight": 0.99 },
+      { "id": "Something in Technology", "weight": 0.94 },
+      { "id": "Cybersecurity", "weight": 0.78 },
+      { "id": "Software Engineering", "weight": 0.66 },
+      { "id": "Business Intelligence", "weight": 0.62 }
+    ],
+    "soft_skills": [
+      { "id": "Problem Solving", "weight": 0.99 },
+      { "id": "Adaptability", "weight": 0.93 },
+      { "id": "Attention to Detail", "weight": 0.91 },
+      { "id": "Logical Thinking", "weight": 0.90 },
+      { "id": "Persistence", "weight": 0.88 },
+      { "id": "Organization", "weight": 0.80 },
+      { "id": "Communication", "weight": 0.79 },
+      { "id": "Active Listening", "weight": 0.76 },
+      { "id": "Safety Awareness", "weight": 0.70 }
+    ],
+    "hard_skills": [
+      { "id": "Systems Administration", "weight": 0.99 },
+      { "id": "Network Administration", "weight": 0.97 },
+      { "id": "Cloud Infrastructure", "weight": 0.92 },
+      { "id": "Database Management", "weight": 0.86 },
+      { "id": "Automation & Scripting", "weight": 0.82 },
+      { "id": "Cyber Defense", "weight": 0.78 },
+      { "id": "Technical Communication", "weight": 0.74 },
+      { "id": "Project Coordination", "weight": 0.70 },
+      { "id": "Programming", "weight": 0.69 },
+      { "id": "Software Development", "weight": 0.62 }
+    ],
+    "general_talents": [
+      { "id": "Technology & Systems Thinking", "weight": 0.99 },
+      { "id": "Problem Solving", "weight": 0.97 },
+      { "id": "Attention to Detail", "weight": 0.90 },
+      { "id": "Adaptability & Learning Quickly", "weight": 0.90 },
+      { "id": "Hands-On / Mechanical Ability", "weight": 0.84 },
+      { "id": "Organization & planning", "weight": 0.80 },
+      { "id": "Analysis & research", "weight": 0.74 },
+      { "id": "Interpersonal & Relationship Building", "weight": 0.68 }
+    ],
+    "employee_type": [
+      { "id": "Structured / Process-Driven", "weight": 0.95 },
+      { "id": "Hands-On / Practical", "weight": 0.90 },
+      { "id": "Analytical / Detail-Oriented", "weight": 0.88 },
+      { "id": "Flexible / Adaptable", "weight": 0.84 },
+      { "id": "Collaborative / Team-Oriented", "weight": 0.82 },
+      { "id": "Independent / Self-Directed", "weight": 0.76 },
+      { "id": "People-Focused / Relationship-Driven", "weight": 0.70 }
+    ],
+    "solo_or_people": [
+      { "id": "solo", "weight": 0.78 },
+      { "id": "people", "weight": 0.80 }
+    ],
+    "work_environment": [
+      { "id": "Office / Corporate Setting", "weight": 0.93 },
+      { "id": "Structured / Predictable", "weight": 0.87 },
+      { "id": "Team-Based / Collaborative", "weight": 0.84 },
+      { "id": "Remote / Work From Home", "weight": 0.80 },
+      { "id": "Fast-Paced / High-Pressure", "weight": 0.72 },
+      { "id": "Client-Facing / Social", "weight": 0.70 },
+      { "id": "Independent / Solo Work", "weight": 0.68 },
+      { "id": "Quiet / Low Interaction", "weight": 0.64 }
+    ],
+    "work_locations": [
+      { "id": "Flexible / Anywhere", "weight": 0.91 },
+      { "id": "Remote", "weight": 0.88 },
+      { "id": "Hybrid", "weight": 0.86 },
+      { "id": "Major City / Urban", "weight": 0.74 },
+      { "id": "Suburban", "weight": 0.70 }
+    ],
+    "desired_outcomes": [
+      { "id": "Job Security / Low Career Risk", "weight": 0.95 },
+      { "id": "Build Transferable Skills / Future Opportunities", "weight": 0.93 },
+      { "id": "Career Growth / Advancement", "weight": 0.90 },
+      { "id": "Specialized Expertise / Become an Expert", "weight": 0.86 },
+      { "id": "Work-Life Balance / Flexibility", "weight": 0.80 },
+      { "id": "High Income / Wealth Building", "weight": 0.74 },
+      { "id": "Quick Income / Short-Term Stability", "weight": 0.66 },
+      { "id": "Long-Term Stable Career", "weight": 0.88 }
+    ],
+    "work_intensity": [
+      { "id": "Standard / Moderate — around 40 hours, manageable challenge", "weight": 0.91 },
+      { "id": "Moderately Demanding — ~40–50 hours, mentally demanding", "weight": 0.78 },
+      { "id": "Variable / Unpredictable Intensity — workload and hours can swing heavily", "weight": 0.72 },
+      { "id": "Seasonal / Periodic Intensity — normal most of the year, but major crunch periods", "weight": 0.60 },
+      { "id": "High Intensity — ~50–60 hours, high workload and pressure", "weight": 0.56 }
+    ],
+    "grad_or_no": [
+      { "id": "no_grad", "weight": 0.98 },
+      { "id": "yes_grad", "weight": 0.46 }
+    ],
+    "education_requirement": [
+      { "id": "bachelors", "weight": 0.94 },
+      { "id": "masters", "weight": 0.48 }
+    ],
+    "salary_band": [
+      { "id": "medium", "weight": 0.89 },
+      { "id": "medium_high", "weight": 0.86 }
+    ]
+  },
+  {
+    "id": "Finance",
+    "major_interest": [
+      { "id": "Finance", "weight": 0.99 },
+      { "id": "Financial Risk Management", "weight": 0.97 },
+      { "id": "Business Economics", "weight": 0.89 },
+      { "id": "Economics", "weight": 0.86 },
+      { "id": "Accounting", "weight": 0.80 },
+      { "id": "Real Estate", "weight": 0.74 },
+      { "id": "Mathematics", "weight": 0.72 },
+      { "id": "Business Administration (General Business)", "weight": 0.70 },
+      { "id": "Forensic Accounting", "weight": 0.64 },
+      { "id": "Info Systems & Data Analytics", "weight": 0.60 },
+      { "id": "Data Science", "weight": 0.58 },
+      { "id": "International Business", "weight": 0.56 }
+    ],
+    "desired_field": [
+      { "id": "Finance", "weight": 0.99 },
+      { "id": "Something in Business", "weight": 0.94 },
+      { "id": "Economics & Public Policy", "weight": 0.86 },
+      { "id": "Accounting & Auditing", "weight": 0.74 },
+      { "id": "Consulting", "weight": 0.68 },
+      { "id": "Business Intelligence", "weight": 0.66 },
+      { "id": "International Business", "weight": 0.60 },
+      { "id": "Statistician", "weight": 0.52 }
+    ],
+    "soft_skills": [
+      { "id": "Attention to Detail", "weight": 0.97 },
+      { "id": "Critical Thinking", "weight": 0.95 },
+      { "id": "Decision Making", "weight": 0.92 },
+      { "id": "Logical Thinking", "weight": 0.91 },
+      { "id": "Precision", "weight": 0.89 },
+      { "id": "Pattern Recognition", "weight": 0.84 },
+      { "id": "Persistence", "weight": 0.82 },
+      { "id": "Communication", "weight": 0.80 },
+      { "id": "Organization", "weight": 0.78 },
+      { "id": "Confidence", "weight": 0.66 }
+    ],
+    "hard_skills": [
+      { "id": "Financial Modeling", "weight": 0.99 },
+      { "id": "Investment Analysis", "weight": 0.98 },
+      { "id": "Excel", "weight": 0.92 },
+      { "id": "Forecasting", "weight": 0.90 },
+      { "id": "Risk Assessment", "weight": 0.88 },
+      { "id": "Data Analysis", "weight": 0.82 },
+      { "id": "Economic Modeling", "weight": 0.76 },
+      { "id": "Financial Reporting", "weight": 0.74 },
+      { "id": "Statistical Modeling", "weight": 0.70 },
+      { "id": "Quantitative Research", "weight": 0.68 },
+      { "id": "Regulatory Compliance", "weight": 0.60 },
+      { "id": "Presentation Design", "weight": 0.58 }
+    ],
+    "general_talents": [
+      { "id": "Math & numbers", "weight": 0.99 },
+      { "id": "Analysis & research", "weight": 0.97 },
+      { "id": "Attention to Detail", "weight": 0.94 },
+      { "id": "Problem Solving", "weight": 0.90 },
+      { "id": "Observation & Pattern Recognition", "weight": 0.89 },
+      { "id": "Organization & planning", "weight": 0.82 },
+      { "id": "Leadership & Decision Making", "weight": 0.74 },
+      { "id": "Interpersonal & Relationship Building", "weight": 0.66 },
+      { "id": "Technology & Systems Thinking", "weight": 0.64 }
+    ],
+    "employee_type": [
+      { "id": "Analytical / Detail-Oriented", "weight": 0.99 },
+      { "id": "Strategic / Big-Picture", "weight": 0.91 },
+      { "id": "Structured / Process-Driven", "weight": 0.88 },
+      { "id": "Independent / Self-Directed", "weight": 0.80 },
+      { "id": "Collaborative / Team-Oriented", "weight": 0.76 },
+      { "id": "Leader / Manager", "weight": 0.70 },
+      { "id": "People-Focused / Relationship-Driven", "weight": 0.66 }
+    ],
+    "solo_or_people": [
+      { "id": "solo", "weight": 0.82 },
+      { "id": "people", "weight": 0.74 }
+    ],
+    "work_environment": [
+      { "id": "Office / Corporate Setting", "weight": 0.98 },
+      { "id": "Structured / Predictable", "weight": 0.87 },
+      { "id": "Fast-Paced / High-Pressure", "weight": 0.84 },
+      { "id": "Team-Based / Collaborative", "weight": 0.80 },
+      { "id": "Client-Facing / Social", "weight": 0.74 },
+      { "id": "Quiet / Low Interaction", "weight": 0.64 },
+      { "id": "Remote / Work From Home", "weight": 0.56 }
+    ],
+    "work_locations": [
+      { "id": "Major City / Urban", "weight": 0.97 },
+      { "id": "East Coast", "weight": 0.90 },
+      { "id": "Northeast", "weight": 0.84 },
+      { "id": "Hybrid", "weight": 0.74 },
+      { "id": "International", "weight": 0.66 },
+      { "id": "West Coast", "weight": 0.58 }
+    ],
+    "desired_outcomes": [
+      { "id": "High Income / Wealth Building", "weight": 0.99 },
+      { "id": "Prestige / Competitive Career", "weight": 0.94 },
+      { "id": "Career Growth / Advancement", "weight": 0.92 },
+      { "id": "Leadership / Executive Path", "weight": 0.84 },
+      { "id": "Specialized Expertise / Become an Expert", "weight": 0.82 },
+      { "id": "Large Exit / Financial Independence", "weight": 0.80 },
+      { "id": "Build Transferable Skills / Future Opportunities", "weight": 0.74 },
+      { "id": "Job Security / Low Career Risk", "weight": 0.64 }
+    ],
+    "work_intensity": [
+      { "id": "High Intensity — ~50–60 hours, high workload and pressure", "weight": 0.93 },
+      { "id": "Moderately Demanding — ~40–50 hours, mentally demanding", "weight": 0.86 },
+      { "id": "Very High Intensity — ~60+ hours, consistently demanding", "weight": 0.80 },
+      { "id": "Extreme / Competitive Intensity — very long hours, high pressure, difficult work, strong performance expectations", "weight": 0.72 },
+      { "id": "Variable / Unpredictable Intensity — workload and hours can swing heavily", "weight": 0.70 },
+      { "id": "Standard / Moderate — around 40 hours, manageable challenge", "weight": 0.66 },
+      { "id": "Seasonal / Periodic Intensity — normal most of the year, but major crunch periods", "weight": 0.58 }
+    ],
+    "grad_or_no": [
+      { "id": "no_grad", "weight": 0.94 },
+      { "id": "yes_grad", "weight": 0.72 }
+    ],
+    "education_requirement": [
+      { "id": "bachelors", "weight": 0.98 },
+      { "id": "masters", "weight": 0.74 }
+    ],
+    "salary_band": [
+      { "id": "medium", "weight": 0.58 },
+      { "id": "medium_high", "weight": 0.99 }
+    ]
+  },{
+    "id": "Science & Research",
+    "major_interest": [
+      { "id": "Biology", "weight": 0.98 },
+      { "id": "Chemistry", "weight": 0.98 },
+      { "id": "Biochemistry", "weight": 0.97 },
+      { "id": "Physics", "weight": 0.94 },
+      { "id": "Forensic Science", "weight": 0.82 }
+    ],
+    "desired_field": [
+      { "id": "Science & Research", "weight": 0.99 },
+      { "id": "Something in Health or Science", "weight": 0.95 },
+      { "id": "Medical Research & Biotechnology", "weight": 0.79 },
+      { "id": "Environmental Science & Sustainability", "weight": 0.68 },
+      { "id": "Biostatistics", "weight": 0.62 }
+    ],
+    "soft_skills": [
+      { "id": "Curiosity", "weight": 0.99 },
+      { "id": "Critical Thinking", "weight": 0.96 },
+      { "id": "Precision", "weight": 0.94 },
+      { "id": "Research Discipline", "weight": 0.94 },
+      { "id": "Patience", "weight": 0.88 }
+    ],
+    "hard_skills": [
+      { "id": "Experimental Design", "weight": 0.98 },
+      { "id": "Laboratory Techniques", "weight": 0.97 },
+      { "id": "Research Methods", "weight": 0.96 },
+      { "id": "Data Collection", "weight": 0.88 },
+      { "id": "Scientific Writing", "weight": 0.84 }
+    ],
+    "general_talents": [
+      { "id": "Analysis & research", "weight": 0.99 },
+      { "id": "Observation & Pattern Recognition", "weight": 0.95 },
+      { "id": "Attention to Detail", "weight": 0.94 },
+      { "id": "Memory & Knowledge Retention", "weight": 0.85 },
+      { "id": "Problem Solving", "weight": 0.84 }
+    ],
+    "employee_type": [
+      { "id": "Analytical / Detail-Oriented", "weight": 0.99 },
+      { "id": "Independent / Self-Directed", "weight": 0.89 },
+      { "id": "Structured / Process-Driven", "weight": 0.86 },
+      { "id": "Collaborative / Team-Oriented", "weight": 0.78 },
+      { "id": "Flexible / Adaptable", "weight": 0.62 }
+    ],
+    "solo_or_people": [
+      { "id": "solo", "weight": 0.90 },
+      { "id": "people", "weight": 0.60 }
+    ],
+    "work_environment": [
+      { "id": "Laboratory / Research Setting", "weight": 0.99 },
+      { "id": "Research / Idea-Driven Setting", "weight": 0.98 },
+      { "id": "Quiet / Low Interaction", "weight": 0.85 },
+      { "id": "Academic / Educational Setting", "weight": 0.82 },
+      { "id": "Field-Based / On-Site", "weight": 0.65 }
+    ],
+    "work_locations": [
+      { "id": "Flexible / Anywhere", "weight": 0.88 },
+      { "id": "Major City / Urban", "weight": 0.76 },
+      { "id": "Suburban", "weight": 0.70 },
+      { "id": "Rural", "weight": 0.60 }
+    ],
+    "desired_outcomes": [
+      { "id": "Specialized Expertise / Become an Expert", "weight": 0.98 },
+      { "id": "Intellectual Exploration / Lifelong Learning", "weight": 0.97 },
+      { "id": "Impact-Driven / Meaningful Work", "weight": 0.84 },
+      { "id": "Career Growth / Advancement", "weight": 0.78 },
+      { "id": "Education / People-Oriented Development", "weight": 0.64 }
+    ],
+    "work_intensity": [
+      { "id": "Standard / Moderate — around 40 hours, manageable challenge", "weight": 0.86 },
+      { "id": "Moderately Demanding — ~40–50 hours, mentally demanding", "weight": 0.82 },
+      { "id": "Seasonal / Periodic Intensity — normal most of the year, but major crunch periods", "weight": 0.60 }
+    ],
+    "grad_or_no": [
+      { "id": "no_grad", "weight": 0.70 },
+      { "id": "yes_grad", "weight": 0.97 }
+    ],
+    "education_requirement": [
+      { "id": "bachelors", "weight": 0.84 },
+      { "id": "masters", "weight": 0.95 }
+    ],
+    "salary_band": [
+      { "id": "medium", "weight": 0.87 },
+      { "id": "medium_high", "weight": 0.78 }
+    ]
+  },
+  {
+    "id": "Electrical Engineering",
+    "major_interest": [
+      { "id": "Electrical Engineering", "weight": 0.99 },
+      { "id": "Computer Engineering", "weight": 0.88 },
+      { "id": "Physics", "weight": 0.80 },
+      { "id": "Computer Science", "weight": 0.64 },
+      { "id": "Mechanical Engineering", "weight": 0.60 }
+    ],
+    "desired_field": [
+      { "id": "Electrical Engineering", "weight": 0.99 },
+      { "id": "Something in Engineering", "weight": 0.95 },
+      { "id": "Computer Engineering", "weight": 0.78 },
+      { "id": "Something in Technology", "weight": 0.70 },
+      { "id": "Mechanical & Industrial Engineering", "weight": 0.58 }
+    ],
+    "soft_skills": [
+      { "id": "Problem Solving", "weight": 0.98 },
+      { "id": "Logical Thinking", "weight": 0.96 },
+      { "id": "Precision", "weight": 0.94 },
+      { "id": "Attention to Detail", "weight": 0.93 },
+      { "id": "Persistence", "weight": 0.86 }
+    ],
+    "hard_skills": [
+      { "id": "Circuit Design", "weight": 0.99 },
+      { "id": "Instrumentation", "weight": 0.94 },
+      { "id": "Simulation & Modeling", "weight": 0.91 },
+      { "id": "Robotics & Controls", "weight": 0.88 },
+      { "id": "CAD & Design", "weight": 0.84 }
+    ],
+    "general_talents": [
+      { "id": "Technology & Systems Thinking", "weight": 0.99 },
+      { "id": "Problem Solving", "weight": 0.97 },
+      { "id": "Math & numbers", "weight": 0.95 },
+      { "id": "Attention to Detail", "weight": 0.92 },
+      { "id": "Hands-On / Mechanical Ability", "weight": 0.82 }
+    ],
+    "employee_type": [
+      { "id": "Analytical / Detail-Oriented", "weight": 0.98 },
+      { "id": "Hands-On / Practical", "weight": 0.88 },
+      { "id": "Structured / Process-Driven", "weight": 0.84 },
+      { "id": "Collaborative / Team-Oriented", "weight": 0.80 },
+      { "id": "Independent / Self-Directed", "weight": 0.72 }
+    ],
+    "solo_or_people": [
+      { "id": "solo", "weight": 0.75 },
+      { "id": "people", "weight": 0.72 }
+    ],
+    "work_environment": [
+      { "id": "Office / Corporate Setting", "weight": 0.88 },
+      { "id": "Laboratory / Research Setting", "weight": 0.87 },
+      { "id": "Industrial / Manufacturing Setting", "weight": 0.83 },
+      { "id": "Team-Based / Collaborative", "weight": 0.80 },
+      { "id": "Field-Based / On-Site", "weight": 0.62 }
+    ],
+    "work_locations": [
+      { "id": "Flexible / Anywhere", "weight": 0.84 },
+      { "id": "Major City / Urban", "weight": 0.80 },
+      { "id": "Suburban", "weight": 0.72 },
+      { "id": "Hybrid", "weight": 0.65 }
+    ],
+    "desired_outcomes": [
+      { "id": "Specialized Expertise / Become an Expert", "weight": 0.96 },
+      { "id": "High Income / Wealth Building", "weight": 0.91 },
+      { "id": "Career Growth / Advancement", "weight": 0.84 },
+      { "id": "Job Security / Low Career Risk", "weight": 0.82 },
+      { "id": "Impact-Driven / Meaningful Work", "weight": 0.70 }
+    ],
+    "work_intensity": [
+      { "id": "Moderately Demanding — ~40–50 hours, mentally demanding", "weight": 0.88 },
+      { "id": "Standard / Moderate — around 40 hours, manageable challenge", "weight": 0.84 },
+      { "id": "High Intensity — ~50–60 hours, high workload and pressure", "weight": 0.62 }
+    ],
+    "grad_or_no": [
+      { "id": "no_grad", "weight": 0.96 },
+      { "id": "yes_grad", "weight": 0.66 }
+    ],
+    "education_requirement": [
+      { "id": "bachelors", "weight": 0.98 },
+      { "id": "masters", "weight": 0.64 }
+    ],
+    "salary_band": [
+      { "id": "medium", "weight": 0.60 },
+      { "id": "medium_high", "weight": 0.97 }
+    ]
+  },
+  {
+    "id": "Mechanical & Industrial Engineering",
+    "major_interest": [
+      { "id": "Mechanical Engineering", "weight": 0.99 },
+      { "id": "Supply Chain Management", "weight": 0.80 },
+      { "id": "Materials Engineering", "weight": 0.78 },
+      { "id": "Electrical Engineering", "weight": 0.67 },
+      { "id": "Sustainability Management", "weight": 0.58 }
+    ],
+    "desired_field": [
+      { "id": "Mechanical & Industrial Engineering", "weight": 0.99 },
+      { "id": "Something in Engineering", "weight": 0.96 },
+      { "id": "Business Intelligence", "weight": 0.60 }
+    ],
+    "soft_skills": [
+      { "id": "Problem Solving", "weight": 0.98 },
+      { "id": "Precision", "weight": 0.94 },
+      { "id": "Logical Thinking", "weight": 0.92 },
+      { "id": "Attention to Detail", "weight": 0.90 },
+      { "id": "Safety Awareness", "weight": 0.87 }
+    ],
+    "hard_skills": [
+      { "id": "Manufacturing Systems", "weight": 0.99 },
+      { "id": "CAD & Design", "weight": 0.97 },
+      { "id": "Simulation & Modeling", "weight": 0.93 },
+      { "id": "Optimization", "weight": 0.88 },
+      { "id": "Process Improvement", "weight": 0.82 }
+    ],
+    "general_talents": [
+      { "id": "Hands-On / Mechanical Ability", "weight": 0.99 },
+      { "id": "Problem Solving", "weight": 0.97 },
+      { "id": "Technology & Systems Thinking", "weight": 0.94 },
+      { "id": "Math & numbers", "weight": 0.90 },
+      { "id": "Attention to Detail", "weight": 0.87 }
+    ],
+    "employee_type": [
+      { "id": "Hands-On / Practical", "weight": 0.98 },
+      { "id": "Analytical / Detail-Oriented", "weight": 0.92 },
+      { "id": "Structured / Process-Driven", "weight": 0.90 },
+      { "id": "Collaborative / Team-Oriented", "weight": 0.82 },
+      { "id": "Strategic / Big-Picture", "weight": 0.70 }
+    ],
+    "solo_or_people": [
+      { "id": "solo", "weight": 0.68 },
+      { "id": "people", "weight": 0.80 }
+    ],
+    "work_environment": [
+      { "id": "Industrial / Manufacturing Setting", "weight": 0.98 },
+      { "id": "Office / Corporate Setting", "weight": 0.83 },
+      { "id": "Team-Based / Collaborative", "weight": 0.82 },
+      { "id": "Field-Based / On-Site", "weight": 0.80 },
+      { "id": "Laboratory / Research Setting", "weight": 0.68 }
+    ],
+    "work_locations": [
+      { "id": "Flexible / Anywhere", "weight": 0.85 },
+      { "id": "Suburban", "weight": 0.78 },
+      { "id": "Major City / Urban", "weight": 0.72 },
+      { "id": "Midwest", "weight": 0.70 },
+      { "id": "South", "weight": 0.64 }
+    ],
+    "desired_outcomes": [
+      { "id": "Specialized Expertise / Become an Expert", "weight": 0.91 },
+      { "id": "Job Security / Low Career Risk", "weight": 0.88 },
+      { "id": "Career Growth / Advancement", "weight": 0.84 },
+      { "id": "Impact-Driven / Meaningful Work", "weight": 0.82 },
+      { "id": "Build Transferable Skills / Future Opportunities", "weight": 0.80 }
+    ],
+    "work_intensity": [
+      { "id": "Moderately Demanding — ~40–50 hours, mentally demanding", "weight": 0.90 },
+      { "id": "Standard / Moderate — around 40 hours, manageable challenge", "weight": 0.80 },
+      { "id": "Seasonal / Periodic Intensity — normal most of the year, but major crunch periods", "weight": 0.65 },
+      { "id": "High Intensity — ~50–60 hours, high workload and pressure", "weight": 0.62 }
+    ],
+    "grad_or_no": [
+      { "id": "no_grad", "weight": 0.97 },
+      { "id": "yes_grad", "weight": 0.62 }
+    ],
+    "education_requirement": [
+      { "id": "bachelors", "weight": 0.98 },
+      { "id": "masters", "weight": 0.60 }
+    ],
+    "salary_band": [
+      { "id": "medium", "weight": 0.64 },
+      { "id": "medium_high", "weight": 0.94 }
+    ]
+  },
+  {
+    "id": "Civil Engineering",
+    "major_interest": [
+      { "id": "Environmental Science", "weight": 0.86 },
+      { "id": "Environmental Studies", "weight": 0.82 },
+      { "id": "Mechanical Engineering", "weight": 0.76 },
+      { "id": "Sustainability Management", "weight": 0.70 },
+      { "id": "Real Estate", "weight": 0.64 }
+    ],
+    "desired_field": [
+      { "id": "Civil Engineering", "weight": 0.99 },
+      { "id": "Something in Engineering", "weight": 0.95 },
+      { "id": "Environmental Science & Sustainability", "weight": 0.74 },
+      { "id": "Government, Policy & Civic Leadership", "weight": 0.60 },
+      { "id": "Business Management", "weight": 0.56 }
+    ],
+    "soft_skills": [
+      { "id": "Problem Solving", "weight": 0.96 },
+      { "id": "Precision", "weight": 0.94 },
+      { "id": "Safety Awareness", "weight": 0.93 },
+      { "id": "Attention to Detail", "weight": 0.90 },
+      { "id": "Decision Making", "weight": 0.82 }
+    ],
+    "hard_skills": [
+      { "id": "Structural Design", "weight": 0.99 },
+      { "id": "CAD & Design", "weight": 0.96 },
+      { "id": "Project Coordination", "weight": 0.88 },
+      { "id": "Materials Testing", "weight": 0.86 },
+      { "id": "Regulatory Compliance", "weight": 0.78 }
+    ],
+    "general_talents": [
+      { "id": "Problem Solving", "weight": 0.96 },
+      { "id": "Hands-On / Mechanical Ability", "weight": 0.94 },
+      { "id": "Organization & planning", "weight": 0.90 },
+      { "id": "Math & numbers", "weight": 0.89 },
+      { "id": "Attention to Detail", "weight": 0.88 }
+    ],
+    "employee_type": [
+      { "id": "Structured / Process-Driven", "weight": 0.94 },
+      { "id": "Hands-On / Practical", "weight": 0.92 },
+      { "id": "Collaborative / Team-Oriented", "weight": 0.86 },
+      { "id": "Analytical / Detail-Oriented", "weight": 0.85 },
+      { "id": "Leader / Manager", "weight": 0.72 }
+    ],
+    "solo_or_people": [
+      { "id": "solo", "weight": 0.62 },
+      { "id": "people", "weight": 0.86 }
+    ],
+    "work_environment": [
+      { "id": "Field-Based / On-Site", "weight": 0.97 },
+      { "id": "Office / Corporate Setting", "weight": 0.88 },
+      { "id": "Team-Based / Collaborative", "weight": 0.84 },
+      { "id": "Government / Public Sector", "weight": 0.80 },
+      { "id": "Outdoor / Environmental Setting", "weight": 0.76 }
+    ],
+    "work_locations": [
+      { "id": "Major City / Urban", "weight": 0.93 },
+      { "id": "Suburban", "weight": 0.84 },
+      { "id": "Flexible / Anywhere", "weight": 0.82 },
+      { "id": "Rural", "weight": 0.74 }
+    ],
+    "desired_outcomes": [
+      { "id": "Impact-Driven / Meaningful Work", "weight": 0.94 },
+      { "id": "Long-Term Stable Career", "weight": 0.92 },
+      { "id": "Job Security / Low Career Risk", "weight": 0.89 },
+      { "id": "Specialized Expertise / Become an Expert", "weight": 0.88 },
+      { "id": "Career Growth / Advancement", "weight": 0.82 }
+    ],
+    "work_intensity": [
+      { "id": "Moderately Demanding — ~40–50 hours, mentally demanding", "weight": 0.88 },
+      { "id": "Standard / Moderate — around 40 hours, manageable challenge", "weight": 0.78 },
+      { "id": "Seasonal / Periodic Intensity — normal most of the year, but major crunch periods", "weight": 0.72 },
+      { "id": "High Intensity — ~50–60 hours, high workload and pressure", "weight": 0.60 }
+    ],
+    "grad_or_no": [
+      { "id": "no_grad", "weight": 0.95 },
+      { "id": "yes_grad", "weight": 0.64 }
+    ],
+    "education_requirement": [
+      { "id": "bachelors", "weight": 0.97 },
+      { "id": "masters", "weight": 0.62 }
+    ],
+    "salary_band": [
+      { "id": "medium", "weight": 0.72 },
+      { "id": "medium_high", "weight": 0.91 }
+    ]
+  },
+  {
+    "id": "Biomechanical Engineering",
+    "major_interest": [
+      { "id": "Mechanical Engineering", "weight": 0.98 },
+      { "id": "Biohealth", "weight": 0.94 },
+      { "id": "Biology", "weight": 0.88 },
+      { "id": "Materials Engineering", "weight": 0.84 },
+      { "id": "Physics", "weight": 0.76 }
+    ],
+    "desired_field": [
+      { "id": "Biomechanical Engineering", "weight": 0.99 },
+      { "id": "Something in Engineering", "weight": 0.94 },
+      { "id": "Medical Research & Biotechnology", "weight": 0.86 },
+      { "id": "Something in Health or Science", "weight": 0.74 },
+      { "id": "Mechanical & Industrial Engineering", "weight": 0.72 }
+    ],
+    "soft_skills": [
+      { "id": "Problem Solving", "weight": 0.97 },
+      { "id": "Curiosity", "weight": 0.94 },
+      { "id": "Precision", "weight": 0.93 },
+      { "id": "Critical Thinking", "weight": 0.90 },
+      { "id": "Attention to Detail", "weight": 0.89 }
+    ],
+    "hard_skills": [
+      { "id": "Simulation & Modeling", "weight": 0.96 },
+      { "id": "CAD & Design", "weight": 0.94 },
+      { "id": "Materials Testing", "weight": 0.88 },
+      { "id": "Laboratory Techniques", "weight": 0.84 },
+      { "id": "Instrumentation", "weight": 0.82 }
+    ],
+    "general_talents": [
+      { "id": "Problem Solving", "weight": 0.97 },
+      { "id": "Technology & Systems Thinking", "weight": 0.94 },
+      { "id": "Math & numbers", "weight": 0.91 },
+      { "id": "Hands-On / Mechanical Ability", "weight": 0.88 },
+      { "id": "Analysis & research", "weight": 0.87 }
+    ],
+    "employee_type": [
+      { "id": "Analytical / Detail-Oriented", "weight": 0.97 },
+      { "id": "Hands-On / Practical", "weight": 0.88 },
+      { "id": "Collaborative / Team-Oriented", "weight": 0.85 },
+      { "id": "Independent / Self-Directed", "weight": 0.78 },
+      { "id": "Creative / Idea-Driven", "weight": 0.72 }
+    ],
+    "solo_or_people": [
+      { "id": "solo", "weight": 0.72 },
+      { "id": "people", "weight": 0.78 }
+    ],
+    "work_environment": [
+      { "id": "Laboratory / Research Setting", "weight": 0.94 },
+      { "id": "Research / Idea-Driven Setting", "weight": 0.92 },
+      { "id": "Team-Based / Collaborative", "weight": 0.84 },
+      { "id": "Healthcare / Clinical Setting", "weight": 0.82 },
+      { "id": "Industrial / Manufacturing Setting", "weight": 0.72 }
+    ],
+    "work_locations": [
+      { "id": "Major City / Urban", "weight": 0.86 },
+      { "id": "Flexible / Anywhere", "weight": 0.84 },
+      { "id": "Suburban", "weight": 0.72 },
+      { "id": "Hybrid", "weight": 0.60 }
+    ],
+    "desired_outcomes": [
+      { "id": "Impact-Driven / Meaningful Work", "weight": 0.97 },
+      { "id": "Specialized Expertise / Become an Expert", "weight": 0.94 },
+      { "id": "Intellectual Exploration / Lifelong Learning", "weight": 0.88 },
+      { "id": "High Income / Wealth Building", "weight": 0.82 },
+      { "id": "Career Growth / Advancement", "weight": 0.80 }
+    ],
+    "work_intensity": [
+      { "id": "Moderately Demanding — ~40–50 hours, mentally demanding", "weight": 0.88 },
+      { "id": "Standard / Moderate — around 40 hours, manageable challenge", "weight": 0.82 },
+      { "id": "High Intensity — ~50–60 hours, high workload and pressure", "weight": 0.60 }
+    ],
+    "grad_or_no": [
+      { "id": "no_grad", "weight": 0.82 },
+      { "id": "yes_grad", "weight": 0.90 }
+    ],
+    "education_requirement": [
+      { "id": "bachelors", "weight": 0.92 },
+      { "id": "masters", "weight": 0.88 }
+    ],
+    "salary_band": [
+      { "id": "medium", "weight": 0.64 },
+      { "id": "medium_high", "weight": 0.94 }
+    ]
+  },
+  {
+    "id": "Computer Science & Software Development",
+    "major_interest": [
+      { "id": "Computer Science", "weight": 0.99 },
+      { "id": "Data Science", "weight": 0.82 },
+      { "id": "Computer Engineering", "weight": 0.80 },
+      { "id": "Info Systems & Data Analytics", "weight": 0.75 },
+      { "id": "Mathematics", "weight": 0.68 }
+    ],
+    "desired_field": [
+      { "id": "Software Engineering", "weight": 0.99 },
+      { "id": "Something in Technology", "weight": 0.95 },
+      { "id": "Artificial Intelligence & Machine Learning", "weight": 0.82 },
+      { "id": "Data Analytics", "weight": 0.68 },
+      { "id": "Information Technology (IT)", "weight": 0.62 }
+    ],
+    "soft_skills": [
+      { "id": "Problem Solving", "weight": 0.99 },
+      { "id": "Logical Thinking", "weight": 0.98 },
+      { "id": "Persistence", "weight": 0.93 },
+      { "id": "Attention to Detail", "weight": 0.91 },
+      { "id": "Adaptability", "weight": 0.87 }
+    ],
+    "hard_skills": [
+      { "id": "Software Development", "weight": 0.99 },
+      { "id": "Programming", "weight": 0.98 },
+      { "id": "Automation & Scripting", "weight": 0.88 },
+      { "id": "Database Management", "weight": 0.82 },
+      { "id": "Cloud Infrastructure", "weight": 0.76 }
+    ],
+    "general_talents": [
+      { "id": "Technology & Systems Thinking", "weight": 0.99 },
+      { "id": "Problem Solving", "weight": 0.98 },
+      { "id": "Adaptability & Learning Quickly", "weight": 0.86 },
+      { "id": "Attention to Detail", "weight": 0.84 },
+      { "id": "Creativity & Ideation", "weight": 0.78 }
+    ],
+    "employee_type": [
+      { "id": "Analytical / Detail-Oriented", "weight": 0.95 },
+      { "id": "Independent / Self-Directed", "weight": 0.92 },
+      { "id": "Creative / Idea-Driven", "weight": 0.84 },
+      { "id": "Flexible / Adaptable", "weight": 0.80 },
+      { "id": "Collaborative / Team-Oriented", "weight": 0.76 }
+    ],
+    "solo_or_people": [
+      { "id": "solo", "weight": 0.92 },
+      { "id": "people", "weight": 0.62 }
+    ],
+    "work_environment": [
+      { "id": "Remote / Work From Home", "weight": 0.94 },
+      { "id": "Quiet / Low Interaction", "weight": 0.88 },
+      { "id": "Independent / Solo Work", "weight": 0.87 },
+      { "id": "Office / Corporate Setting", "weight": 0.84 },
+      { "id": "Startup / Entrepreneurial Setting", "weight": 0.75 }
+    ],
+    "work_locations": [
+      { "id": "Remote", "weight": 0.96 },
+      { "id": "Flexible / Anywhere", "weight": 0.94 },
+      { "id": "Hybrid", "weight": 0.84 },
+      { "id": "Major City / Urban", "weight": 0.80 },
+      { "id": "West Coast", "weight": 0.68 }
+    ],
+    "desired_outcomes": [
+      { "id": "High Income / Wealth Building", "weight": 0.94 },
+      { "id": "Specialized Expertise / Become an Expert", "weight": 0.92 },
+      { "id": "Career Growth / Advancement", "weight": 0.91 },
+      { "id": "Creative Freedom / Autonomy", "weight": 0.84 },
+      { "id": "Build Transferable Skills / Future Opportunities", "weight": 0.82 }
+    ],
+    "work_intensity": [
+      { "id": "Moderately Demanding — ~40–50 hours, mentally demanding", "weight": 0.88 },
+      { "id": "Standard / Moderate — around 40 hours, manageable challenge", "weight": 0.82 },
+      { "id": "High Intensity — ~50–60 hours, high workload and pressure", "weight": 0.70 },
+      { "id": "Variable / Unpredictable Intensity — workload and hours can swing heavily", "weight": 0.62 }
+    ],
+    "grad_or_no": [
+      { "id": "no_grad", "weight": 0.98 },
+      { "id": "yes_grad", "weight": 0.60 }
+    ],
+    "education_requirement": [
+      { "id": "bachelors", "weight": 0.96 },
+      { "id": "masters", "weight": 0.60 }
+    ],
+    "salary_band": [
+      { "id": "medium", "weight": 0.58 },
+      { "id": "medium_high", "weight": 0.98 }
+    ]
+  },
+  {
+    "id": "Computer Engineering",
+    "major_interest": [
+      { "id": "Computer Engineering", "weight": 0.99 },
+      { "id": "Electrical Engineering", "weight": 0.91 },
+      { "id": "Computer Science", "weight": 0.86 },
+      { "id": "Physics", "weight": 0.72 },
+      { "id": "Mechanical Engineering", "weight": 0.60 }
+    ],
+    "desired_field": [
+      { "id": "Computer Engineering", "weight": 0.99 },
+      { "id": "Something in Engineering", "weight": 0.94 },
+      { "id": "Electrical Engineering", "weight": 0.86 },
+      { "id": "Something in Technology", "weight": 0.80 },
+      { "id": "Software Engineering", "weight": 0.68 }
+    ],
+    "soft_skills": [
+      { "id": "Problem Solving", "weight": 0.98 },
+      { "id": "Logical Thinking", "weight": 0.96 },
+      { "id": "Precision", "weight": 0.93 },
+      { "id": "Attention to Detail", "weight": 0.92 },
+      { "id": "Persistence", "weight": 0.86 }
+    ],
+    "hard_skills": [
+      { "id": "Circuit Design", "weight": 0.98 },
+      { "id": "Programming", "weight": 0.92 },
+      { "id": "Robotics & Controls", "weight": 0.88 },
+      { "id": "Instrumentation", "weight": 0.84 },
+      { "id": "CAD & Design", "weight": 0.78 }
+    ],
+    "general_talents": [
+      { "id": "Technology & Systems Thinking", "weight": 0.99 },
+      { "id": "Problem Solving", "weight": 0.97 },
+      { "id": "Math & numbers", "weight": 0.91 },
+      { "id": "Hands-On / Mechanical Ability", "weight": 0.90 },
+      { "id": "Attention to Detail", "weight": 0.89 }
+    ],
+    "employee_type": [
+      { "id": "Analytical / Detail-Oriented", "weight": 0.96 },
+      { "id": "Hands-On / Practical", "weight": 0.92 },
+      { "id": "Structured / Process-Driven", "weight": 0.88 },
+      { "id": "Collaborative / Team-Oriented", "weight": 0.78 },
+      { "id": "Independent / Self-Directed", "weight": 0.77 }
+    ],
+    "solo_or_people": [
+      { "id": "solo", "weight": 0.78 },
+      { "id": "people", "weight": 0.70 }
+    ],
+    "work_environment": [
+      { "id": "Laboratory / Research Setting", "weight": 0.92 },
+      { "id": "Industrial / Manufacturing Setting", "weight": 0.86 },
+      { "id": "Office / Corporate Setting", "weight": 0.84 },
+      { "id": "Team-Based / Collaborative", "weight": 0.80 },
+      { "id": "Research / Idea-Driven Setting", "weight": 0.72 }
+    ],
+    "work_locations": [
+      { "id": "Flexible / Anywhere", "weight": 0.84 },
+      { "id": "Major City / Urban", "weight": 0.82 },
+      { "id": "Suburban", "weight": 0.74 },
+      { "id": "West Coast", "weight": 0.72 },
+      { "id": "Hybrid", "weight": 0.60 }
+    ],
+    "desired_outcomes": [
+      { "id": "High Income / Wealth Building", "weight": 0.97 },
+      { "id": "Specialized Expertise / Become an Expert", "weight": 0.95 },
+      { "id": "Career Growth / Advancement", "weight": 0.87 },
+      { "id": "Job Security / Low Career Risk", "weight": 0.83 },
+      { "id": "Intellectual Exploration / Lifelong Learning", "weight": 0.80 }
+    ],
+    "work_intensity": [
+      { "id": "Moderately Demanding — ~40–50 hours, mentally demanding", "weight": 0.88 },
+      { "id": "Standard / Moderate — around 40 hours, manageable challenge", "weight": 0.84 },
+      { "id": "High Intensity — ~50–60 hours, high workload and pressure", "weight": 0.62 }
+    ],
+    "grad_or_no": [
+      { "id": "no_grad", "weight": 0.96 },
+      { "id": "yes_grad", "weight": 0.68 }
+    ],
+    "education_requirement": [
+      { "id": "bachelors", "weight": 0.98 },
+      { "id": "masters", "weight": 0.66 }
+    ],
+    "salary_band": [
+      { "id": "medium", "weight": 0.56 },
+      { "id": "medium_high", "weight": 0.99 }
+    ]
+  },
+  {
+    "id": "Economics",
+    "major_interest": [
+      { "id": "Economics", "weight": 0.99 },
+      { "id": "Business Economics", "weight": 0.97 },
+      { "id": "Finance", "weight": 0.83 },
+      { "id": "Mathematics", "weight": 0.82 },
+      { "id": "Political Science", "weight": 0.68 }
+    ],
+    "desired_field": [
+      { "id": "Economics & Public Policy", "weight": 0.99 },
+      { "id": "Something in Business", "weight": 0.82 },
+      { "id": "Finance", "weight": 0.78 },
+      { "id": "Statistician", "weight": 0.72 },
+      { "id": "Government, Policy & Civic Leadership", "weight": 0.70 }
+    ],
+    "soft_skills": [
+      { "id": "Critical Thinking", "weight": 0.98 },
+      { "id": "Logical Thinking", "weight": 0.94 },
+      { "id": "Curiosity", "weight": 0.90 },
+      { "id": "Pattern Recognition", "weight": 0.88 },
+      { "id": "Communication", "weight": 0.78 }
+    ],
+    "hard_skills": [
+      { "id": "Economic Modeling", "weight": 0.99 },
+      { "id": "Statistical Modeling", "weight": 0.94 },
+      { "id": "Forecasting", "weight": 0.91 },
+      { "id": "Quantitative Research", "weight": 0.90 },
+      { "id": "Data Analysis", "weight": 0.86 }
+    ],
+    "general_talents": [
+      { "id": "Analysis & research", "weight": 0.99 },
+      { "id": "Math & numbers", "weight": 0.96 },
+      { "id": "Observation & Pattern Recognition", "weight": 0.92 },
+      { "id": "Problem Solving", "weight": 0.86 },
+      { "id": "Writing & communication", "weight": 0.72 }
+    ],
+    "employee_type": [
+      { "id": "Analytical / Detail-Oriented", "weight": 0.98 },
+      { "id": "Independent / Self-Directed", "weight": 0.90 },
+      { "id": "Strategic / Big-Picture", "weight": 0.86 },
+      { "id": "Structured / Process-Driven", "weight": 0.80 },
+      { "id": "Collaborative / Team-Oriented", "weight": 0.62 }
+    ],
+    "solo_or_people": [
+      { "id": "solo", "weight": 0.89 },
+      { "id": "people", "weight": 0.62 }
+    ],
+    "work_environment": [
+      { "id": "Office / Corporate Setting", "weight": 0.92 },
+      { "id": "Research / Idea-Driven Setting", "weight": 0.90 },
+      { "id": "Government / Public Sector", "weight": 0.82 },
+      { "id": "Quiet / Low Interaction", "weight": 0.80 },
+      { "id": "Academic / Educational Setting", "weight": 0.70 }
+    ],
+    "work_locations": [
+      { "id": "Major City / Urban", "weight": 0.86 },
+      { "id": "East Coast", "weight": 0.82 },
+      { "id": "Northeast", "weight": 0.76 },
+      { "id": "Hybrid", "weight": 0.68 },
+      { "id": "International", "weight": 0.64 }
+    ],
+    "desired_outcomes": [
+      { "id": "Intellectual Exploration / Lifelong Learning", "weight": 0.96 },
+      { "id": "Specialized Expertise / Become an Expert", "weight": 0.94 },
+      { "id": "Impact-Driven / Meaningful Work", "weight": 0.86 },
+      { "id": "High Income / Wealth Building", "weight": 0.82 },
+      { "id": "Prestige / Competitive Career", "weight": 0.72 }
+    ],
+    "work_intensity": [
+      { "id": "Moderately Demanding — ~40–50 hours, mentally demanding", "weight": 0.88 },
+      { "id": "Standard / Moderate — around 40 hours, manageable challenge", "weight": 0.84 },
+      { "id": "High Intensity — ~50–60 hours, high workload and pressure", "weight": 0.58 }
+    ],
+    "grad_or_no": [
+      { "id": "no_grad", "weight": 0.68 },
+      { "id": "yes_grad", "weight": 0.96 }
+    ],
+    "education_requirement": [
+      { "id": "bachelors", "weight": 0.78 },
+      { "id": "masters", "weight": 0.97 }
+    ],
+    "salary_band": [
+      { "id": "medium", "weight": 0.70 },
+      { "id": "medium_high", "weight": 0.94 }
+    ]
+  },{
+    "id": "Environmental Work & Sustainability",
+    "major_interest": [
+      { "id": "Environmental Science", "weight": 0.99 },
+      { "id": "Sustainability Management", "weight": 0.97 },
+      { "id": "Environmental Studies", "weight": 0.96 },
+      { "id": "Biology", "weight": 0.78 },
+      { "id": "Chemistry", "weight": 0.68 }
+    ],
+    "desired_field": [
+      { "id": "Environmental Science & Sustainability", "weight": 0.99 },
+      { "id": "Something in Health or Science", "weight": 0.92 },
+      { "id": "Science & Research", "weight": 0.82 },
+      { "id": "Government, Policy & Civic Leadership", "weight": 0.64 },
+      { "id": "Consulting", "weight": 0.56 }
+    ],
+    "soft_skills": [
+      { "id": "Critical Thinking", "weight": 0.95 },
+      { "id": "Problem Solving", "weight": 0.93 },
+      { "id": "Curiosity", "weight": 0.91 },
+      { "id": "Adaptability", "weight": 0.82 },
+      { "id": "Persistence", "weight": 0.78 }
+    ],
+    "hard_skills": [
+      { "id": "Environmental Measurement", "weight": 0.99 },
+      { "id": "Data Collection", "weight": 0.95 },
+      { "id": "Field Research", "weight": 0.93 },
+      { "id": "Research Methods", "weight": 0.88 },
+      { "id": "Regulatory Compliance", "weight": 0.82 }
+    ],
+    "general_talents": [
+      { "id": "Analysis & research", "weight": 0.96 },
+      { "id": "Problem Solving", "weight": 0.93 },
+      { "id": "Observation & Pattern Recognition", "weight": 0.90 },
+      { "id": "Technology & Systems Thinking", "weight": 0.85 },
+      { "id": "Organization & planning", "weight": 0.76 }
+    ],
+    "employee_type": [
+      { "id": "Analytical / Detail-Oriented", "weight": 0.94 },
+      { "id": "Strategic / Big-Picture", "weight": 0.88 },
+      { "id": "Hands-On / Practical", "weight": 0.82 },
+      { "id": "Collaborative / Team-Oriented", "weight": 0.80 },
+      { "id": "Flexible / Adaptable", "weight": 0.74 }
+    ],
+    "solo_or_people": [
+      { "id": "solo", "weight": 0.74 },
+      { "id": "people", "weight": 0.80 }
+    ],
+    "work_environment": [
+      { "id": "Outdoor / Environmental Setting", "weight": 0.96 },
+      { "id": "Field-Based / On-Site", "weight": 0.94 },
+      { "id": "Laboratory / Research Setting", "weight": 0.82 },
+      { "id": "Government / Public Sector", "weight": 0.78 },
+      { "id": "Office / Corporate Setting", "weight": 0.74 }
+    ],
+    "work_locations": [
+      { "id": "Flexible / Anywhere", "weight": 0.86 },
+      { "id": "Rural", "weight": 0.82 },
+      { "id": "Major City / Urban", "weight": 0.76 },
+      { "id": "Suburban", "weight": 0.70 },
+      { "id": "International", "weight": 0.60 }
+    ],
+    "desired_outcomes": [
+      { "id": "Impact-Driven / Meaningful Work", "weight": 0.99 },
+      { "id": "Cultural / Social Impact", "weight": 0.92 },
+      { "id": "Specialized Expertise / Become an Expert", "weight": 0.84 },
+      { "id": "Long-Term Stable Career", "weight": 0.76 },
+      { "id": "Intellectual Exploration / Lifelong Learning", "weight": 0.74 }
+    ],
+    "work_intensity": [
+      { "id": "Standard / Moderate — around 40 hours, manageable challenge", "weight": 0.86 },
+      { "id": "Moderately Demanding — ~40–50 hours, mentally demanding", "weight": 0.80 },
+      { "id": "Seasonal / Periodic Intensity — normal most of the year, but major crunch periods", "weight": 0.72 },
+      { "id": "Variable / Unpredictable Intensity — workload and hours can swing heavily", "weight": 0.68 }
+    ],
+    "grad_or_no": [
+      { "id": "no_grad", "weight": 0.90 },
+      { "id": "yes_grad", "weight": 0.78 }
+    ],
+    "education_requirement": [
+      { "id": "bachelors", "weight": 0.97 },
+      { "id": "masters", "weight": 0.72 }
+    ],
+    "salary_band": [
+      { "id": "medium", "weight": 0.90 },
+      { "id": "medium_high", "weight": 0.72 }
+    ]
+  },
+  {
+    "id": "Accounting",
+    "major_interest": [
+      { "id": "Accounting", "weight": 0.99 },
+      { "id": "Forensic Accounting", "weight": 0.94 },
+      { "id": "Finance", "weight": 0.78 },
+      { "id": "Financial Risk Management", "weight": 0.72 },
+      { "id": "Business Administration (General Business)", "weight": 0.62 }
+    ],
+    "desired_field": [
+      { "id": "Accounting & Auditing", "weight": 0.99 },
+      { "id": "Something in Business", "weight": 0.92 },
+      { "id": "Finance", "weight": 0.75 },
+      { "id": "Business Intelligence", "weight": 0.60 },
+      { "id": "Consulting", "weight": 0.58 }
+    ],
+    "soft_skills": [
+      { "id": "Attention to Detail", "weight": 0.99 },
+      { "id": "Precision", "weight": 0.98 },
+      { "id": "Organization", "weight": 0.94 },
+      { "id": "Critical Thinking", "weight": 0.89 },
+      { "id": "Logical Thinking", "weight": 0.86 }
+    ],
+    "hard_skills": [
+      { "id": "Financial Reporting", "weight": 0.99 },
+      { "id": "GAAP", "weight": 0.98 },
+      { "id": "Auditing", "weight": 0.95 },
+      { "id": "General Ledger", "weight": 0.92 },
+      { "id": "Excel", "weight": 0.90 }
+    ],
+    "general_talents": [
+      { "id": "Attention to Detail", "weight": 0.99 },
+      { "id": "Math & numbers", "weight": 0.94 },
+      { "id": "Organization & planning", "weight": 0.93 },
+      { "id": "Analysis & research", "weight": 0.89 },
+      { "id": "Problem Solving", "weight": 0.78 }
+    ],
+    "employee_type": [
+      { "id": "Structured / Process-Driven", "weight": 0.99 },
+      { "id": "Analytical / Detail-Oriented", "weight": 0.98 },
+      { "id": "Independent / Self-Directed", "weight": 0.82 },
+      { "id": "Collaborative / Team-Oriented", "weight": 0.72 }
+    ],
+    "solo_or_people": [
+      { "id": "solo", "weight": 0.88 },
+      { "id": "people", "weight": 0.64 }
+    ],
+    "work_environment": [
+      { "id": "Office / Corporate Setting", "weight": 0.98 },
+      { "id": "Structured / Predictable", "weight": 0.96 },
+      { "id": "Quiet / Low Interaction", "weight": 0.84 },
+      { "id": "Team-Based / Collaborative", "weight": 0.72 },
+      { "id": "Remote / Work From Home", "weight": 0.64 }
+    ],
+    "work_locations": [
+      { "id": "Hybrid", "weight": 0.85 },
+      { "id": "Major City / Urban", "weight": 0.80 },
+      { "id": "Flexible / Anywhere", "weight": 0.78 },
+      { "id": "Remote", "weight": 0.72 },
+      { "id": "Suburban", "weight": 0.66 }
+    ],
+    "desired_outcomes": [
+      { "id": "Job Security / Low Career Risk", "weight": 0.95 },
+      { "id": "Long-Term Stable Career", "weight": 0.94 },
+      { "id": "Specialized Expertise / Become an Expert", "weight": 0.88 },
+      { "id": "Career Growth / Advancement", "weight": 0.84 },
+      { "id": "High Income / Wealth Building", "weight": 0.72 }
+    ],
+    "work_intensity": [
+      { "id": "Seasonal / Periodic Intensity — normal most of the year, but major crunch periods", "weight": 0.94 },
+      { "id": "Standard / Moderate — around 40 hours, manageable challenge", "weight": 0.86 },
+      { "id": "Moderately Demanding — ~40–50 hours, mentally demanding", "weight": 0.82 },
+      { "id": "High Intensity — ~50–60 hours, high workload and pressure", "weight": 0.60 }
+    ],
+    "grad_or_no": [
+      { "id": "no_grad", "weight": 0.97 },
+      { "id": "yes_grad", "weight": 0.60 }
+    ],
+    "education_requirement": [
+      { "id": "bachelors", "weight": 0.98 },
+      { "id": "masters", "weight": 0.56 }
+    ],
+    "salary_band": [
+      { "id": "medium_high", "weight": 0.88 },
+      { "id": "medium", "weight": 0.78 }
+    ]
+  },
+  {
+    "id": "Mathematics & Statistics",
+    "major_interest": [
+      { "id": "Mathematics", "weight": 0.99 },
+      { "id": "Data Science", "weight": 0.90 },
+      { "id": "Economics", "weight": 0.76 },
+      { "id": "Physics", "weight": 0.74 },
+      { "id": "Financial Risk Management", "weight": 0.68 }
+    ],
+    "desired_field": [
+      { "id": "Statistician", "weight": 0.99 },
+      { "id": "Biostatistics", "weight": 0.88 },
+      { "id": "Data Analytics", "weight": 0.86 },
+      { "id": "Something in Health or Science", "weight": 0.72 },
+      { "id": "Something in Technology", "weight": 0.68 }
+    ],
+    "soft_skills": [
+      { "id": "Logical Thinking", "weight": 0.99 },
+      { "id": "Critical Thinking", "weight": 0.97 },
+      { "id": "Pattern Recognition", "weight": 0.96 },
+      { "id": "Attention to Detail", "weight": 0.92 },
+      { "id": "Persistence", "weight": 0.88 }
+    ],
+    "hard_skills": [
+      { "id": "Statistical Modeling", "weight": 0.99 },
+      { "id": "Data Analysis", "weight": 0.97 },
+      { "id": "Quantitative Research", "weight": 0.95 },
+      { "id": "Optimization", "weight": 0.94 },
+      { "id": "Scientific Computing", "weight": 0.89 }
+    ],
+    "general_talents": [
+      { "id": "Math & numbers", "weight": 0.99 },
+      { "id": "Analysis & research", "weight": 0.98 },
+      { "id": "Observation & Pattern Recognition", "weight": 0.96 },
+      { "id": "Problem Solving", "weight": 0.92 },
+      { "id": "Attention to Detail", "weight": 0.86 }
+    ],
+    "employee_type": [
+      { "id": "Analytical / Detail-Oriented", "weight": 0.99 },
+      { "id": "Independent / Self-Directed", "weight": 0.92 },
+      { "id": "Structured / Process-Driven", "weight": 0.87 },
+      { "id": "Creative / Idea-Driven", "weight": 0.70 },
+      { "id": "Collaborative / Team-Oriented", "weight": 0.64 }
+    ],
+    "solo_or_people": [
+      { "id": "solo", "weight": 0.92 },
+      { "id": "people", "weight": 0.60 }
+    ],
+    "work_environment": [
+      { "id": "Research / Idea-Driven Setting", "weight": 0.92 },
+      { "id": "Quiet / Low Interaction", "weight": 0.90 },
+      { "id": "Independent / Solo Work", "weight": 0.88 },
+      { "id": "Academic / Educational Setting", "weight": 0.82 },
+      { "id": "Office / Corporate Setting", "weight": 0.78 }
+    ],
+    "work_locations": [
+      { "id": "Flexible / Anywhere", "weight": 0.91 },
+      { "id": "Remote", "weight": 0.88 },
+      { "id": "Hybrid", "weight": 0.80 },
+      { "id": "Major City / Urban", "weight": 0.76 }
+    ],
+    "desired_outcomes": [
+      { "id": "Intellectual Exploration / Lifelong Learning", "weight": 0.98 },
+      { "id": "Specialized Expertise / Become an Expert", "weight": 0.96 },
+      { "id": "High Income / Wealth Building", "weight": 0.86 },
+      { "id": "Build Transferable Skills / Future Opportunities", "weight": 0.84 },
+      { "id": "Career Growth / Advancement", "weight": 0.78 }
+    ],
+    "work_intensity": [
+      { "id": "Moderately Demanding — ~40–50 hours, mentally demanding", "weight": 0.88 },
+      { "id": "Standard / Moderate — around 40 hours, manageable challenge", "weight": 0.86 },
+      { "id": "High Intensity — ~50–60 hours, high workload and pressure", "weight": 0.58 }
+    ],
+    "grad_or_no": [
+      { "id": "yes_grad", "weight": 0.94 },
+      { "id": "no_grad", "weight": 0.80 }
+    ],
+    "education_requirement": [
+      { "id": "masters", "weight": 0.94 },
+      { "id": "bachelors", "weight": 0.86 }
+    ],
+    "salary_band": [
+      { "id": "medium_high", "weight": 0.94 },
+      { "id": "medium", "weight": 0.68 }
+    ]
+  },
+  {
+    "id": "Materials Engineering",
+    "major_interest": [
+      { "id": "Materials Engineering", "weight": 0.99 },
+      { "id": "Chemistry", "weight": 0.88 },
+      { "id": "Physics", "weight": 0.84 },
+      { "id": "Mechanical Engineering", "weight": 0.80 },
+      { "id": "Electrical Engineering", "weight": 0.64 }
+    ],
+    "desired_field": [
+      { "id": "Something in Engineering", "weight": 0.99 },
+      { "id": "Mechanical & Industrial Engineering", "weight": 0.86 },
+      { "id": "Science & Research", "weight": 0.78 },
+      { "id": "Something in Health or Science", "weight": 0.66 },
+      { "id": "Electrical Engineering", "weight": 0.58 }
+    ],
+    "soft_skills": [
+      { "id": "Precision", "weight": 0.98 },
+      { "id": "Problem Solving", "weight": 0.96 },
+      { "id": "Attention to Detail", "weight": 0.94 },
+      { "id": "Safety Awareness", "weight": 0.89 },
+      { "id": "Curiosity", "weight": 0.84 }
+    ],
+    "hard_skills": [
+      { "id": "Materials Testing", "weight": 0.99 },
+      { "id": "Laboratory Methods", "weight": 0.94 },
+      { "id": "Manufacturing Systems", "weight": 0.90 },
+      { "id": "Simulation & Modeling", "weight": 0.86 },
+      { "id": "Instrumentation", "weight": 0.79 }
+    ],
+    "general_talents": [
+      { "id": "Problem Solving", "weight": 0.96 },
+      { "id": "Hands-On / Mechanical Ability", "weight": 0.95 },
+      { "id": "Technology & Systems Thinking", "weight": 0.93 },
+      { "id": "Attention to Detail", "weight": 0.90 },
+      { "id": "Math & numbers", "weight": 0.88 }
+    ],
+    "employee_type": [
+      { "id": "Analytical / Detail-Oriented", "weight": 0.97 },
+      { "id": "Hands-On / Practical", "weight": 0.92 },
+      { "id": "Structured / Process-Driven", "weight": 0.88 },
+      { "id": "Collaborative / Team-Oriented", "weight": 0.82 },
+      { "id": "Independent / Self-Directed", "weight": 0.70 }
+    ],
+    "solo_or_people": [
+      { "id": "solo", "weight": 0.72 },
+      { "id": "people", "weight": 0.78 }
+    ],
+    "work_environment": [
+      { "id": "Industrial / Manufacturing Setting", "weight": 0.96 },
+      { "id": "Laboratory / Research Setting", "weight": 0.93 },
+      { "id": "Research / Idea-Driven Setting", "weight": 0.86 },
+      { "id": "Team-Based / Collaborative", "weight": 0.80 },
+      { "id": "Office / Corporate Setting", "weight": 0.68 }
+    ],
+    "work_locations": [
+      { "id": "Flexible / Anywhere", "weight": 0.82 },
+      { "id": "Suburban", "weight": 0.80 },
+      { "id": "Major City / Urban", "weight": 0.74 },
+      { "id": "Midwest", "weight": 0.68 },
+      { "id": "South", "weight": 0.62 }
+    ],
+    "desired_outcomes": [
+      { "id": "Specialized Expertise / Become an Expert", "weight": 0.96 },
+      { "id": "High Income / Wealth Building", "weight": 0.90 },
+      { "id": "Career Growth / Advancement", "weight": 0.84 },
+      { "id": "Impact-Driven / Meaningful Work", "weight": 0.82 },
+      { "id": "Job Security / Low Career Risk", "weight": 0.78 }
+    ],
+    "work_intensity": [
+      { "id": "Moderately Demanding — ~40–50 hours, mentally demanding", "weight": 0.88 },
+      { "id": "Standard / Moderate — around 40 hours, manageable challenge", "weight": 0.82 },
+      { "id": "High Intensity — ~50–60 hours, high workload and pressure", "weight": 0.62 }
+    ],
+    "grad_or_no": [
+      { "id": "no_grad", "weight": 0.93 },
+      { "id": "yes_grad", "weight": 0.72 }
+    ],
+    "education_requirement": [
+      { "id": "bachelors", "weight": 0.98 },
+      { "id": "masters", "weight": 0.68 }
+    ],
+    "salary_band": [
+      { "id": "medium_high", "weight": 0.97 },
+      { "id": "medium", "weight": 0.60 }
+    ]
+  },
+  {
+    "id": "Education",
+    "major_interest": [
+      { "id": "Education", "weight": 0.99 },
+      { "id": "Elementary Education", "weight": 0.98 },
+      { "id": "Special Education", "weight": 0.97 },
+      { "id": "Psychology", "weight": 0.76 },
+      { "id": "Speech-Language-Hearing Sciences", "weight": 0.68 }
+    ],
+    "desired_field": [
+      { "id": "Teaching, Learning & Student Development", "weight": 0.99 },
+      { "id": "Something within Humanities & Culture", "weight": 0.88 },
+      { "id": "Human Behavior & Community Studies", "weight": 0.70 },
+      { "id": "Faith, Ethics & Service", "weight": 0.58 }
+    ],
+    "soft_skills": [
+      { "id": "Communication", "weight": 0.98 },
+      { "id": "Empathy", "weight": 0.97 },
+      { "id": "Patience", "weight": 0.96 },
+      { "id": "Organization", "weight": 0.90 },
+      { "id": "Adaptability", "weight": 0.88 }
+    ],
+    "hard_skills": [
+      { "id": "Learning Program Design", "weight": 0.99 },
+      { "id": "General Education", "weight": 0.98 },
+      { "id": "Public Speaking", "weight": 0.88 },
+      { "id": "Presentation Design", "weight": 0.78 },
+      { "id": "Professional Writing", "weight": 0.72 }
+    ],
+    "general_talents": [
+      { "id": "Teaching & Mentoring", "weight": 0.99 },
+      { "id": "Empathy & Understanding People", "weight": 0.96 },
+      { "id": "Interpersonal & Relationship Building", "weight": 0.94 },
+      { "id": "Organization & planning", "weight": 0.90 },
+      { "id": "Writing & communication", "weight": 0.80 }
+    ],
+    "employee_type": [
+      { "id": "People-Focused / Relationship-Driven", "weight": 0.99 },
+      { "id": "Collaborative / Team-Oriented", "weight": 0.92 },
+      { "id": "Structured / Process-Driven", "weight": 0.86 },
+      { "id": "Leader / Manager", "weight": 0.80 },
+      { "id": "Flexible / Adaptable", "weight": 0.78 }
+    ],
+    "solo_or_people": [
+      { "id": "solo", "weight": 0.56 },
+      { "id": "people", "weight": 0.99 }
+    ],
+    "work_environment": [
+      { "id": "Academic / Educational Setting", "weight": 0.99 },
+      { "id": "Team-Based / Collaborative", "weight": 0.86 },
+      { "id": "Community / Public-Facing Setting", "weight": 0.84 },
+      { "id": "Structured / Predictable", "weight": 0.80 },
+      { "id": "Client-Facing / Social", "weight": 0.68 }
+    ],
+    "work_locations": [
+      { "id": "Suburban", "weight": 0.88 },
+      { "id": "Major City / Urban", "weight": 0.84 },
+      { "id": "Flexible / Anywhere", "weight": 0.80 },
+      { "id": "Rural", "weight": 0.78 }
+    ],
+    "desired_outcomes": [
+      { "id": "Education / People-Oriented Development", "weight": 0.99 },
+      { "id": "Impact-Driven / Meaningful Work", "weight": 0.97 },
+      { "id": "Cultural / Social Impact", "weight": 0.88 },
+      { "id": "Long-Term Stable Career", "weight": 0.84 },
+      { "id": "Work-Life Balance / Flexibility", "weight": 0.72 }
+    ],
+    "work_intensity": [
+      { "id": "Standard / Moderate — around 40 hours, manageable challenge", "weight": 0.86 },
+      { "id": "Seasonal / Periodic Intensity — normal most of the year, but major crunch periods", "weight": 0.84 },
+      { "id": "Moderately Demanding — ~40–50 hours, mentally demanding", "weight": 0.76 },
+      { "id": "Variable / Unpredictable Intensity — workload and hours can swing heavily", "weight": 0.58 }
+    ],
+    "grad_or_no": [
+      { "id": "no_grad", "weight": 0.91 },
+      { "id": "yes_grad", "weight": 0.76 }
+    ],
+    "education_requirement": [
+      { "id": "bachelors", "weight": 0.98 },
+      { "id": "masters", "weight": 0.76 }
+    ],
+    "salary_band": [
+      { "id": "medium", "weight": 0.97 },
+      { "id": "medium_high", "weight": 0.56 }
+    ]
+  },
+  {
+    "id": "Writing & Journalism",
+    "major_interest": [
+      { "id": "Journalism", "weight": 0.99 },
+      { "id": "Writing", "weight": 0.98 },
+      { "id": "Advertising", "weight": 0.70 },
+      { "id": "Political Science", "weight": 0.68 },
+      { "id": "History", "weight": 0.64 }
+    ],
+    "desired_field": [
+      { "id": "Writing, Editing & Publishing", "weight": 0.99 },
+      { "id": "Media Strategy & Public Communication", "weight": 0.88 },
+      { "id": "Something within Humanities & Culture", "weight": 0.84 },
+      { "id": "Government, Policy & Civic Leadership", "weight": 0.60 },
+      { "id": "Creative Arts & Design", "weight": 0.58 }
+    ],
+    "soft_skills": [
+      { "id": "Writing", "weight": 0.99 },
+      { "id": "Curiosity", "weight": 0.93 },
+      { "id": "Critical Thinking", "weight": 0.91 },
+      { "id": "Adaptability", "weight": 0.86 },
+      { "id": "Persistence", "weight": 0.82 }
+    ],
+    "hard_skills": [
+      { "id": "Professional Writing", "weight": 0.99 },
+      { "id": "Interviewing", "weight": 0.95 },
+      { "id": "Media Communication", "weight": 0.91 },
+      { "id": "Research Methods", "weight": 0.86 },
+      { "id": "Content Production", "weight": 0.82 }
+    ],
+    "general_talents": [
+      { "id": "Writing & communication", "weight": 0.99 },
+      { "id": "Creativity & Ideation", "weight": 0.92 },
+      { "id": "Analysis & research", "weight": 0.90 },
+      { "id": "Interpersonal & Relationship Building", "weight": 0.80 },
+      { "id": "Observation & Pattern Recognition", "weight": 0.78 }
+    ],
+    "employee_type": [
+      { "id": "Creative / Idea-Driven", "weight": 0.97 },
+      { "id": "Independent / Self-Directed", "weight": 0.91 },
+      { "id": "Flexible / Adaptable", "weight": 0.88 },
+      { "id": "Analytical / Detail-Oriented", "weight": 0.76 },
+      { "id": "People-Focused / Relationship-Driven", "weight": 0.68 }
+    ],
+    "solo_or_people": [
+      { "id": "solo", "weight": 0.88 },
+      { "id": "people", "weight": 0.72 }
+    ],
+    "work_environment": [
+      { "id": "Writing / Communication Setting", "weight": 0.99 },
+      { "id": "Flexible / Unstructured", "weight": 0.90 },
+      { "id": "Remote / Work From Home", "weight": 0.84 },
+      { "id": "Fast-Paced / High-Pressure", "weight": 0.80 },
+      { "id": "Community / Public-Facing Setting", "weight": 0.72 }
+    ],
+    "work_locations": [
+      { "id": "Remote", "weight": 0.92 },
+      { "id": "Flexible / Anywhere", "weight": 0.90 },
+      { "id": "Major City / Urban", "weight": 0.86 },
+      { "id": "Hybrid", "weight": 0.82 }
+    ],
+    "desired_outcomes": [
+      { "id": "Creative Expression / Communication", "weight": 0.99 },
+      { "id": "Creative Freedom / Autonomy", "weight": 0.93 },
+      { "id": "Impact-Driven / Meaningful Work", "weight": 0.84 },
+      { "id": "Cultural / Social Impact", "weight": 0.82 },
+      { "id": "Build Transferable Skills / Future Opportunities", "weight": 0.76 }
+    ],
+    "work_intensity": [
+      { "id": "Variable / Unpredictable Intensity — workload and hours can swing heavily", "weight": 0.91 },
+      { "id": "Standard / Moderate — around 40 hours, manageable challenge", "weight": 0.80 },
+      { "id": "Seasonal / Periodic Intensity — normal most of the year, but major crunch periods", "weight": 0.74 },
+      { "id": "Moderately Demanding — ~40–50 hours, mentally demanding", "weight": 0.72 }
+    ],
+    "grad_or_no": [
+      { "id": "no_grad", "weight": 0.98 },
+      { "id": "yes_grad", "weight": 0.56 }
+    ],
+    "education_requirement": [
+      { "id": "bachelors", "weight": 0.96 },
+      { "id": "masters", "weight": 0.56 }
+    ],
+    "salary_band": [
+      { "id": "medium", "weight": 0.94 },
+      { "id": "medium_high", "weight": 0.60 }
+    ]
+  },
+  {
+    "id": "Politics & Public Policy",
+    "major_interest": [
+      { "id": "Political Science", "weight": 0.99 },
+      { "id": "Economics", "weight": 0.86 },
+      { "id": "Global Studies", "weight": 0.84 },
+      { "id": "Sociology", "weight": 0.76 },
+      { "id": "Business Economics", "weight": 0.66 }
+    ],
+    "desired_field": [
+      { "id": "Government, Policy & Civic Leadership", "weight": 0.99 },
+      { "id": "Economics & Public Policy", "weight": 0.90 },
+      { "id": "Global Cultures & Diplomacy", "weight": 0.82 },
+      { "id": "Law, Rights & Justice", "weight": 0.76 },
+      { "id": "Something within Humanities & Culture", "weight": 0.72 }
+    ],
+    "soft_skills": [
+      { "id": "Critical Thinking", "weight": 0.97 },
+      { "id": "Communication", "weight": 0.95 },
+      { "id": "Persuasion", "weight": 0.91 },
+      { "id": "Leadership", "weight": 0.87 },
+      { "id": "Cultural Awareness", "weight": 0.84 }
+    ],
+    "hard_skills": [
+      { "id": "Research Methods", "weight": 0.97 },
+      { "id": "Public Speaking", "weight": 0.95 },
+      { "id": "Professional Writing", "weight": 0.92 },
+      { "id": "Persuasive Communication", "weight": 0.90 },
+      { "id": "Data Analysis", "weight": 0.78 }
+    ],
+    "general_talents": [
+      { "id": "Analysis & research", "weight": 0.98 },
+      { "id": "Public speaking & persuasion", "weight": 0.96 },
+      { "id": "Writing & communication", "weight": 0.90 },
+      { "id": "Leadership & Decision Making", "weight": 0.88 },
+      { "id": "Interpersonal & Relationship Building", "weight": 0.82 }
+    ],
+    "employee_type": [
+      { "id": "Strategic / Big-Picture", "weight": 0.98 },
+      { "id": "People-Focused / Relationship-Driven", "weight": 0.91 },
+      { "id": "Leader / Manager", "weight": 0.88 },
+      { "id": "Analytical / Detail-Oriented", "weight": 0.86 },
+      { "id": "Collaborative / Team-Oriented", "weight": 0.82 }
+    ],
+    "solo_or_people": [
+      { "id": "solo", "weight": 0.66 },
+      { "id": "people", "weight": 0.92 }
+    ],
+    "work_environment": [
+      { "id": "Government / Public Sector", "weight": 0.99 },
+      { "id": "Community / Public-Facing Setting", "weight": 0.90 },
+      { "id": "Office / Corporate Setting", "weight": 0.86 },
+      { "id": "Writing / Communication Setting", "weight": 0.76 },
+      { "id": "Fast-Paced / High-Pressure", "weight": 0.74 }
+    ],
+    "work_locations": [
+      { "id": "East Coast", "weight": 0.95 },
+      { "id": "Major City / Urban", "weight": 0.93 },
+      { "id": "Northeast", "weight": 0.84 },
+      { "id": "Hybrid", "weight": 0.72 },
+      { "id": "International", "weight": 0.68 }
+    ],
+    "desired_outcomes": [
+      { "id": "Impact-Driven / Meaningful Work", "weight": 0.99 },
+      { "id": "Cultural / Social Impact", "weight": 0.95 },
+      { "id": "Leadership / Executive Path", "weight": 0.87 },
+      { "id": "Intellectual Exploration / Lifelong Learning", "weight": 0.82 },
+      { "id": "Prestige / Competitive Career", "weight": 0.80 }
+    ],
+    "work_intensity": [
+      { "id": "Variable / Unpredictable Intensity — workload and hours can swing heavily", "weight": 0.87 },
+      { "id": "Moderately Demanding — ~40–50 hours, mentally demanding", "weight": 0.84 },
+      { "id": "High Intensity — ~50–60 hours, high workload and pressure", "weight": 0.79 },
+      { "id": "Standard / Moderate — around 40 hours, manageable challenge", "weight": 0.68 }
+    ],
+    "grad_or_no": [
+      { "id": "yes_grad", "weight": 0.92 },
+      { "id": "no_grad", "weight": 0.80 }
+    ],
+    "education_requirement": [
+      { "id": "masters", "weight": 0.93 },
+      { "id": "bachelors", "weight": 0.88 }
+    ],
+    "salary_band": [
+      { "id": "medium_high", "weight": 0.90 },
+      { "id": "medium", "weight": 0.74 }
+    ]
+  },
+  {
+    "id": "Legal Services",
+    "major_interest": [
+      { "id": "Political Science", "weight": 0.98 },
+      { "id": "Philosophy", "weight": 0.87 },
+      { "id": "History", "weight": 0.82 },
+      { "id": "Writing", "weight": 0.80 },
+      { "id": "Global Studies", "weight": 0.68 }
+    ],
+    "desired_field": [
+      { "id": "Law, Rights & Justice", "weight": 0.99 },
+      { "id": "Government, Policy & Civic Leadership", "weight": 0.82 },
+      { "id": "Something within Humanities & Culture", "weight": 0.80 },
+      { "id": "Global Cultures & Diplomacy", "weight": 0.62 }
+    ],
+    "soft_skills": [
+      { "id": "Critical Thinking", "weight": 0.99 },
+      { "id": "Attention to Detail", "weight": 0.96 },
+      { "id": "Persuasion", "weight": 0.95 },
+      { "id": "Communication", "weight": 0.93 },
+      { "id": "Negotiation", "weight": 0.90 }
+    ],
+    "hard_skills": [
+      { "id": "Professional Writing", "weight": 0.98 },
+      { "id": "Persuasive Communication", "weight": 0.96 },
+      { "id": "Research Methods", "weight": 0.93 },
+      { "id": "Negotiation", "weight": 0.90 },
+      { "id": "Regulatory Compliance", "weight": 0.82 }
+    ],
+    "general_talents": [
+      { "id": "Analysis & research", "weight": 0.99 },
+      { "id": "Writing & communication", "weight": 0.97 },
+      { "id": "Public speaking & persuasion", "weight": 0.94 },
+      { "id": "Attention to Detail", "weight": 0.90 },
+      { "id": "Interpersonal & Relationship Building", "weight": 0.84 }
+    ],
+    "employee_type": [
+      { "id": "Analytical / Detail-Oriented", "weight": 0.98 },
+      { "id": "Structured / Process-Driven", "weight": 0.92 },
+      { "id": "Strategic / Big-Picture", "weight": 0.89 },
+      { "id": "People-Focused / Relationship-Driven", "weight": 0.84 },
+      { "id": "Independent / Self-Directed", "weight": 0.80 }
+    ],
+    "solo_or_people": [
+      { "id": "solo", "weight": 0.78 },
+      { "id": "people", "weight": 0.84 }
+    ],
+    "work_environment": [
+      { "id": "Office / Corporate Setting", "weight": 0.96 },
+      { "id": "Fast-Paced / High-Pressure", "weight": 0.90 },
+      { "id": "Client-Facing / Social", "weight": 0.87 },
+      { "id": "Writing / Communication Setting", "weight": 0.84 },
+      { "id": "Government / Public Sector", "weight": 0.74 }
+    ],
+    "work_locations": [
+      { "id": "Major City / Urban", "weight": 0.94 },
+      { "id": "East Coast", "weight": 0.78 },
+      { "id": "Northeast", "weight": 0.74 },
+      { "id": "Hybrid", "weight": 0.68 },
+      { "id": "Flexible / Anywhere", "weight": 0.62 }
+    ],
+    "desired_outcomes": [
+      { "id": "Specialized Expertise / Become an Expert", "weight": 0.96 },
+      { "id": "Prestige / Competitive Career", "weight": 0.94 },
+      { "id": "High Income / Wealth Building", "weight": 0.91 },
+      { "id": "Impact-Driven / Meaningful Work", "weight": 0.88 },
+      { "id": "Career Growth / Advancement", "weight": 0.84 }
+    ],
+    "work_intensity": [
+      { "id": "High Intensity — ~50–60 hours, high workload and pressure", "weight": 0.89 },
+      { "id": "Moderately Demanding — ~40–50 hours, mentally demanding", "weight": 0.86 },
+      { "id": "Very High Intensity — ~60+ hours, consistently demanding", "weight": 0.74 },
+      { "id": "Variable / Unpredictable Intensity — workload and hours can swing heavily", "weight": 0.70 },
+      { "id": "Standard / Moderate — around 40 hours, manageable challenge", "weight": 0.64 }
+    ],
+    "grad_or_no": [
+      { "id": "yes_grad", "weight": 0.98 },
+      { "id": "no_grad", "weight": 0.72 }
+    ],
+    "education_requirement": [
+      { "id": "bachelors", "weight": 0.84 },
+      { "id": "masters", "weight": 0.56 }
+    ],
+    "salary_band": [
+      { "id": "medium_high", "weight": 0.94 },
+      { "id": "medium", "weight": 0.80 }
+    ]
+  },{
+    "id": "Languages & International Affairs",
+    "major_interest": [
+      { "id": "Global Studies", "weight": 0.99 },
+      { "id": "International Business", "weight": 0.94 },
+      { "id": "French", "weight": 0.92 },
+      { "id": "Spanish", "weight": 0.92 },
+      { "id": "Political Science", "weight": 0.84 }
+    ],
+    "desired_field": [
+      { "id": "Global Cultures & Diplomacy", "weight": 0.99 },
+      { "id": "International Business", "weight": 0.90 },
+      { "id": "Government, Policy & Civic Leadership", "weight": 0.84 },
+      { "id": "Something within Humanities & Culture", "weight": 0.80 },
+      { "id": "Economics & Public Policy", "weight": 0.68 }
+    ],
+    "soft_skills": [
+      { "id": "Cultural Awareness", "weight": 0.99 },
+      { "id": "Communication", "weight": 0.96 },
+      { "id": "Interpretation", "weight": 0.95 },
+      { "id": "Adaptability", "weight": 0.91 },
+      { "id": "Active Listening", "weight": 0.88 }
+    ],
+    "hard_skills": [
+      { "id": "Foreign Languages", "weight": 0.99 },
+      { "id": "Cultural Analysis", "weight": 0.93 },
+      { "id": "Translation", "weight": 0.90 },
+      { "id": "Geographical Knowledge", "weight": 0.88 },
+      { "id": "Research Methods", "weight": 0.78 }
+    ],
+    "general_talents": [
+      { "id": "Interpersonal & Relationship Building", "weight": 0.96 },
+      { "id": "Adaptability & Learning Quickly", "weight": 0.94 },
+      { "id": "Writing & communication", "weight": 0.92 },
+      { "id": "Public speaking & persuasion", "weight": 0.86 },
+      { "id": "Analysis & research", "weight": 0.82 }
+    ],
+    "employee_type": [
+      { "id": "People-Focused / Relationship-Driven", "weight": 0.97 },
+      { "id": "Flexible / Adaptable", "weight": 0.95 },
+      { "id": "Collaborative / Team-Oriented", "weight": 0.88 },
+      { "id": "Strategic / Big-Picture", "weight": 0.84 },
+      { "id": "Independent / Self-Directed", "weight": 0.70 }
+    ],
+    "solo_or_people": [
+      { "id": "solo", "weight": 0.66 },
+      { "id": "people", "weight": 0.92 }
+    ],
+    "work_environment": [
+      { "id": "Government / Public Sector", "weight": 0.92 },
+      { "id": "Travel-Heavy / Mobile", "weight": 0.90 },
+      { "id": "Community / Public-Facing Setting", "weight": 0.84 },
+      { "id": "Office / Corporate Setting", "weight": 0.78 },
+      { "id": "Client-Facing / Social", "weight": 0.76 }
+    ],
+    "work_locations": [
+      { "id": "International", "weight": 0.99 },
+      { "id": "Major City / Urban", "weight": 0.86 },
+      { "id": "East Coast", "weight": 0.82 },
+      { "id": "Flexible / Anywhere", "weight": 0.76 },
+      { "id": "Remote", "weight": 0.68 }
+    ],
+    "desired_outcomes": [
+      { "id": "Cultural / Social Impact", "weight": 0.97 },
+      { "id": "Impact-Driven / Meaningful Work", "weight": 0.94 },
+      { "id": "Intellectual Exploration / Lifelong Learning", "weight": 0.86 },
+      { "id": "Build Transferable Skills / Future Opportunities", "weight": 0.82 },
+      { "id": "Leadership / Executive Path", "weight": 0.76 }
+    ],
+    "work_intensity": [
+      { "id": "Variable / Unpredictable Intensity — workload and hours can swing heavily", "weight": 0.88 },
+      { "id": "Moderately Demanding — ~40–50 hours, mentally demanding", "weight": 0.82 },
+      { "id": "Standard / Moderate — around 40 hours, manageable challenge", "weight": 0.74 },
+      { "id": "High Intensity — ~50–60 hours, high workload and pressure", "weight": 0.68 }
+    ],
+    "grad_or_no": [
+      { "id": "no_grad", "weight": 0.90 },
+      { "id": "yes_grad", "weight": 0.78 }
+    ],
+    "education_requirement": [
+      { "id": "bachelors", "weight": 0.94 },
+      { "id": "masters", "weight": 0.76 }
+    ],
+    "salary_band": [
+      { "id": "medium", "weight": 0.88 },
+      { "id": "medium_high", "weight": 0.76 }
+    ]
+  },
+  {
+    "id": "History & Culutral Heritage",
+    "major_interest": [
+      { "id": "History", "weight": 0.99 },
+      { "id": "Studio Art", "weight": 0.78 },
+      { "id": "Visual Arts", "weight": 0.76 },
+      { "id": "Global Studies", "weight": 0.70 },
+      { "id": "Environmental Studies", "weight": 0.68 }
+    ],
+    "desired_field": [
+      { "id": "Historical Research & Preservation", "weight": 0.99 },
+      { "id": "Something within Humanities & Culture", "weight": 0.92 },
+      { "id": "Creative Arts & Design", "weight": 0.72 },
+      { "id": "Global Cultures & Diplomacy", "weight": 0.64 }
+    ],
+    "soft_skills": [
+      { "id": "Attention to Detail", "weight": 0.98 },
+      { "id": "Interpretation", "weight": 0.95 },
+      { "id": "Research Discipline", "weight": 0.92 },
+      { "id": "Critical Thinking", "weight": 0.91 },
+      { "id": "Patience", "weight": 0.88 }
+    ],
+    "hard_skills": [
+      { "id": "Historical Research", "weight": 0.99 },
+      { "id": "Cultural Analysis", "weight": 0.94 },
+      { "id": "Research Methods", "weight": 0.92 },
+      { "id": "Data Collection", "weight": 0.84 },
+      { "id": "Professional Writing", "weight": 0.82 }
+    ],
+    "general_talents": [
+      { "id": "Analysis & research", "weight": 0.98 },
+      { "id": "Memory & Knowledge Retention", "weight": 0.93 },
+      { "id": "Attention to Detail", "weight": 0.92 },
+      { "id": "Observation & Pattern Recognition", "weight": 0.90 },
+      { "id": "Writing & communication", "weight": 0.82 }
+    ],
+    "employee_type": [
+      { "id": "Analytical / Detail-Oriented", "weight": 0.96 },
+      { "id": "Independent / Self-Directed", "weight": 0.90 },
+      { "id": "Structured / Process-Driven", "weight": 0.86 },
+      { "id": "Creative / Idea-Driven", "weight": 0.76 },
+      { "id": "Collaborative / Team-Oriented", "weight": 0.72 }
+    ],
+    "solo_or_people": [
+      { "id": "solo", "weight": 0.84 },
+      { "id": "people", "weight": 0.66 }
+    ],
+    "work_environment": [
+      { "id": "Cultural / Arts-Oriented Setting", "weight": 0.99 },
+      { "id": "Research / Idea-Driven Setting", "weight": 0.86 },
+      { "id": "Academic / Educational Setting", "weight": 0.84 },
+      { "id": "Quiet / Low Interaction", "weight": 0.76 },
+      { "id": "Government / Public Sector", "weight": 0.72 }
+    ],
+    "work_locations": [
+      { "id": "Major City / Urban", "weight": 0.84 },
+      { "id": "Flexible / Anywhere", "weight": 0.78 },
+      { "id": "East Coast", "weight": 0.70 },
+      { "id": "International", "weight": 0.66 },
+      { "id": "Suburban", "weight": 0.60 }
+    ],
+    "desired_outcomes": [
+      { "id": "Specialized Expertise / Become an Expert", "weight": 0.96 },
+      { "id": "Intellectual Exploration / Lifelong Learning", "weight": 0.95 },
+      { "id": "Cultural / Social Impact", "weight": 0.91 },
+      { "id": "Impact-Driven / Meaningful Work", "weight": 0.84 },
+      { "id": "Education / People-Oriented Development", "weight": 0.70 }
+    ],
+    "work_intensity": [
+      { "id": "Standard / Moderate — around 40 hours, manageable challenge", "weight": 0.88 },
+      { "id": "Moderately Demanding — ~40–50 hours, mentally demanding", "weight": 0.72 },
+      { "id": "Seasonal / Periodic Intensity — normal most of the year, but major crunch periods", "weight": 0.66 },
+      { "id": "Light / Low Demand — usually under ~40 hours, low pressure", "weight": 0.60 }
+    ],
+    "grad_or_no": [
+      { "id": "yes_grad", "weight": 0.92 },
+      { "id": "no_grad", "weight": 0.74 }
+    ],
+    "education_requirement": [
+      { "id": "masters", "weight": 0.92 },
+      { "id": "bachelors", "weight": 0.82 }
+    ],
+    "salary_band": [
+      { "id": "medium", "weight": 0.96 },
+      { "id": "medium_high", "weight": 0.58 }
+    ]
+  },
+  {
+    "id": "Media, Communications & Public Relations",
+    "major_interest": [
+      { "id": "Journalism", "weight": 0.97 },
+      { "id": "Advertising", "weight": 0.95 },
+      { "id": "Marketing", "weight": 0.90 },
+      { "id": "Writing", "weight": 0.88 },
+      { "id": "Political Science", "weight": 0.68 }
+    ],
+    "desired_field": [
+      { "id": "Media Strategy & Public Communication", "weight": 0.99 },
+      { "id": "Marketing & Advertising", "weight": 0.88 },
+      { "id": "Writing, Editing & Publishing", "weight": 0.82 },
+      { "id": "Government, Policy & Civic Leadership", "weight": 0.64 },
+      { "id": "Something in Business", "weight": 0.60 }
+    ],
+    "soft_skills": [
+      { "id": "Communication", "weight": 0.99 },
+      { "id": "Persuasion", "weight": 0.96 },
+      { "id": "Public Speaking", "weight": 0.93 },
+      { "id": "Adaptability", "weight": 0.92 },
+      { "id": "Confidence", "weight": 0.88 }
+    ],
+    "hard_skills": [
+      { "id": "Media Communication", "weight": 0.99 },
+      { "id": "Professional Writing", "weight": 0.96 },
+      { "id": "Persuasive Communication", "weight": 0.94 },
+      { "id": "Content Production", "weight": 0.90 },
+      { "id": "Public Speaking", "weight": 0.86 }
+    ],
+    "general_talents": [
+      { "id": "Writing & communication", "weight": 0.99 },
+      { "id": "Public speaking & persuasion", "weight": 0.96 },
+      { "id": "Interpersonal & Relationship Building", "weight": 0.93 },
+      { "id": "Creativity & Ideation", "weight": 0.88 },
+      { "id": "Leadership & Decision Making", "weight": 0.76 }
+    ],
+    "employee_type": [
+      { "id": "People-Focused / Relationship-Driven", "weight": 0.97 },
+      { "id": "Creative / Idea-Driven", "weight": 0.94 },
+      { "id": "Flexible / Adaptable", "weight": 0.90 },
+      { "id": "Strategic / Big-Picture", "weight": 0.86 },
+      { "id": "Collaborative / Team-Oriented", "weight": 0.84 }
+    ],
+    "solo_or_people": [
+      { "id": "solo", "weight": 0.60 },
+      { "id": "people", "weight": 0.96 }
+    ],
+    "work_environment": [
+      { "id": "Writing / Communication Setting", "weight": 0.99 },
+      { "id": "Fast-Paced / High-Pressure", "weight": 0.90 },
+      { "id": "Client-Facing / Social", "weight": 0.88 },
+      { "id": "Office / Corporate Setting", "weight": 0.82 },
+      { "id": "Community / Public-Facing Setting", "weight": 0.80 }
+    ],
+    "work_locations": [
+      { "id": "Major City / Urban", "weight": 0.94 },
+      { "id": "East Coast", "weight": 0.78 },
+      { "id": "West Coast", "weight": 0.76 },
+      { "id": "Hybrid", "weight": 0.74 },
+      { "id": "Remote", "weight": 0.68 }
+    ],
+    "desired_outcomes": [
+      { "id": "Creative Expression / Communication", "weight": 0.96 },
+      { "id": "Cultural / Social Impact", "weight": 0.88 },
+      { "id": "Career Growth / Advancement", "weight": 0.84 },
+      { "id": "Leadership / Executive Path", "weight": 0.80 },
+      { "id": "Creative Freedom / Autonomy", "weight": 0.76 }
+    ],
+    "work_intensity": [
+      { "id": "Variable / Unpredictable Intensity — workload and hours can swing heavily", "weight": 0.90 },
+      { "id": "Moderately Demanding — ~40–50 hours, mentally demanding", "weight": 0.84 },
+      { "id": "High Intensity — ~50–60 hours, high workload and pressure", "weight": 0.78 },
+      { "id": "Seasonal / Periodic Intensity — normal most of the year, but major crunch periods", "weight": 0.70 },
+      { "id": "Standard / Moderate — around 40 hours, manageable challenge", "weight": 0.64 }
+    ],
+    "grad_or_no": [
+      { "id": "no_grad", "weight": 0.97 },
+      { "id": "yes_grad", "weight": 0.58 }
+    ],
+    "education_requirement": [
+      { "id": "bachelors", "weight": 0.98 },
+      { "id": "masters", "weight": 0.56 }
+    ],
+    "salary_band": [
+      { "id": "medium", "weight": 0.90 },
+      { "id": "medium_high", "weight": 0.80 }
+    ]
+  },
+  {
+    "id": "Arts & Creative Industries",
+    "major_interest": [
+      { "id": "Visual Arts", "weight": 0.98 },
+      { "id": "Studio Art", "weight": 0.97 },
+      { "id": "Performing Arts", "weight": 0.95 },
+      { "id": "Music", "weight": 0.93 },
+      { "id": "Photography", "weight": 0.90 }
+    ],
+    "desired_field": [
+      { "id": "Creative Arts & Design", "weight": 0.99 },
+      { "id": "Something within Humanities & Culture", "weight": 0.88 },
+      { "id": "Media Strategy & Public Communication", "weight": 0.74 },
+      { "id": "Writing, Editing & Publishing", "weight": 0.60 },
+      { "id": "Marketing & Advertising", "weight": 0.56 }
+    ],
+    "soft_skills": [
+      { "id": "Creativity", "weight": 0.99 },
+      { "id": "Visual Thinking", "weight": 0.94 },
+      { "id": "Openness to Feedback", "weight": 0.89 },
+      { "id": "Adaptability", "weight": 0.88 },
+      { "id": "Persistence", "weight": 0.86 }
+    ],
+    "hard_skills": [
+      { "id": "Content Production", "weight": 0.95 },
+      { "id": "Visual Storytelling", "weight": 0.94 },
+      { "id": "Graphic Design", "weight": 0.90 },
+      { "id": "Photography", "weight": 0.84 },
+      { "id": "Video Editing", "weight": 0.82 }
+    ],
+    "general_talents": [
+      { "id": "Creativity & Ideation", "weight": 0.99 },
+      { "id": "Designing & Art", "weight": 0.97 },
+      { "id": "Leadership & Decision Making", "weight": 0.82 },
+      { "id": "Adaptability & Learning Quickly", "weight": 0.80 },
+      { "id": "Hands-On / Mechanical Ability", "weight": 0.78 }
+    ],
+    "employee_type": [
+      { "id": "Creative / Idea-Driven", "weight": 0.99 },
+      { "id": "Flexible / Adaptable", "weight": 0.92 },
+      { "id": "Independent / Self-Directed", "weight": 0.88 },
+      { "id": "Collaborative / Team-Oriented", "weight": 0.84 },
+      { "id": "Leader / Manager", "weight": 0.76 }
+    ],
+    "solo_or_people": [
+      { "id": "solo", "weight": 0.78 },
+      { "id": "people", "weight": 0.78 }
+    ],
+    "work_environment": [
+      { "id": "Cultural / Arts-Oriented Setting", "weight": 0.99 },
+      { "id": "Flexible / Unstructured", "weight": 0.92 },
+      { "id": "Team-Based / Collaborative", "weight": 0.84 },
+      { "id": "Startup / Entrepreneurial Setting", "weight": 0.78 },
+      { "id": "Fast-Paced / High-Pressure", "weight": 0.76 }
+    ],
+    "work_locations": [
+      { "id": "Major City / Urban", "weight": 0.94 },
+      { "id": "West Coast", "weight": 0.84 },
+      { "id": "East Coast", "weight": 0.80 },
+      { "id": "Flexible / Anywhere", "weight": 0.74 },
+      { "id": "Remote", "weight": 0.64 }
+    ],
+    "desired_outcomes": [
+      { "id": "Creative Expression / Communication", "weight": 0.99 },
+      { "id": "Creative Freedom / Autonomy", "weight": 0.96 },
+      { "id": "Entrepreneurship / Start a Business", "weight": 0.84 },
+      { "id": "Cultural / Social Impact", "weight": 0.82 },
+      { "id": "Prestige / Competitive Career", "weight": 0.76 }
+    ],
+    "work_intensity": [
+      { "id": "Variable / Unpredictable Intensity — workload and hours can swing heavily", "weight": 0.92 },
+      { "id": "Seasonal / Periodic Intensity — normal most of the year, but major crunch periods", "weight": 0.86 },
+      { "id": "Moderately Demanding — ~40–50 hours, mentally demanding", "weight": 0.78 },
+      { "id": "High Intensity — ~50–60 hours, high workload and pressure", "weight": 0.70 },
+      { "id": "Standard / Moderate — around 40 hours, manageable challenge", "weight": 0.64 }
+    ],
+    "grad_or_no": [
+      { "id": "no_grad", "weight": 0.98 },
+      { "id": "yes_grad", "weight": 0.56 }
+    ],
+    "education_requirement": [
+      { "id": "bachelors", "weight": 0.84 },
+      { "id": "masters", "weight": 0.56 }
+    ],
+    "salary_band": [
+      { "id": "medium", "weight": 0.90 },
+      { "id": "medium_high", "weight": 0.64 }
+    ]
+  },
+  {
+    "id": "Social & Behavioral Sciences",
+    "major_interest": [
+      { "id": "Psychology", "weight": 0.99 },
+      { "id": "Sociology", "weight": 0.98 },
+      { "id": "Economics", "weight": 0.80 },
+      { "id": "Political Science", "weight": 0.72 },
+      { "id": "Data Science", "weight": 0.66 }
+    ],
+    "desired_field": [
+      { "id": "Human Behavior & Community Studies", "weight": 0.99 },
+      { "id": "Something within Humanities & Culture", "weight": 0.86 },
+      { "id": "Public Health", "weight": 0.78 },
+      { "id": "Economics & Public Policy", "weight": 0.74 },
+      { "id": "Science & Research", "weight": 0.68 }
+    ],
+    "soft_skills": [
+      { "id": "Critical Thinking", "weight": 0.98 },
+      { "id": "Empathy", "weight": 0.96 },
+      { "id": "Curiosity", "weight": 0.94 },
+      { "id": "Pattern Recognition", "weight": 0.90 },
+      { "id": "Cultural Awareness", "weight": 0.88 }
+    ],
+    "hard_skills": [
+      { "id": "Research Methods", "weight": 0.99 },
+      { "id": "Data Analysis", "weight": 0.95 },
+      { "id": "Interviewing", "weight": 0.92 },
+      { "id": "Statistical Modeling", "weight": 0.86 },
+      { "id": "Data Collection", "weight": 0.84 }
+    ],
+    "general_talents": [
+      { "id": "Empathy & Understanding People", "weight": 0.99 },
+      { "id": "Analysis & research", "weight": 0.97 },
+      { "id": "Observation & Pattern Recognition", "weight": 0.95 },
+      { "id": "Interpersonal & Relationship Building", "weight": 0.88 },
+      { "id": "Problem Solving", "weight": 0.82 }
+    ],
+    "employee_type": [
+      { "id": "Analytical / Detail-Oriented", "weight": 0.96 },
+      { "id": "People-Focused / Relationship-Driven", "weight": 0.94 },
+      { "id": "Collaborative / Team-Oriented", "weight": 0.86 },
+      { "id": "Strategic / Big-Picture", "weight": 0.80 },
+      { "id": "Independent / Self-Directed", "weight": 0.74 }
+    ],
+    "solo_or_people": [
+      { "id": "solo", "weight": 0.70 },
+      { "id": "people", "weight": 0.88 }
+    ],
+    "work_environment": [
+      { "id": "Research / Idea-Driven Setting", "weight": 0.94 },
+      { "id": "Community / Public-Facing Setting", "weight": 0.88 },
+      { "id": "Academic / Educational Setting", "weight": 0.84 },
+      { "id": "Healthcare / Clinical Setting", "weight": 0.76 },
+      { "id": "Office / Corporate Setting", "weight": 0.74 }
+    ],
+    "work_locations": [
+      { "id": "Major City / Urban", "weight": 0.86 },
+      { "id": "Flexible / Anywhere", "weight": 0.82 },
+      { "id": "Hybrid", "weight": 0.76 },
+      { "id": "Suburban", "weight": 0.70 },
+      { "id": "Remote", "weight": 0.64 }
+    ],
+    "desired_outcomes": [
+      { "id": "Impact-Driven / Meaningful Work", "weight": 0.97 },
+      { "id": "Intellectual Exploration / Lifelong Learning", "weight": 0.94 },
+      { "id": "Specialized Expertise / Become an Expert", "weight": 0.90 },
+      { "id": "Cultural / Social Impact", "weight": 0.88 },
+      { "id": "Education / People-Oriented Development", "weight": 0.74 }
+    ],
+    "work_intensity": [
+      { "id": "Moderately Demanding — ~40–50 hours, mentally demanding", "weight": 0.86 },
+      { "id": "Standard / Moderate — around 40 hours, manageable challenge", "weight": 0.82 },
+      { "id": "Variable / Unpredictable Intensity — workload and hours can swing heavily", "weight": 0.70 },
+      { "id": "High Intensity — ~50–60 hours, high workload and pressure", "weight": 0.60 }
+    ],
+    "grad_or_no": [
+      { "id": "yes_grad", "weight": 0.97 },
+      { "id": "no_grad", "weight": 0.72 }
+    ],
+    "education_requirement": [
+      { "id": "masters", "weight": 0.94 },
+      { "id": "bachelors", "weight": 0.80 }
+    ],
+    "salary_band": [
+      { "id": "medium_high", "weight": 0.86 },
+      { "id": "medium", "weight": 0.82 }
+    ]
+  },
+  {
+    "id": "Religion, Ministry & Spiritual Life",
+    "major_interest": [
+      { "id": "Theology", "weight": 0.99 },
+      { "id": "Philosophy", "weight": 0.88 },
+      { "id": "Psychology", "weight": 0.78 },
+      { "id": "Education", "weight": 0.72 },
+      { "id": "Sociology", "weight": 0.68 }
+    ],
+    "desired_field": [
+      { "id": "Faith, Ethics & Service", "weight": 0.99 },
+      { "id": "Something within Humanities & Culture", "weight": 0.90 },
+      { "id": "Human Behavior & Community Studies", "weight": 0.80 },
+      { "id": "Teaching, Learning & Student Development", "weight": 0.72 },
+      { "id": "Global Cultures & Diplomacy", "weight": 0.64 }
+    ],
+    "soft_skills": [
+      { "id": "Empathy", "weight": 0.99 },
+      { "id": "Active Listening", "weight": 0.97 },
+      { "id": "Communication", "weight": 0.94 },
+      { "id": "Cultural Awareness", "weight": 0.90 },
+      { "id": "Leadership", "weight": 0.86 }
+    ],
+    "hard_skills": [
+      { "id": "Theology", "weight": 0.99 },
+      { "id": "Public Speaking", "weight": 0.95 },
+      { "id": "Learning Program Design", "weight": 0.90 },
+      { "id": "Philosophy", "weight": 0.86 },
+      { "id": "Cultural Analysis", "weight": 0.82 }
+    ],
+    "general_talents": [
+      { "id": "Empathy & Understanding People", "weight": 0.99 },
+      { "id": "Teaching & Mentoring", "weight": 0.96 },
+      { "id": "Interpersonal & Relationship Building", "weight": 0.95 },
+      { "id": "Public speaking & persuasion", "weight": 0.90 },
+      { "id": "Leadership & Decision Making", "weight": 0.86 }
+    ],
+    "employee_type": [
+      { "id": "People-Focused / Relationship-Driven", "weight": 0.99 },
+      { "id": "Leader / Manager", "weight": 0.92 },
+      { "id": "Collaborative / Team-Oriented", "weight": 0.89 },
+      { "id": "Strategic / Big-Picture", "weight": 0.80 },
+      { "id": "Structured / Process-Driven", "weight": 0.70 }
+    ],
+    "solo_or_people": [
+      { "id": "solo", "weight": 0.58 },
+      { "id": "people", "weight": 0.99 }
+    ],
+    "work_environment": [
+      { "id": "Community / Public-Facing Setting", "weight": 0.99 },
+      { "id": "Academic / Educational Setting", "weight": 0.84 },
+      { "id": "Cultural / Arts-Oriented Setting", "weight": 0.80 },
+      { "id": "Team-Based / Collaborative", "weight": 0.78 },
+      { "id": "Healthcare / Clinical Setting", "weight": 0.62 }
+    ],
+    "work_locations": [
+      { "id": "Flexible / Anywhere", "weight": 0.86 },
+      { "id": "Suburban", "weight": 0.78 },
+      { "id": "Major City / Urban", "weight": 0.76 },
+      { "id": "Rural", "weight": 0.72 },
+      { "id": "International", "weight": 0.62 }
+    ],
+    "desired_outcomes": [
+      { "id": "Impact-Driven / Meaningful Work", "weight": 0.99 },
+      { "id": "Cultural / Social Impact", "weight": 0.94 },
+      { "id": "Education / People-Oriented Development", "weight": 0.90 },
+      { "id": "Intellectual Exploration / Lifelong Learning", "weight": 0.80 },
+      { "id": "Leadership / Executive Path", "weight": 0.72 }
+    ],
+    "work_intensity": [
+      { "id": "Variable / Unpredictable Intensity — workload and hours can swing heavily", "weight": 0.88 },
+      { "id": "Standard / Moderate — around 40 hours, manageable challenge", "weight": 0.78 },
+      { "id": "Moderately Demanding — ~40–50 hours, mentally demanding", "weight": 0.76 },
+      { "id": "Seasonal / Periodic Intensity — normal most of the year, but major crunch periods", "weight": 0.72 },
+      { "id": "High Intensity — ~50–60 hours, high workload and pressure", "weight": 0.58 }
+    ],
+    "grad_or_no": [
+      { "id": "yes_grad", "weight": 0.88 },
+      { "id": "no_grad", "weight": 0.74 }
+    ],
+    "education_requirement": [
+      { "id": "masters", "weight": 0.88 },
+      { "id": "bachelors", "weight": 0.80 }
+    ],
+    "salary_band": [
+      { "id": "medium", "weight": 0.94 },
+      { "id": "medium_high", "weight": 0.56 }
+    ]
+  }
+]
+
+
+
+
