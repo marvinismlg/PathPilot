@@ -28,24 +28,27 @@ export async function GET(request: Request) {
     );
   }
 
-  if (tokenHash && type) {
-    const { error } = await supabase.auth.verifyOtp({
-      token_hash: tokenHash,
-      type,
-    });
+if (tokenHash && type) {
+  const { data, error } = await supabase.auth.verifyOtp({
+    token_hash: tokenHash,
+    type,
+  });
 
-    if (error) {
-      console.error("Email confirmation error:", error.message);
-
-      return NextResponse.redirect(
-        new URL("/login?error=email_confirmation_failed", url.origin)
-      );
-    }
+  if (error || !data.session) {
+    console.error(
+      "Email confirmation error:",
+      error?.message ?? "No session returned"
+    );
 
     return NextResponse.redirect(
-      new URL("/auth/continue", url.origin)
+      new URL("/login?error=email_confirmation_failed", url.origin)
     );
   }
+
+  return NextResponse.redirect(
+    new URL("/profile_build", url.origin)
+  );
+}
 
   return NextResponse.redirect(
     new URL("/login?error=missing_auth_parameters", url.origin)
