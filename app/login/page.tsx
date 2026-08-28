@@ -29,10 +29,10 @@ const turnstileRef = useRef<TurnstileInstance | null>(null);
     .toLowerCase();
   const password = String(formData.get("password"));
 
-  if (!email.endsWith(".edu")) {
-    setErrorMessage("Please use your .edu email address.");
-    return;
-  }
+if (!email.endsWith(".edu")) {
+  setErrorMessage("Please use your .edu email address.");
+  return;
+}
 
   if (!captchaToken) {
     setErrorMessage("Please complete the security verification.");
@@ -115,14 +115,14 @@ const turnstileRef = useRef<TurnstileInstance | null>(null);
             <form onSubmit={handleEmailLogin} className="space-y-5">
               <label className="block">
                 <span className="text-xs font-bold uppercase tracking-[0.08em] text-[#444444]">
-                  School email
+                  Email
                 </span>
 
                 <input
                   required
                   type="email"
                   name="email"
-                  placeholder="student@loyola.edu"
+                  placeholder="you@example.com"
                   className="mt-2 w-full border border-[#AEB4BB] bg-white px-4 py-3 text-base outline-none placeholder:text-[#9299A2] focus:border-[#111111]"
                 />
               </label>
