@@ -38,7 +38,7 @@ export default function HomePage() {
               </Link>
 
               <a
-                href="/features"
+                href="/career_angles"
                 className="inline-flex items-center justify-center border border-[#8D8D8D] bg-white px-6 py-3 text-[15px] font-bold text-[#0000CC] underline underline-offset-2"
               >
                 See Career Angles
