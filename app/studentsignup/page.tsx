@@ -16,87 +16,87 @@ const turnstileRef = useRef<TurnstileInstance | null>(null);
   const [successMessage, setSuccessMessage] = useState("");
   const [loading, setLoading] = useState(false);
   
-  async function handleEmailSignup(
-    event: FormEvent<HTMLFormElement>
-  ) {
-    event.preventDefault();
-    setErrorMessage("");
-    setSuccessMessage("");
-
-    const formData = new FormData(event.currentTarget);
-    const email = String(formData.get("email"))
-      .trim()
-      .toLowerCase();
-    const password = String(formData.get("password"));
-
-    if (!email.endsWith(".edu")) {
-      setErrorMessage("Please use a valid .edu email address.");
-      return;
-    }
-const hasMinimumLength = password.length >= 12;
-const hasLowercase = /[a-z]/.test(password);
-const hasUppercase = /[A-Z]/.test(password);
-const hasNumber = /[0-9]/.test(password);
-const hasSymbol = /[^A-Za-z0-9]/.test(password);
-if (!captchaToken) {
-  setErrorMessage("Please compl.");
-  return;
-}
-if (
-  !hasMinimumLength ||
-  !hasLowercase ||
-  !hasUppercase ||
-  !hasNumber ||
-  !hasSymbol
+async function handleEmailSignup(
+  event: FormEvent<HTMLFormElement>
 ) {
-  setErrorMessage(
-    "Password must be at least 12 characters and include uppercase, lowercase, a number, and a symbol."
-  );
-  return;
-}
-    if (password.length < 8) {
-      setErrorMessage("Your password must contain at least 8 characters.");
-      return;
-    }
+  event.preventDefault();
+  setErrorMessage("");
+  setSuccessMessage("");
 
-    setLoading(true);
+  const formData = new FormData(event.currentTarget);
+  const email = String(formData.get("email"))
+    .trim()
+    .toLowerCase();
+  const password = String(formData.get("password"));
 
-    const supabase = createClient();
+  if (!email.endsWith(".edu")) {
+    setErrorMessage("Please use a valid .edu email address.");
+    return;
+  }
 
-const { data, error } = await supabase.auth.signUp({
-  email,
-  password,
-  options: {
-    emailRedirectTo: `${window.location.origin}/auth/callback`,
-    captchaToken,
-  },
-});
-turnstileRef.current?.reset();
-setCaptchaToken(null);
-if (data.session) {
-  window.location.href = "/profile_build";
-  return;
-}
+  const hasMinimumLength = password.length >= 12;
+  const hasLowercase = /[a-z]/.test(password);
+  const hasUppercase = /[A-Z]/.test(password);
+  const hasNumber = /[0-9]/.test(password);
+  const hasSymbol = /[^A-Za-z0-9]/.test(password);
 
-setSuccessMessage(
-  "Check your email and verify your account before signing in."
-);
-    setLoading(false);
+  if (
+    !hasMinimumLength ||
+    !hasLowercase ||
+    !hasUppercase ||
+    !hasNumber ||
+    !hasSymbol
+  ) {
+    setErrorMessage(
+      "Password must be at least 12 characters and include uppercase, lowercase, a number, and a symbol."
+    );
+    return;
+  }
+
+  if (!captchaToken) {
+    setErrorMessage("Please complete the security verification.");
+    return;
+  }
+
+  setLoading(true);
+
+  const supabase = createClient();
+
+  try {
+    const { data, error } = await supabase.auth.signUp({
+      email,
+      password,
+      options: {
+        emailRedirectTo: `${window.location.origin}/auth/callback`,
+        captchaToken,
+      },
+    });
 
     if (error) {
+      setSuccessMessage("");
       setErrorMessage(error.message);
       return;
     }
 
     if (data.session) {
-      window.location.href = "/";
+      window.location.href = "/auth/continue";
       return;
     }
 
     setSuccessMessage(
-      "Check your .edu inbox/junk mail and click the confirmation link."
+      "Check your .edu inbox or junk mail and click the confirmation link."
     );
+  } catch {
+    setSuccessMessage("");
+    setErrorMessage(
+      "Unable to create your account. Please try again."
+    );
+  } finally {
+    turnstileRef.current?.reset();
+    setCaptchaToken(null);
+    setLoading(false);
   }
+}
 
   async function handleGoogleSignup() {
     setErrorMessage("");
